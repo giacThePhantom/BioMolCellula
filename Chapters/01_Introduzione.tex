@@ -1,0 +1,51 @@
+\chapter{Introduzione}
+\section{Microscopia}
+I microscopi possono essere divisi in due categorie principali: i microscopi ottici (composti, semplici o a fluorescenza) e i microscopi elettronici. Mentre
+i primi utilizzano la luce e lenti ingrandenti i secondi utilizzano fasci di elettroni direzionati attraverso campi magnetici. Diverse tecniche di 
+microscopia elettronica includono trascrizione, sezione, freeze fracture e scansione. I microscopi elettronici generano immagini unicamente in bianco e nero
+e si rende pertanto necessario utilizzare dei falsi colori in un secondo momento, ma hanno come vantaggio una maggiore risoluzione delle immagini. Per un
+microscopio ottico l'ingrandimento dell'immagine \`e dato dall'ingrandimento dell'obiettivo moltiplicato per l'ingrandimento degli eye-pieces: 
+$$M_{microscope} = M_{objective}\cdot M_{eyepieces}$$
+\subsection{Risoluzione}
+La risoluzione di un immagine \`e una misura del dettaglio che essa contiene e se attraverso tecniche digitali l'ingrandimento \`e illimitato la risoluzione
+no. Si indica con risoluzione la minor distanza tra due punti che possono essere distinti come separati. La risoluzione dipende da parametri del'utente 
+finale e da parametri fisici. 
+\subsubsection{Parametri fisici}
+I parametri fisici che determinano la risoluzione sono:
+\begin{itemize}
+\item Il corretto allineamento del sistema ottico del microscopio.
+\item La lunghezza d'onda della luce ($\lambda$): maggiore la lunghezza d'onda minore la risoluzione.
+\item L'apertura numerica (NA) dell'obiettivo e del condensatore. Questo parametro indica la capacit\`a di un obiettivo di raccogliere luce e risolvere 
+dettagli ad una distanza fissata dall'oggetto. Dipende dall'ingrandimento e dall'indice di rifrazione del medium tra microscopio e oggetto (aria, acqua, 
+olio). Maggiore l'indice di rifrazione maggiore il numero di apertura e maggiore la risoluzione.
+\end{itemize}
+\subsection{Tecniche di microscopia ottica}
+\subsubsection{Microscopia a cambio di fase}
+Nella microscopia a cambio di fase viene sfruttato lo shift di fase della luce quando attraversa il corpo che si vuole osservare. L'interpretazione dello 
+shift d\`a origine a diverse possibili considerazioni sull'oggetto.
+\subsubsection{Microscopia a fluorescenza}
+La microscopia a fluorescenza sfrutta il fenomeno della fluorescenza: certe molecole, quando colpite da certe lunghezze d'onda, si eccitano. Successivamente
+quando la molecola ritorna dallo stato eccitato a quello basale emette a sua volta un'onda luminosa di lunghezza d'onda maggiore di quella con cui era
+stata colpita (legge di Stokes). Per questa tecnica vengono tipicamente utilizzate delle proteine come GFP (green fluorescent protein), YFP, CFP tipicamente
+estratte da organismi (nel caso della GFP da una medusa) che permettono pertanto la loro codifica nel DNA della cellula. Queste proteine vengono aggiunte ad
+una proteina in modo da riuscire ad osservarne il comportamento. Si deve prestare attenzione al fatto che per massa o struttura questa aggiunta potrebbe 
+creare una variazione in comportamento della proteina oggetto di studio. I fattori essenziali per la microscopia a fluorescenza sono:
+\begin{itemize}
+\item Eccitazione di alta intensit\`a.
+\item Filtri di eccitazione e emissione appropriati.
+\item Autoflorescenza minima nell'oggetto di studio.
+\item Utilizzo di un olio di immersione non fluorescente. 
+\item Antifade reagents.
+\end{itemize}
+Questa tecnica permette pertanto di osservare proteine in cellule vive a differenza dell'antibody staining. Un'importante applicazione \`e 
+l'immunoistochimica.
+\paragraph{FRET}
+Le tecnica FRET si utilizza per determinare la prossimit\`a di due diverse proteine: si attaccano ad esse due molecole fluorescenti tali che l'emissione 
+della prima eccita la seconda, che a sua volta emette luce. Se questo accade si \`e dimostrato che le due proteine sono vicine.
+\paragraph{Photobleach}
+Questa tecnica viene utilizzata per mostrare la velocit\`a di movimento di una proteina della cellula: si trova una cellula di controllo e quella oggetto di 
+studio entrambe con la proteina fluorescente. La seconda viene sottoposta ad un raggio ad alta potenza (photoactivation) che distrugge la parte fluorescente
+della proteina. Si osserva ora la velocit\`a con cui la luminescenza torna nella zona colpita, confrontandola con la cellula di controllo e si crea il grafo
+di velocit\`a di movimento della proteina.
+\section{Dogma centrale della biologia molecolare}
+$$DNA\xrightarrow[\leftarrow]{}mRNA\rightarrow proteina$$
