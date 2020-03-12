@@ -1,20 +1,41 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione}{2}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Microscopia}{2}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Risoluzione}{2}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Parametri fisici}{2}{section*.2}% 
-\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia ottica}{3}{subsection.1.1.2}% 
-\contentsline {subsubsection}{Microscopia a cambio di fase}{3}{section*.3}% 
-\contentsline {subsubsection}{Microscopia a fluorescenza}{3}{section*.4}% 
-\contentsline {paragraph}{FRET}{3}{section*.5}% 
-\contentsline {paragraph}{Photobleach}{3}{section*.6}% 
-\contentsline {section}{\numberline {1.2}Storia}{3}{section.1.2}% 
-\contentsline {chapter}{\numberline {2}Cellule e genomi}{5}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Caratteristiche universali della vita sulla Terra}{5}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Tutte le cellule conservano la loro informazione ereditaria nello stesso codice chimico lineare (DNA)}{5}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Tutte le cellule replicano la loro informazione ereditaria mediante polimerizzazione su uno stampo}{6}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{6}{subsection.2.1.3}% 
-\contentsline {subsection}{\numberline {2.1.4}Tutte le cellule usano proteine come catalizzatori}{7}{subsection.2.1.4}% 
-\contentsline {subsection}{\numberline {2.1.5}Tutte le cellule traducono RNA nello stesso modo}{7}{subsection.2.1.5}% 
-\contentsline {subsection}{\numberline {2.1.6}Il frammento di informazione genica che corrisponde ad una proteina \`e un gene}{7}{subsection.2.1.6}% 
+\contentsline {chapter}{\numberline {1}Introduzione}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Microscopia}{3}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Risoluzione}{3}{subsection.1.1.1}% 
+\contentsline {subsubsection}{Parametri fisici}{3}{section*.2}% 
+\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia ottica}{4}{subsection.1.1.2}% 
+\contentsline {subsubsection}{Microscopia a cambio di fase}{4}{section*.3}% 
+\contentsline {subsubsection}{Microscopia a fluorescenza}{4}{section*.4}% 
+\contentsline {paragraph}{FRET}{4}{section*.5}% 
+\contentsline {paragraph}{Photobleach}{4}{section*.6}% 
+\contentsline {section}{\numberline {1.2}Storia}{4}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Cellule e genomi}{6}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Caratteristiche universali della vita sulla Terra}{6}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Tutte le cellule conservano la loro informazione ereditaria nello stesso codice chimico lineare (DNA)}{6}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Tutte le cellule replicano la loro informazione ereditaria mediante polimerizzazione su uno stampo}{7}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{7}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}Tutte le cellule usano proteine come catalizzatori}{8}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.5}Tutte le cellule traducono RNA nello stesso modo}{8}{subsection.2.1.5}% 
+\contentsline {subsection}{\numberline {2.1.6}Il frammento di informazione genica che corrisponde ad una proteina \`e un gene}{8}{subsection.2.1.6}% 
+\contentsline {subsection}{\numberline {2.1.7}La vita richiede energia libera}{9}{subsection.2.1.7}% 
+\contentsline {subsection}{\numberline {2.1.8}Tutte le cellule funzionano come fabbriche biochimiche che impiegano le stesse strutture molecolare base}{9}{subsection.2.1.8}% 
+\contentsline {subsection}{\numberline {2.1.9}Tutte le cellule sono chiuse in una membrana plasmatica attraverso la quale nutrienti e materiali di scarto devono passare}{9}{subsection.2.1.9}% 
+\contentsline {section}{\numberline {2.2}La diversit\`a dei genomi e l'albero della vita}{9}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Le cellule possono ottenere energia da una variet\`a di fonti di energia libera}{9}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Alcune cellule fissano azoto e anidride caronica per altre}{10}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}La pi\`u grande diverit\`a biochimica esiste tra le cellule procariote}{10}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}L'albero della vita possiede tre rami principali: Batteri, Archei ed Eucarioti}{10}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.5}Alcuni geni evolvono rapidamente, altri sono altamente conservati}{10}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.6}Nuovi geni sono generati da geni preesistenti}{11}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.7}La duplicazione genica permette la creazione di famiglie di geni imparentati in una stessa cellula}{11}{subsection.2.2.7}% 
+\contentsline {subsection}{\numberline {2.2.8}I geni possono essere trasferiti tra organismi}{11}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.9}Molti geni sono comuni tra tutti i rami primari dell'albero della vita}{12}{subsection.2.2.9}% 
+\contentsline {subsection}{\numberline {2.2.10}Le mutazioni rivelano la funzione dei geni}{12}{subsection.2.2.10}% 
+\contentsline {section}{\numberline {2.3}Informazione genetica negli eucarioti}{12}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Le cellule eucariote potrebbero essersi originate come predatori}{12}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Le moderne cellule eucariote si sono evolute da una simbiosi}{12}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Gli eucarioti possiedono genomi ibridi}{13}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}I genomi eucatiori sono grandi}{13}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Il genoma definisce il programma dello sviluppo multicellulare}{13}{subsection.2.3.5}% 
+\contentsline {subsection}{\numberline {2.3.6}Molti eucarioti vivono come cellule solitarie}{13}{subsection.2.3.6}% 
