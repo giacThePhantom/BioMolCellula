@@ -44,3 +44,19 @@
 \contentsline {subsection}{\numberline {3.1.1}L'acqua \`e mantenuta da legami a idroeno}{15}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}Quattro tipi di attrazione non covalente aiuta a unire le molecole nelle cellule}{15}{subsection.3.1.2}% 
 \contentsline {subsection}{\numberline {3.1.3}Alcune molecole polari formano acidi e basi in acqua}{16}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}La cellula \`e formata da composti di carbonio}{16}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}Le cellule contengono quattro principali famiglie di piccole molecole organiche}{16}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}La chimica della cellula \`e dominata da macromolecole con propriet\`a notevoli}{17}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.7}I legami non covalenti specificano la forma di una macromolecola e i suoi legami con le atre molecole}{17}{subsection.3.1.7}% 
+\contentsline {section}{\numberline {3.2}Catalisi e utilizzo dell'energia da parte delle cellule}{17}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Il metabolismo della cellula \`e organizzato dagli enzimi}{17}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}L'ordine biologico \`e reso possibile dal rilascio di calore dalla cellula}{18}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Le cellule ottengono energia ossidando molecole organiche}{18}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}Ossidazione e riduzione coinvolgono il trasferimento di elettroni}{18}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.5}Gli enzimi abbassano la barriera di energia di attivazione che blocca la reazione chimica}{18}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.6}Gli enzimi possono guidare i substrati lungo specifici cammini di reazioni}{19}{subsection.3.2.6}% 
+\contentsline {subsection}{\numberline {3.2.7}Come gli enzimi trovano i loro substrati, la rapidit\`a dei movimenti molecolari}{19}{subsection.3.2.7}% 
+\contentsline {subsection}{\numberline {3.2.8}Il cambio di energia libera di una reazione determina se pu\`o avvenire spontaneamente}{19}{subsection.3.2.8}% 
+\contentsline {chapter}{\numberline {4}Proteine}{21}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{22}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{22}{section.5.1}% 
