@@ -64,6 +64,14 @@
 \contentsline {subsection}{\numberline {3.2.13}La sintesi di polimeri biologici \`e guidata dall'idrolisi dell'\ce {ATP}}{21}{subsection.3.2.13}% 
 \contentsline {section}{\numberline {3.3}Come le cellule ottengono energia dai nutrienti}{22}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}La glicolisi \`e un cammino centrale per produrre \ce {ATP}}{22}{subsection.3.3.1}% 
-\contentsline {chapter}{\numberline {4}Proteine}{23}{chapter.4}% 
-\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{24}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{24}{section.5.1}% 
+\contentsline {subsection}{\numberline {3.3.2}La fermentazione produce \ce {ATP} in assenza di ossigeno}{22}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}La glicolisi mostra come gli enzimi accoppiano l'ossidazione alla conservazione di energia}{22}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Gli organismi conservano le molecole nutrienti in serbatoi speciali}{23}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.5}Zuccheri e acidi grassi sono degradati in acetile \ce {CoA} nei mitocondri}{23}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}Il ciclo di acido citrico genera \ce {NADH} ossidando i gruppi acetili in \ce {CO2}}{23}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3.3.7}Il trasporto di elettroni guida la sintesi della maggori parte dell'\ce {ATP} nelle cellule}{24}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.3.8}Amminoacidi e nucleotidi sono parte del ciclo azotato}{24}{subsection.3.3.8}% 
+\contentsline {subsection}{\numberline {3.3.9}Il metabolismo \`e altamente organizzato e regolato}{24}{subsection.3.3.9}% 
+\contentsline {chapter}{\numberline {4}Proteine}{25}{chapter.4}% 
+\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{26}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{26}{section.5.1}% 
