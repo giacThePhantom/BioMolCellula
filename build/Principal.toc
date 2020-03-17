@@ -86,5 +86,21 @@
 \contentsline {subsection}{\numberline {4.1.11}Molte proteine hanno forme allungate e fibrose}{29}{subsection.4.1.11}% 
 \contentsline {subsection}{\numberline {4.1.12}Le proteine contengono una grande quantit\`a di catene polipeptidiche intrinsicamente disordinate}{29}{subsection.4.1.12}% 
 \contentsline {subsection}{\numberline {4.1.13}Legami incrociati covalenti stabilizzano proteine extracellulari}{29}{subsection.4.1.13}% 
-\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{30}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{30}{section.5.1}% 
+\contentsline {subsection}{\numberline {4.1.14}Le molecole proteiche spesso svolgono la funzione di subunit\`a per l'assemblagtgio di grandi strutture}{30}{subsection.4.1.14}% 
+\contentsline {subsection}{\numberline {4.1.15}I fattori di assemblaggio aiutano la formazione di complesse strutture biologiche}{30}{subsection.4.1.15}% 
+\contentsline {subsection}{\numberline {4.1.16}Fibrille amiloide possono formarsi da molte proteine}{30}{subsection.4.1.16}% 
+\contentsline {subsection}{\numberline {4.1.17}Molte proteine contengono domini a bassa complessit\`a che possono formare amiloidi reversibili}{31}{subsection.4.1.17}% 
+\contentsline {section}{\numberline {4.2}Funzione delle proteine}{31}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Tutte le proteine si legano ad altre molecole}{31}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}La conformazione superficiale di una proteina determina la sua chimica}{31}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}La comparazione di sottosequenze tra membri di una famiglia proteica evidenzia i siti di legame cruciali}{32}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Le proteine si legano con altre proteine attraverso molti tipi di interfacce}{32}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}I siti di legame degli anticorpi sono estremamente versatili}{32}{subsection.4.2.5}% 
+\contentsline {subsection}{\numberline {4.2.6}La costante di equilibrio misura la forza di legame}{32}{subsection.4.2.6}% 
+\contentsline {subsection}{\numberline {4.2.7}Gli enzimi sono catalizzatori potenti e molto specifici}{33}{subsection.4.2.7}% 
+\contentsline {subsection}{\numberline {4.2.8}Il legame con il substrato \`e il primo passo nella catalisi enzimatica}{33}{subsection.4.2.8}% 
+\contentsline {subsection}{\numberline {4.2.9}Gli enzimi velocizzano la reazione stabilizzando selettivamente stati transitivi}{33}{subsection.4.2.9}% 
+\contentsline {subsection}{\numberline {4.2.10}Gli enzimi possono usare simultaneamente catalizzatori acidi e basici}{33}{subsection.4.2.10}% 
+\contentsline {subsection}{\numberline {4.2.11}Il lisozima illustra come un enzima funziona}{34}{subsection.4.2.11}% 
+\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{35}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{35}{section.5.1}% 

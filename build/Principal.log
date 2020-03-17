@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  17 MAR 2020 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  17 MAR 2020 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1674,9 +1674,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
 
-[27] [28]) (./Chapters/05_DNACromosomiGenoma.tex [29]
+[27] [28] [29] [30] [31] [32]
+
+LaTeX Warning: Command \r invalid in math mode on input line 194.
+
+[33]) (./Chapters/05_DNACromosomiGenoma.tex [34]
 Capitolo 5.
-) [30
+) [35
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
@@ -1688,10 +1692,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47429 strings out of 492615
- 1045573 string characters out of 6131391
- 1235986 words of memory out of 5000000
- 50556 multiletter control sequences out of 15000+600000
+ 47466 strings out of 492615
+ 1046154 string characters out of 6131391
+ 1236990 words of memory out of 5000000
+ 50572 multiletter control sequences out of 15000+600000
  547194 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,19n,111p,816b,907s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1712,10 +1716,10 @@ dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1000.pfb>
-Output written on ./build/Principal.pdf (31 pages, 284196 bytes).
+Output written on ./build/Principal.pdf (36 pages, 300623 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 621 compressed objects within 7 object streams
- 121 named destinations out of 1000 (max. 500000)
- 677 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 785 PDF objects out of 1000 (max. 8388607)
+ 722 compressed objects within 8 object streams
+ 142 named destinations out of 1000 (max. 500000)
+ 805 words of extra memory for PDF output out of 10000 (max. 10000000)
 
