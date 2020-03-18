@@ -125,3 +125,7 @@
 \contentsline {subsection}{\numberline {4.2.32}Una complessa rete di interazioni proteiche sottosta alle funzioni della cellula}{40}{subsection.4.2.32}% 
 \contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{42}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{42}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Una molecola di DNA consiste di due catene di nucleotidi complementari}{42}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}La struttura del DNA mette a disposizione un meccanismo per l'ereditariet\`a}{43}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Negli eucarioti il DNA \`e racchiuso nel nucleo cellulare}{43}{subsection.5.1.3}% 
+\contentsline {section}{\numberline {5.2}DNA cromosomico e il suo confezionamento nella fibra cromatina}{43}{section.5.2}% 
