@@ -153,3 +153,26 @@
 \contentsline {section}{\numberline {5.4}La struttura globale dei cromosomi}{50}{section.5.4}% 
 \contentsline {subsection}{\numberline {5.4.1}I cromosomi sono piegati in grandi anelli di cromatina}{50}{subsection.5.4.1}% 
 \contentsline {subsection}{\numberline {5.4.2}Cromosomi politene sono utili per visualizzare le strutture di cromatina}{50}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.3}Esistono multiple forme di cromatina}{51}{subsection.5.4.3}% 
+\contentsline {subsection}{\numberline {5.4.4}Gli anelli di cromatina decondensano quando i geni al loro interno sono espressi}{51}{subsection.5.4.4}% 
+\contentsline {subsection}{\numberline {5.4.5}La cromatina pu\`o muoversi a siti specifici nel nucleo per alterare l'espressione dei geni}{51}{subsection.5.4.5}% 
+\contentsline {subsection}{\numberline {5.4.6}Reti di macromolecole formano un insieme di ambienti biochimici distinti nel nucleo}{52}{subsection.5.4.6}% 
+\contentsline {subsection}{\numberline {5.4.7}I cromosomi mitotici sono altamente condensati}{52}{subsection.5.4.7}% 
+\contentsline {section}{\numberline {5.5}Come si evolvono i genomi}{52}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}Il confronto tra i genomi rivela sequenze di DNA attraverso la loro evoluzione del throughput di evoluzione}{53}{subsection.5.5.1}% 
+\contentsline {subsection}{\numberline {5.5.2}L'alterazione dei genomi \`e causata da fallimento del normale meccanismo per la copia e il mantenimento del DNA e da elementi del DNA trasponibili}{53}{subsection.5.5.2}% 
+\contentsline {subsection}{\numberline {5.5.3}La sequenza genomica di due specie differisce in proporzione al tempo in cui si sono evolute separatamente}{53}{subsection.5.5.3}% 
+\contentsline {subsection}{\numberline {5.5.4}L'albero filogenetico costruito dal confronto delle sequenze di DNA traccia le relazioni di tutti gli organismi}{53}{subsection.5.5.4}% 
+\contentsline {subsection}{\numberline {5.5.5}Un confronto tra cromosomi umani e dei topi mostra come la struttura dei genomi diverge}{54}{subsection.5.5.5}% 
+\contentsline {subsection}{\numberline {5.5.6}La dimensione del genoma dei vertebrati riflette i tassi relativi di addizione e perdita del DNA in un lignaggio}{54}{subsection.5.5.6}% 
+\contentsline {subsection}{\numberline {5.5.7}Si pu\`o inferire la sequenza di alcuni genomi antichi}{54}{subsection.5.5.7}% 
+\contentsline {subsection}{\numberline {5.5.8}Il confronto tra sequenze multispecie identifica sequenze di DNA conservato di funzione sconosciuta}{55}{subsection.5.5.8}% 
+\contentsline {subsection}{\numberline {5.5.9}Cambi in sequenze precedentemente conservate possono aiutare a decifrare passi critici dell'evoluzione}{55}{subsection.5.5.9}% 
+\contentsline {subsection}{\numberline {5.5.10}Mutazioni nella sequenza di DNA che controlla l'espressione genica ha guitato molti dei cambi evolutivi nei vertebrati}{55}{subsection.5.5.10}% 
+\contentsline {subsection}{\numberline {5.5.11}La duplicazione genica fornisce una fonte di novit\`a genica durante l'evoluzione}{55}{subsection.5.5.11}% 
+\contentsline {subsection}{\numberline {5.5.12}Geni duplicati divergono}{56}{subsection.5.5.12}% 
+\contentsline {subsection}{\numberline {5.5.13}L'evoluzione del gene globina mostra come la duplicazione del DNA contribuisce all'evoluzione degli organismi}{56}{subsection.5.5.13}% 
+\contentsline {subsection}{\numberline {5.5.14}I geni che codificano nuove proteine possono essere creati ricombinando gli esoni}{56}{subsection.5.5.14}% 
+\contentsline {subsection}{\numberline {5.5.15}Mutazioni neutrali si diffondono divendando fissate in una popolazione, con probabilit\`a dipendente dalla dimensione della popolazione}{57}{subsection.5.5.15}% 
+\contentsline {subsection}{\numberline {5.5.16}Molto pu\`o essere imparato dall'analisi della variazione tra gli umani}{57}{subsection.5.5.16}% 
+\contentsline {chapter}{\numberline {6}Replicazione, riparazione e ricombinazione del DNA}{59}{chapter.6}% 
