@@ -189,3 +189,6 @@
 \contentsline {subsection}{\numberline {6.2.7}Un anello che scivola mantiene una DNA polimerasi in movimento sul DNA}{63}{subsection.6.2.7}% 
 \contentsline {subsection}{\numberline {6.2.8}Le proteine a una forcella di replicazione cooperano per formare una macchina di replicazione}{64}{subsection.6.2.8}% 
 \contentsline {subsection}{\numberline {6.2.9}Un sistema di riparazione direzionato al filamento rimuove gli errori di replicazione che sfuggono alla macchina di replicazione}{64}{subsection.6.2.9}% 
+\contentsline {subsection}{\numberline {6.2.10}La DNA topoisomerasi impedisce l'ingarbugliamento del DNA durante la replicazione}{64}{subsection.6.2.10}% 
+\contentsline {subsection}{\numberline {6.2.11}La replicazione del DNA \`e fondalmente simile in eucarioti e batteri}{65}{subsection.6.2.11}% 
+\contentsline {section}{\numberline {6.3}Inizializzazione e completamento della replicazione del DNA nei cromosomi}{65}{section.6.3}% 
