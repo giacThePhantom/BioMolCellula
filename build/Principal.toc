@@ -192,3 +192,25 @@
 \contentsline {subsection}{\numberline {6.2.10}La DNA topoisomerasi impedisce l'ingarbugliamento del DNA durante la replicazione}{64}{subsection.6.2.10}% 
 \contentsline {subsection}{\numberline {6.2.11}La replicazione del DNA \`e fondalmente simile in eucarioti e batteri}{65}{subsection.6.2.11}% 
 \contentsline {section}{\numberline {6.3}Inizializzazione e completamento della replicazione del DNA nei cromosomi}{65}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}La sintesi del DNA inizia alle origini di replicazione}{65}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}I cromosomi batterici hanno un origine singola per la replicazione}{65}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}I cromosomi eucariotici contengono multiple origini di replicazione}{66}{subsection.6.3.3}% 
+\contentsline {subsection}{\numberline {6.3.4}Negli eucarioti la replicazione del DNA avviene durante un'unica parte del ciclo vitale della cellula}{66}{subsection.6.3.4}% 
+\contentsline {subsection}{\numberline {6.3.5}Diverse regioni dello stesso cromosoma si replicano a tempi distinti durante la fase S}{66}{subsection.6.3.5}% 
+\contentsline {subsection}{\numberline {6.3.6}Un grande complesso multisubunit\`a si lega alle origini di replicazione eucariotiche}{66}{subsection.6.3.6}% 
+\contentsline {subsection}{\numberline {6.3.7}Nuovi nucleosomi sno assemblati in coda alla forcella di replicazione}{67}{subsection.6.3.7}% 
+\contentsline {subsubsection}{la telomerasi remplica la fine dei cromosomi}{67}{section*.8}% 
+\contentsline {subsection}{\numberline {6.3.8}I telomeri sono condensati in strutture specializzate che proteggono la fine dei cromosomi}{67}{subsection.6.3.8}% 
+\contentsline {subsection}{\numberline {6.3.9}La lunghezza dei telomeri \`e regolata dalla cellula e dagli organismi}{68}{subsection.6.3.9}% 
+\contentsline {section}{\numberline {6.4}Riparazione del DNA}{68}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Senza la riparazione del DNA, danni spontanei cambierebbero rapidamente la sequenza del DNA}{68}{subsection.6.4.1}% 
+\contentsline {subsection}{\numberline {6.4.2}La doppia elica del DNA \`e prontamente riparata}{68}{subsection.6.4.2}% 
+\contentsline {subsection}{\numberline {6.4.3}Danni al DNA possono essere rimossi attraverso molti cammini}{68}{subsection.6.4.3}% 
+\contentsline {subsection}{\numberline {6.4.4}L'accoppiamento di riparazione a asportazione di nucleotidi con la trascrizione garantisce che il DNA pi\`u importante \`e riparato efficientemente}{69}{subsection.6.4.4}% 
+\contentsline {subsection}{\numberline {6.4.5}La chimica delle basi del DNA facilita l'individuazione dei danni}{69}{subsection.6.4.5}% 
+\contentsline {subsection}{\numberline {6.4.6}Speciali translesion della DNA polimerasi sono usate durante emergenze}{69}{subsection.6.4.6}% 
+\contentsline {subsection}{\numberline {6.4.7}Rotture nel doppio filamento sono efficientemente riparate}{70}{subsection.6.4.7}% 
+\contentsline {subsection}{\numberline {6.4.8}Danno al DNA ritarda la progressione del ciclo cellulare}{70}{subsection.6.4.8}% 
+\contentsline {subsection}{\numberline {6.4.9}Riparazione omologa}{70}{subsection.6.4.9}% 
+\contentsline {subsection}{\numberline {6.4.10}L'accoppiamento delle basi del DNA guida la ricombinazione omologa}{70}{subsection.6.4.10}% 
+\contentsline {subsection}{\numberline {6.4.11}La ricombinazione omologa pu\`o riparare perfettamente rotture a doppio filamento nel DNA}{71}{subsection.6.4.11}% 
