@@ -236,3 +236,6 @@
 \contentsline {subsection}{\numberline {7.1.3}L'RNA polimerasi causa la trascrizione}{79}{subsection.7.1.3}% 
 \contentsline {subsection}{\numberline {7.1.4}Le cellule producono diverse categorie di molecole di RNA}{79}{subsection.7.1.4}% 
 \contentsline {subsection}{\numberline {7.1.5}Segnali codificati nel DNA indicano l'RNA polimerasi dove iniziare e dove finire}{79}{subsection.7.1.5}% 
+\contentsline {subsection}{\numberline {7.1.6}I segnali di inizio e terminazione della trascrizione sono eterogenei nella sequenza nucleotidica}{80}{subsection.7.1.6}% 
+\contentsline {subsection}{\numberline {7.1.7}L'iniziazione della trascrizione negli eucarioti richiede molte proteine}{80}{subsection.7.1.7}% 
+\contentsline {subsection}{\numberline {7.1.8}La RNA polimearsi II richiede un insieme di fattori di trascrizione generali}{81}{subsection.7.1.8}% 
