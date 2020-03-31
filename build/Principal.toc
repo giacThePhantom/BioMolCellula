@@ -246,3 +246,15 @@
 \contentsline {subsection}{\numberline {7.1.13}L'incappucciamento dell'RNA \`e la prima modifica dei pre-mRNA eucariotici}{83}{subsection.7.1.13}% 
 \contentsline {subsection}{\numberline {7.1.14}L'RNA splicing rimuove le sequenze di introni dal pre-mRNA}{83}{subsection.7.1.14}% 
 \contentsline {subsection}{\numberline {7.1.15}Sequenze di nucleotidi segnalano dove avviene lo slicing}{83}{subsection.7.1.15}% 
+\contentsline {subsection}{\numberline {7.1.16}Lo splicing dell'RNA \`e svolto dallo spliceosoma}{84}{subsection.7.1.16}% 
+\contentsline {subsection}{\numberline {7.1.17}Lo spliceosoma usa l'idrolisi dell'ATP per produrre una sere di riordinamenti RNA-RNA}{84}{subsection.7.1.17}% 
+\contentsline {subsection}{\numberline {7.1.18}Altre propriet\`a del pre-mRNA e la sua sintesi spiega le scelte dei siti propri di splice}{84}{subsection.7.1.18}% 
+\contentsline {subsection}{\numberline {7.1.19}La struttura cromatinica influenza l'RNA splicing}{85}{subsection.7.1.19}% 
+\contentsline {subsection}{\numberline {7.1.20}Lo splicing di RNA mostra plasticit\`a notevole}{85}{subsection.7.1.20}% 
+\contentsline {subsection}{\numberline {7.1.21}Rna splicing catalizzato dallo spliceosoma si \`e probabilmetne evoluto da meccanismi di autosplicing}{85}{subsection.7.1.21}% 
+\contentsline {subsection}{\numberline {7.1.22}Enzimi di processamento dell'RNA generano la terminazione $\mathbf {3'}$ degli mRNA eucariotici}{85}{subsection.7.1.22}% 
+\contentsline {subsection}{\numberline {7.1.23}mRNA maturi eucariotici sono esportati selettivamente dal nucleo}{86}{subsection.7.1.23}% 
+\contentsline {subsection}{\numberline {7.1.24}Anche gli RNA non codificanti sono sintetizzati e processati nel nucleo}{86}{subsection.7.1.24}% 
+\contentsline {subsection}{\numberline {7.1.25}Il nucleolo \`e una fabbrica di produzione di ribosomi}{87}{subsection.7.1.25}% 
+\contentsline {subsection}{\numberline {7.1.26}Il nucleo contiene una variet\`a di aggregati subnucleari}{87}{subsection.7.1.26}% 
+\contentsline {section}{\numberline {7.2}Da RNA a proteine}{87}{section.7.2}% 
