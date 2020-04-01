@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  1 APR 2020 00:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  1 APR 2020 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1745,6 +1745,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--254
  [][] [][]\OT1/cmr/m/n/10 Rna spli-cing ca-ta-liz-za- 
  []
 
+
+Underfull \hbox (badness 5847) in paragraph at lines 263--263
+ \OT1/cmr/m/n/10 va-len-te-men-te pri-ma che 
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 266--266
+ \OT1/cmr/m/n/10 giun-ti al-la ter-mi-na-zio-ne 
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 268--268
+ [][] [][]\OT1/cmr/m/n/10 Fattori di al-lun-ga-men-to 
+ []
+
 )
 \tf@toc=\write5
 \openout5 = `Principal.toc'.
@@ -1887,7 +1902,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 149.
 
-[85] [86]) [87]
+[85] [86] [87]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 232.
+
+[88]) [89]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
  (./build/Principal.aux)
@@ -1897,10 +1917,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 47835 strings out of 492615
- 1051976 string characters out of 6131391
- 1263898 words of memory out of 5000000
- 50727 multiletter control sequences out of 15000+600000
+ 47853 strings out of 492615
+ 1052262 string characters out of 6131391
+ 1271356 words of memory out of 5000000
+ 50735 multiletter control sequences out of 15000+600000
  547813 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,19n,111p,816b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1921,10 +1941,10 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1000.pfb>
-Output written on ./build/Principal.pdf (88 pages, 497592 bytes).
+Output written on ./build/Principal.pdf (90 pages, 506955 bytes).
 PDF statistics:
- 2331 PDF objects out of 2487 (max. 8388607)
- 2201 compressed objects within 23 object streams
- 348 named destinations out of 1000 (max. 500000)
- 2029 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2396 PDF objects out of 2487 (max. 8388607)
+ 2264 compressed objects within 23 object streams
+ 358 named destinations out of 1000 (max. 500000)
+ 2093 words of extra memory for PDF output out of 10000 (max. 10000000)
 
