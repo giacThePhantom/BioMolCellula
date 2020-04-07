@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  7 APR 2020 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  7 APR 2020 11:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1576,17 +1576,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./build/Principal.toc
-Underfull \hbox (badness 5064) in paragraph at lines 7--7
+Underfull \hbox (badness 5064) in paragraph at lines 8--8
  [][] [][]\OT1/cmr/m/n/10 Tecniche di mi-cro-sco-pia 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
  [][] [][]\OT1/cmr/m/n/10 La du-pli-ca-zio-ne ge-ni-ca 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
  \OT1/cmr/m/n/10 gram-ma del-lo svi-lup-po 
  []
 
@@ -1594,199 +1594,199 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 ...ioenergetica della cellula}{24}{chapter.3}
+l.42 ...e cellule solitarie}{24}{subsection.2.3.6}
                                                   % [1]
-Underfull \hbox (badness 5245) in paragraph at lines 43--43
+Underfull \hbox (badness 5245) in paragraph at lines 44--44
  [][] [][]\OT1/cmr/m/n/10 Le com-po-nen-ti chi-mi-che del-la 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
  [][] [][]\OT1/cmr/m/n/10 Le cel-lu-le con-ten-go-no 
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 55--55
+Underfull \hbox (badness 7308) in paragraph at lines 56--56
  [][] [][]\OT1/cmr/m/n/10 Ossidazione e ri-du-zio-ne 
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 60--60
+Underfull \hbox (badness 5133) in paragraph at lines 61--61
  [][] [][]\OT1/cmr/m/n/10 Molecole vet-to-re at-ti-va- 
  []
 
 [2]
-Underfull \hbox (badness 6876) in paragraph at lines 77--77
+Underfull \hbox (badness 6876) in paragraph at lines 78--78
  [][] [][]\OT1/cmr/m/n/10 Le pro-tei-ne si ri-pie-ga- 
  []
 
 
-Underfull \hbox (badness 6775) in paragraph at lines 79--79
+Underfull \hbox (badness 6775) in paragraph at lines 80--80
  [][] [][]\OT1/cmr/m/n/10 I do-mi-ni pro-tei-ci so-no 
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 87--87
+Underfull \hbox (badness 7722) in paragraph at lines 88--88
  [][] [][]\OT1/cmr/m/n/10 Le pro-tei-ne con-ten-go-no 
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 90--90
+Underfull \hbox (badness 6188) in paragraph at lines 91--91
  [][] [][]\OT1/cmr/m/n/10 I fat-to-ri di as-sem-blag- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
  [][] [][]\OT1/cmr/m/n/10 Complessi mul-tien-zi-ma 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--106
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
  \OT1/cmr/m/n/10 tas-so del me-ta-bo-li-smo 
  []
 
 [3]
-Underfull \hbox (badness 6592) in paragraph at lines 109--109
+Underfull \hbox (badness 6592) in paragraph at lines 110--110
  [][] [][]\OT1/cmr/m/n/10 Due li-gan-di i cui si-ti 
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 111--111
+Underfull \hbox (badness 5533) in paragraph at lines 112--112
  [][] [][]\OT1/cmr/m/n/10 Molti cam-bi nel-le pro- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
  [][] [][]\OT1/cmr/m/n/10 Una cel-lu-la eu-ca-rio-ti-ca 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
  [][] [][]\OT1/cmr/m/n/10 Le pro-tei-ne re-go-la-to-rie 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
  [][] [][]\OT1/cmr/m/n/10 Impalcature con-cen-tra-no 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
  \OT1/cmr/m/n/10 ce-den-te-men-te con-ser-va-te 
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 171--171
+Underfull \hbox (badness 5091) in paragraph at lines 173--173
  [][] [][]\OT1/cmr/m/n/10 Mutazioni nel-la se-quen- 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
  [][] [][]\OT1/cmr/m/n/10 L'accoppiemaneto del-le 
  []
 
 
-Underfull \hbox (badness 5036) in paragraph at lines 183--183
+Underfull \hbox (badness 5036) in paragraph at lines 185--185
  \OT1/cmr/m/n/10 zio-ne e ri-pa-ra-zio-ne del 
  []
 
 [6]
-Underfull \hbox (badness 7814) in paragraph at lines 197--197
+Underfull \hbox (badness 7814) in paragraph at lines 199--199
  [][] [][]\OT1/cmr/m/n/10 I cro-mo-so-mi eu-ca-rio-ti-ci 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--206
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
  \OT1/cmr/m/n/10 DNA, dan-ni spon-ta-nei 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--206
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
  \OT1/cmr/m/n/10 cam-bie-reb-be-ro ra-pi-da- 
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 206--206
+Underfull \hbox (badness 7081) in paragraph at lines 208--208
  \OT1/cmr/m/n/10 men-te la se-quen-za del 
  []
 
 
-Underfull \hbox (badness 6078) in paragraph at lines 211--211
+Underfull \hbox (badness 6078) in paragraph at lines 213--213
  [][] [][]\OT1/cmr/m/n/10 Speciali trans-le-sion del- 
  []
 
 [7]
-Underfull \hbox (badness 5533) in paragraph at lines 220--220
+Underfull \hbox (badness 5533) in paragraph at lines 222--222
  \OT1/cmr/m/n/10 lo-ga ^^Re cru-cia-le per la 
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 225--225
+Underfull \hbox (badness 5741) in paragraph at lines 227--227
  [][] [][]\OT1/cmr/m/n/10 Trasposizione e ri-com-bi-na-zio-ne 
  []
 
 
-Underfull \hbox (badness 6675) in paragraph at lines 235--235
+Underfull \hbox (badness 6675) in paragraph at lines 237--237
  [][] [][]\OT1/cmr/m/n/10 La tra-scri-zio-ne pro-du-ce 
  []
 
-
-Underfull \hbox (badness 5302) in paragraph at lines 245--245
+[8]
+Underfull \hbox (badness 5302) in paragraph at lines 247--247
  \OT1/cmr/m/n/10 scri-zio-ne ^^Re stret-ta-men-te 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--246
+Underfull \hbox (badness 10000) in paragraph at lines 248--248
  [][] [][]\OT1/cmr/m/n/10 L'incappucciamento del- 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
  [][] [][]\OT1/cmr/m/n/10 Rna spli-cing ca-ta-liz-za- 
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 263--263
+Underfull \hbox (badness 5847) in paragraph at lines 265--265
  \OT1/cmr/m/n/10 va-len-te-men-te pri-ma che 
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 266--266
+Underfull \hbox (badness 5475) in paragraph at lines 268--268
  \OT1/cmr/m/n/10 giun-ti al-la ter-mi-na-zio-ne 
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 268--268
+Underfull \hbox (badness 5302) in paragraph at lines 270--270
  [][] [][]\OT1/cmr/m/n/10 Fattori di al-lun-ga-men-to 
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 276--276
+Underfull \hbox (badness 5064) in paragraph at lines 278--278
  [][] [][]\OT1/cmr/m/n/10 Meccanismi di con-trol-lo 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
  [][] [][]\OT1/cmr/m/n/10 Segnali ester-ni pos-so-no 
  []
 
 [10]
-Underfull \hbox (badness 5077) in paragraph at lines 316--316
+Underfull \hbox (badness 5077) in paragraph at lines 318--318
  \OT1/cmr/m/n/10 met-to-no al-la cel-lu-la di 
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 321--321
+Underfull \hbox (badness 7273) in paragraph at lines 323--323
  \OT1/cmr/m/n/10 mo-so-ma nel-la strut-tu-ra 
  []
 
 
-Underfull \hbox (badness 5893) in paragraph at lines 328--328
+Underfull \hbox (badness 5893) in paragraph at lines 330--330
  \OT1/cmr/m/n/10 la rot-tu-ra del tra-scrit- 
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 332--332
+Underfull \hbox (badness 5260) in paragraph at lines 334--334
  []$ \OT1/cmr/m/n/10 e $[]$ con-trol-la-no la 
  []
 
@@ -1794,32 +1794,38 @@ Underfull \hbox (badness 5260) in paragraph at lines 332--332
 \tf@toc=\write5
 \openout5 = `Principal.toc'.
 
- (./Chapters/01_Introduzione.tex [11]
+
+Overfull \vbox (7.84001pt too high) has occurred while \output is active []
+
+
+[11] [12
+
+] (./Chapters/01_Introduzione.tex
 Capitolo 1.
-[12
+[13
 
-]) (./Chapters/02_CelluleGenomi.tex [13] [14]
+]) (./Chapters/02_CelluleGenomi.tex [14] [15]
 Capitolo 2.
-[15
+[16
 
-] [16] [17]
+] [17] [18]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.07225pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[18] [19] [20] [21]) (./Chapters/03_ChimicaBioenergeticaCellula.tex [22]
-[23]
+[19] [20] [21] [22]) (./Chapters/03_ChimicaBioenergeticaCellula.tex [23]
+[24]
 Capitolo 3.
-[24
+[25
 
-] [25] [26] [27] [28] [29]
+] [26] [27] [28] [29] [30]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 162.
 
-[30]
+[31]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 178.
@@ -1828,7 +1834,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 186.
 
-[31]
+[32]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 211.
@@ -1841,7 +1847,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 217.
 
-[32]
+[33]
 Overfull \hbox (0.21616pt too wide) in paragraph at lines 229--229
 []\OT1/cmr/bx/n/12 Il tra-spor-to di elet-tro-ni gui-da la sin-te-si del-la mag
 -go-ri par-te dell'$[]$
@@ -1851,9 +1857,9 @@ Overfull \hbox (0.21616pt too wide) in paragraph at lines 229--229
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 229.
 
-) (./Chapters/04_Proteine.tex [33]
+) (./Chapters/04_Proteine.tex [34]
 Capitolo 4.
-[34
+[35
 
 ]
 
@@ -1880,25 +1886,23 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
 
-[35] [36] [37] [38] [39] [40]
+[36] [37] [38] [39] [40] [41]
 
 LaTeX Warning: Command \r invalid in math mode on input line 194.
 
-[41] [42] [43] [44] [45] [46]) (./Chapters/05_DNACromosomiGenoma.tex [47]
-[48]
+[42] [43] [44] [45] [46] [47]) [48] [49] [50
+
+]
+(./Chapters/05_DNACromosomiGenoma.tex
 Capitolo 5.
-[49
+[51
 
-] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62])
-(./Chapters/06_DNAReplicazioneRiparazioneRicombinazione.tex [63] [64]
+] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64])
+(./Chapters/06_DNAReplicazioneRiparazioneRicombinazione.tex [65] [66]
 Capitolo 6.
-[65
+[67
 
-] [66]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 58.
-
+] [68]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 58.
@@ -1911,41 +1915,41 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 58.
 
-[67] [68] [69]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 58.
+
+[69] [70] [71]
 
 Package Fancyhdr Warning: \headheight is too small (13.07225pt): 
 Make it at least 22.43335pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[70] [71] [72] [73] [74] [75] [76] [77] [78] [79])
-(./Chapters/07_DNAProteine.tex [80]
+[72] [73] [74] [75] [76] [77] [78] [79] [80] [81])
+(./Chapters/07_DNAProteine.tex [82]
 Capitolo 7.
-[81
+[83
 
-] [82] [83] [84] [85] [86]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 149.
-
+] [84] [85] [86] [87] [88]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 149.
 
-[87] [88] [89]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 149.
+
+[89] [90] [91]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 232.
 
-[90] [91] [92] [93] [94] [95]) (./Chapters/08_ControlloGeni.tex [96]
+[92] [93] [94] [95] [96] [97]) (./Chapters/08_ControlloGeni.tex [98]
 Capitolo 8.
-[97
+[99
 
-] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 302.
-
+] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 302.
@@ -1958,23 +1962,27 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 302.
 
-) [110]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+) [112]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 24.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 24.
  (./build/Principal.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 24.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 24.
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 48008 strings out of 492615
- 1054704 string characters out of 6131391
- 1285986 words of memory out of 5000000
- 50801 multiletter control sequences out of 15000+600000
+ 48014 strings out of 492615
+ 1054748 string characters out of 6131391
+ 1291998 words of memory out of 5000000
+ 50803 multiletter control sequences out of 15000+600000
  547813 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,19n,111p,816b,1017s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,19n,111p,816b,1019s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
@@ -1992,10 +2000,10 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1000.pfb>
-Output written on ./build/Principal.pdf (111 pages, 584892 bytes).
+Output written on ./build/Principal.pdf (113 pages, 585779 bytes).
 PDF statistics:
- 2976 PDF objects out of 2984 (max. 8388607)
- 2817 compressed objects within 29 object streams
- 444 named destinations out of 1000 (max. 500000)
- 2613 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2995 PDF objects out of 3580 (max. 8388607)
+ 2834 compressed objects within 29 object streams
+ 448 named destinations out of 1000 (max. 500000)
+ 2629 words of extra memory for PDF output out of 10000 (max. 10000000)
 
