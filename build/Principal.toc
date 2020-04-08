@@ -341,3 +341,9 @@
 \contentsline {subsection}{\numberline {8.6.1}I trascritti di piccoli RNA non codificanti regolano molti geni animali e di piante attraverso interferenza RNA}{115}{subsection.8.6.1}% 
 \contentsline {subsection}{\numberline {8.6.2}Il miRNA regola la traduzione e stabilit\`a dell'mRNA}{115}{subsection.8.6.2}% 
 \contentsline {subsection}{\numberline {8.6.3}L'interferenza a RNA \`e anche usata come un meccanismo di difesa per la cellula}{115}{subsection.8.6.3}% 
+\contentsline {subsection}{\numberline {8.6.4}L'interferenza a RNA pu\`o direzionare la formazione di eterocromatina}{116}{subsection.8.6.4}% 
+\contentsline {subsection}{\numberline {8.6.5}I piRNA proteggono la linea germinale da elementi trasponibili}{116}{subsection.8.6.5}% 
+\contentsline {subsection}{\numberline {8.6.6}I batteri usano piccoli RNA non codificanti per proteggersi dai virus}{116}{subsection.8.6.6}% 
+\contentsline {subsection}{\numberline {8.6.7}Lunghi RNA non codificanti hanno funzioni diverse nella cellula}{117}{subsection.8.6.7}% 
+\contentsline {part}{III\hspace {1em}Organizzazione interna della cellula}{118}{part.3}% 
+\contentsline {chapter}{\numberline {9}Struttura di membrana}{119}{chapter.9}% 
