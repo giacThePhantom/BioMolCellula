@@ -357,3 +357,7 @@
 \contentsline {subsection}{\numberline {9.1.7}L'asimmetria del bistrato lipidico \`e funzionalmente importante}{121}{subsection.9.1.7}% 
 \contentsline {subsection}{\numberline {9.1.8}I glicolipidi si trovano sulla superficie di tutte le membrane plasmatiche eucariotiche}{121}{subsection.9.1.8}% 
 \contentsline {section}{\numberline {9.2}Proteine di membrana}{122}{section.9.2}% 
+\contentsline {subsection}{\numberline {9.2.1}Le proteine di membrana si possono associare con il bistrato lipidico in vari modi}{122}{subsection.9.2.1}% 
+\contentsline {subsection}{\numberline {9.2.2}Ancore lipidice controllano la localizzazione nella membrana di alcune proteine segnalatrici}{123}{subsection.9.2.2}% 
+\contentsline {subsection}{\numberline {9.2.3}Nella maggior parte delle proteine transmembrana la catena polipeptidica attraversa il bistrato lipidico in una conformazione a $\mathbf {\alpha }$-elica}{123}{subsection.9.2.3}% 
+\contentsline {subsection}{\numberline {9.2.4}$\mathbf {\alpha }$-eliche transmembrana interagiscono tra di loro}{123}{subsection.9.2.4}% 
