@@ -367,3 +367,10 @@
 \contentsline {subsection}{\numberline {9.2.8}Il citoscheletro corticale d\`a alle membrane forza meccanica e vincola la diffusione delle proteine di membrana}{126}{subsection.9.2.8}% 
 \contentsline {subsection}{\numberline {9.2.9}Proteine piegatrici di membrana deformano i bistrati}{126}{subsection.9.2.9}% 
 \contentsline {chapter}{\numberline {10}Trasporto di membrana di piccole molecole e propriet\`a elettriche delle membrane}{127}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Principi del trasporto di membrana}{127}{section.10.1}% 
+\contentsline {subsection}{\numberline {10.1.1}Bistrati lipidici liberi da proteine sono impermeabili agli ioni}{127}{subsection.10.1.1}% 
+\contentsline {subsection}{\numberline {10.1.2}Ci sono due classi di proteine di trasporto di membrana: trasportatori e canali}{127}{subsection.10.1.2}% 
+\contentsline {subsection}{\numberline {10.1.3}Il trasporto attivo \`e mediato da trasportatori accoppiati da una fonte di energia}{128}{subsection.10.1.3}% 
+\contentsline {section}{\numberline {10.2}Trasportatori e trasporto di membrana attivo}{128}{section.10.2}% 
+\contentsline {subsection}{\numberline {10.2.1}Il trasporto attivo pu\`o essere guidato da gradienti di concentrazione ionica}{128}{subsection.10.2.1}% 
+\contentsline {subsection}{\numberline {10.2.2}Trasportatori nella membrana plasmatica regolano il pH citosilico}{128}{subsection.10.2.2}% 
