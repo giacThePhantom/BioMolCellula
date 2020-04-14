@@ -382,3 +382,5 @@
 \contentsline {section}{\numberline {10.3}Canali e le propriet\`a elettriche delle membrane}{130}{section.10.3}% 
 \contentsline {subsection}{\numberline {10.3.1}Le acquaporine sono permeabili all'acqua ma impermeabili agli ioni}{131}{subsection.10.3.1}% 
 \contentsline {subsection}{\numberline {10.3.2}Canali ionici sono selettivi degli ioni e fluttuano tra stato aperto e chiuso}{131}{subsection.10.3.2}% 
+\contentsline {subsection}{\numberline {10.3.3}Il potenziale di membrana nelle cellule animali dipende principalmente dai canali di leak \ce {K+} e dal suo gradiente attraverso la membrana plasmatica}{131}{subsection.10.3.3}% 
+\contentsline {subsection}{\numberline {10.3.4}Il potenziale di riposo decade lentamente quando la pompa \ce {Na+}-\ce {K+} \`e fermata}{132}{subsection.10.3.4}% 
