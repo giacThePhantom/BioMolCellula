@@ -380,3 +380,5 @@
 \contentsline {subsection}{\numberline {10.2.6}La pompa \ce {Na+}-\ce {K+} della membrana plasmatica stabilisce gradienti \ce {Na+} e \ce {K+} attraverso la membrana plasmatica}{130}{subsection.10.2.6}% 
 \contentsline {subsection}{\numberline {10.2.7}I trasportatori ABC costituiscono la pi\`u grande famiglia di proteine di trasporto di membrana}{130}{subsection.10.2.7}% 
 \contentsline {section}{\numberline {10.3}Canali e le propriet\`a elettriche delle membrane}{130}{section.10.3}% 
+\contentsline {subsection}{\numberline {10.3.1}Le acquaporine sono permeabili all'acqua ma impermeabili agli ioni}{131}{subsection.10.3.1}% 
+\contentsline {subsection}{\numberline {10.3.2}Canali ionici sono selettivi degli ioni e fluttuano tra stato aperto e chiuso}{131}{subsection.10.3.2}% 
