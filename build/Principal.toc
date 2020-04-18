@@ -394,3 +394,12 @@
 \contentsline {subsection}{\numberline {10.3.12}Canali di cationi voltage-gated sono evoluzionariamente e strutturalmente imparentati}{135}{subsection.10.3.12}% 
 \contentsline {subsection}{\numberline {10.3.13}Diversi dipi di neuroni mostrano caratteristiche propriet\`a di stable firing}{135}{subsection.10.3.13}% 
 \contentsline {subsection}{\numberline {10.3.14}Canali ionici transmitter-gated convertono segnali chimici in elettrici alla sinapsi chimica}{135}{subsection.10.3.14}% 
+\contentsline {subsection}{\numberline {10.3.15}Le sinapsi chimiche possono essere eccitatorie o inibitorie}{136}{subsection.10.3.15}% 
+\contentsline {subsection}{\numberline {10.3.16}I recettori di acetilcolina alle giunzioni neuromuscolari sono canali di cationi transmitter-gated eccitatori}{136}{subsection.10.3.16}% 
+\contentsline {subsection}{\numberline {10.3.17}I neuroni contengono molti tipi di canali transmitter-gated}{137}{subsection.10.3.17}% 
+\contentsline {subsection}{\numberline {10.3.18}La trasmissione neuromuscolare coinvolge l'attivazione sequenziale di cinque insiemi diversi di canali ionici}{137}{subsection.10.3.18}% 
+\contentsline {subsection}{\numberline {10.3.19}I singoli neuroni sono complessi dispositivi computazionali}{137}{subsection.10.3.19}% 
+\contentsline {subsection}{\numberline {10.3.20}La computazione neuronale richiede una combinazione di almeno tre tipi di canali \ce {K+}}{138}{subsection.10.3.20}% 
+\contentsline {subsection}{\numberline {10.3.21}Potenziazione a lungo termine (LPT) nell'ippocampo dei mammiferi dipende dall'entrata di \ce {Ca^{2+}} attraverso canali recettori di NMDA}{138}{subsection.10.3.21}% 
+\contentsline {chapter}{\numberline {11}Compartimenti intracellulari e ordinamento delle proteine}{140}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}La compartimentalizzazione della cellula}{140}{section.11.1}% 
