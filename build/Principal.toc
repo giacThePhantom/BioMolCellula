@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {2.1}Caratteristiche universali della vita sulla Terra}{19}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Tutte le cellule conservano la loro informazione ereditaria nello stesso codice chimico lineare (DNA)}{19}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Tutte le cellule replicano la loro informazione ereditaria mediante polimerizzazione su uno stampo}{20}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{20}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascrivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{20}{subsection.2.1.3}% 
 \contentsline {subsection}{\numberline {2.1.4}Tutte le cellule usano proteine come catalizzatori}{21}{subsection.2.1.4}% 
 \contentsline {subsection}{\numberline {2.1.5}Tutte le cellule traducono RNA nello stesso modo}{21}{subsection.2.1.5}% 
 \contentsline {subsection}{\numberline {2.1.6}Il frammento di informazione genica che corrisponde ad una proteina \`e un gene}{21}{subsection.2.1.6}% 
@@ -24,7 +24,7 @@
 \contentsline {subsection}{\numberline {2.1.9}Tutte le cellule sono chiuse in una membrana plasmatica attraverso la quale nutrienti e materiali di scarto devono passare}{22}{subsection.2.1.9}% 
 \contentsline {section}{\numberline {2.2}La diversit\`a dei genomi e l'albero della vita}{22}{section.2.2}% 
 \contentsline {subsection}{\numberline {2.2.1}Le cellule possono ottenere energia da una variet\`a di fonti di energia libera}{22}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Alcune cellule fissano azoto e anidride caronica per altre}{23}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.2}Alcune cellule fissano azoto e anidride carbonica per altre}{23}{subsection.2.2.2}% 
 \contentsline {subsection}{\numberline {2.2.3}La pi\`u grande diverit\`a biochimica esiste tra le cellule procariote}{23}{subsection.2.2.3}% 
 \contentsline {subsection}{\numberline {2.2.4}L'albero della vita possiede tre rami principali: Batteri, Archei ed Eucarioti}{23}{subsection.2.2.4}% 
 \contentsline {subsection}{\numberline {2.2.5}Alcuni geni evolvono rapidamente, altri sono altamente conservati}{23}{subsection.2.2.5}% 
@@ -37,18 +37,18 @@
 \contentsline {subsection}{\numberline {2.3.1}Le cellule eucariote potrebbero essersi originate come predatori}{25}{subsection.2.3.1}% 
 \contentsline {subsection}{\numberline {2.3.2}Le moderne cellule eucariote si sono evolute da una simbiosi}{25}{subsection.2.3.2}% 
 \contentsline {subsection}{\numberline {2.3.3}Gli eucarioti possiedono genomi ibridi}{26}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}I genomi eucatiori sono grandi}{26}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.4}I genomi eucarioti sono grandi}{26}{subsection.2.3.4}% 
 \contentsline {subsection}{\numberline {2.3.5}Il genoma definisce il programma dello sviluppo multicellulare}{26}{subsection.2.3.5}% 
 \contentsline {subsection}{\numberline {2.3.6}Molti eucarioti vivono come cellule solitarie}{27}{subsection.2.3.6}% 
 \contentsline {chapter}{\numberline {3}Chimica e bioenergetica della cellula}{28}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Le componenti chimiche della cellula}{28}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}L'acqua \`e mantenuta da legami a idroeno}{28}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.1}L'acqua \`e mantenuta da legami a idrogeno}{28}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}Quattro tipi di attrazione non covalente aiuta a unire le molecole nelle cellule}{28}{subsection.3.1.2}% 
 \contentsline {subsection}{\numberline {3.1.3}Alcune molecole polari formano acidi e basi in acqua}{29}{subsection.3.1.3}% 
 \contentsline {subsection}{\numberline {3.1.4}La cellula \`e formata da composti di carbonio}{29}{subsection.3.1.4}% 
 \contentsline {subsection}{\numberline {3.1.5}Le cellule contengono quattro principali famiglie di piccole molecole organiche}{29}{subsection.3.1.5}% 
 \contentsline {subsection}{\numberline {3.1.6}La chimica della cellula \`e dominata da macromolecole con propriet\`a notevoli}{30}{subsection.3.1.6}% 
-\contentsline {subsection}{\numberline {3.1.7}I legami non covalenti specificano la forma di una macromolecola e i suoi legami con le atre molecole}{30}{subsection.3.1.7}% 
+\contentsline {subsection}{\numberline {3.1.7}I legami non covalenti specificano la forma di una macromolecola e i suoi legami con le altre molecole}{30}{subsection.3.1.7}% 
 \contentsline {section}{\numberline {3.2}Catalisi e utilizzo dell'energia da parte delle cellule}{30}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}Il metabolismo della cellula \`e organizzato dagli enzimi}{30}{subsection.3.2.1}% 
 \contentsline {subsection}{\numberline {3.2.2}L'ordine biologico \`e reso possibile dal rilascio di calore dalla cellula}{31}{subsection.3.2.2}% 
@@ -70,7 +70,7 @@
 \contentsline {subsection}{\numberline {3.3.4}Gli organismi conservano le molecole nutrienti in serbatoi speciali}{36}{subsection.3.3.4}% 
 \contentsline {subsection}{\numberline {3.3.5}Zuccheri e acidi grassi sono degradati in acetile \ce {CoA} nei mitocondri}{36}{subsection.3.3.5}% 
 \contentsline {subsection}{\numberline {3.3.6}Il ciclo di acido citrico genera \ce {NADH} ossidando i gruppi acetili in \ce {CO2}}{36}{subsection.3.3.6}% 
-\contentsline {subsection}{\numberline {3.3.7}Il trasporto di elettroni guida la sintesi della maggori parte dell'\ce {ATP} nelle cellule}{37}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.3.7}Il trasporto di elettroni guida la sintesi della maggiori parte dell'\ce {ATP} nelle cellule}{37}{subsection.3.3.7}% 
 \contentsline {subsection}{\numberline {3.3.8}Amminoacidi e nucleotidi sono parte del ciclo azotato}{37}{subsection.3.3.8}% 
 \contentsline {chapter}{\numberline {4}Proteine}{38}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Forma e struttura delle proteine}{38}{section.4.1}% 
@@ -85,16 +85,16 @@
 \contentsline {subsection}{\numberline {4.1.9}Proteine pi\`u grandi contengono pi\`u di una catena polipeptidica}{41}{subsection.4.1.9}% 
 \contentsline {subsection}{\numberline {4.1.10}Alcune proteine globulari formano lunghi filamenti elicoidali}{41}{subsection.4.1.10}% 
 \contentsline {subsection}{\numberline {4.1.11}Molte proteine hanno forme allungate e fibrose}{41}{subsection.4.1.11}% 
-\contentsline {subsection}{\numberline {4.1.12}Le proteine contengono una grande quantit\`a di catene polipeptidiche intrinsicamente disordinate}{41}{subsection.4.1.12}% 
+\contentsline {subsection}{\numberline {4.1.12}Le proteine contengono una grande quantit\`a di catene polipeptidiche intrinsecamente disordinate}{41}{subsection.4.1.12}% 
 \contentsline {subsection}{\numberline {4.1.13}Legami incrociati covalenti stabilizzano proteine extracellulari}{41}{subsection.4.1.13}% 
-\contentsline {subsection}{\numberline {4.1.14}Le molecole proteiche spesso svolgono la funzione di subunit\`a per l'assemblagtgio di grandi strutture}{42}{subsection.4.1.14}% 
+\contentsline {subsection}{\numberline {4.1.14}Le molecole proteiche spesso svolgono la funzione di subunit\`a per l'assemblaggio di grandi strutture}{42}{subsection.4.1.14}% 
 \contentsline {subsection}{\numberline {4.1.15}I fattori di assemblaggio aiutano la formazione di complesse strutture biologiche}{42}{subsection.4.1.15}% 
-\contentsline {subsection}{\numberline {4.1.16}Fibrille amiloide possono formarsi da molte proteine}{42}{subsection.4.1.16}% 
+\contentsline {subsection}{\numberline {4.1.16}Fibrille amiloidi possono formarsi da molte proteine}{42}{subsection.4.1.16}% 
 \contentsline {subsection}{\numberline {4.1.17}Molte proteine contengono domini a bassa complessit\`a che possono formare amiloidi reversibili}{43}{subsection.4.1.17}% 
 \contentsline {section}{\numberline {4.2}Funzione delle proteine}{43}{section.4.2}% 
 \contentsline {subsection}{\numberline {4.2.1}Tutte le proteine si legano ad altre molecole}{43}{subsection.4.2.1}% 
 \contentsline {subsection}{\numberline {4.2.2}La conformazione superficiale di una proteina determina la sua chimica}{43}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}La comparazione di sottosequenze tra membri di una famiglia proteica evidenzia i siti di legame cruciali}{44}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.3}La comparazione di sotto-sequenze tra membri di una famiglia proteica evidenzia i siti di legame cruciali}{44}{subsection.4.2.3}% 
 \contentsline {subsection}{\numberline {4.2.4}Le proteine si legano con altre proteine attraverso molti tipi di interfacce}{44}{subsection.4.2.4}% 
 \contentsline {subsection}{\numberline {4.2.5}I siti di legame degli anticorpi sono estremamente versatili}{44}{subsection.4.2.5}% 
 \contentsline {subsection}{\numberline {4.2.6}La costante di equilibrio misura la forza di legame}{44}{subsection.4.2.6}% 
@@ -104,7 +104,7 @@
 \contentsline {subsection}{\numberline {4.2.10}Gli enzimi possono usare simultaneamente catalizzatori acidi e basici}{45}{subsection.4.2.10}% 
 \contentsline {subsection}{\numberline {4.2.11}Il lisozima illustra come un enzima funziona}{46}{subsection.4.2.11}% 
 \contentsline {subsection}{\numberline {4.2.12}Molecole strettamente legate aggiungono altre funzioni alle proteine}{46}{subsection.4.2.12}% 
-\contentsline {subsection}{\numberline {4.2.13}Complessi multienzima aiutano ad aumentare il tasso del metabolismo cellulare}{46}{subsection.4.2.13}% 
+\contentsline {subsection}{\numberline {4.2.13}Complessi multi-enzima aiutano ad aumentare il tasso del metabolismo cellulare}{46}{subsection.4.2.13}% 
 \contentsline {subsection}{\numberline {4.2.14}La cellula regola le attivit\`a catalitiche dei propri enzimi}{47}{subsection.4.2.14}% 
 \contentsline {subsection}{\numberline {4.2.15}Gli enzimi allosterici possiedono due o pi\`u siti di legame che interagiscono}{47}{subsection.4.2.15}% 
 \contentsline {subsection}{\numberline {4.2.16}Due ligandi i cui siti di legame sono accoppiati devono avere effetto reciprocamente sul legame dell'altro}{47}{subsection.4.2.16}% 
@@ -120,12 +120,12 @@
 \contentsline {subsection}{\numberline {4.2.26}Una proteina GTP-legante mostra come grandi movimenti proteici siano possibili}{50}{subsection.4.2.26}% 
 \contentsline {subsection}{\numberline {4.2.27}Le proteine motrici producono grandi movimenti nelle cellule}{50}{subsection.4.2.27}% 
 \contentsline {subsection}{\numberline {4.2.28}I trasportatori di membrana imbrigliano energia per pompare le molecole attraverso le membrane}{51}{subsection.4.2.28}% 
-\contentsline {subsection}{\numberline {4.2.29}Le proteine formano grandi complessi che funzinonano come macchinari proteici}{51}{subsection.4.2.29}% 
+\contentsline {subsection}{\numberline {4.2.29}Le proteine formano grandi complessi che funzionano come macchinari proteici}{51}{subsection.4.2.29}% 
 \contentsline {subsection}{\numberline {4.2.30}Impalcature concentrano insiemi di proteine che interagiscono}{51}{subsection.4.2.30}% 
-\contentsline {subsection}{\numberline {4.2.31}Molte proteine sono controlalte da modifiche covalenti che le dirigono verso siti specifici all'interno della cellula}{51}{subsection.4.2.31}% 
+\contentsline {subsection}{\numberline {4.2.31}Molte proteine sono controllate da modifiche covalenti che le dirigono verso siti specifici all'interno della cellula}{51}{subsection.4.2.31}% 
 \contentsline {subsection}{\numberline {4.2.32}Una complessa rete di interazioni proteiche sottosta alle funzioni della cellula}{51}{subsection.4.2.32}% 
 \contentsline {part}{II\hspace {1em}Meccanismi genetici basici}{53}{part.2}% 
-\contentsline {chapter}{\numberline {5}DNA, cormosomi e genomi}{54}{chapter.5}% 
+\contentsline {chapter}{\numberline {5}DNA, cromosomi e genomi}{54}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{54}{section.5.1}% 
 \contentsline {subsection}{\numberline {5.1.1}Una molecola di DNA consiste di due catene di nucleotidi complementari}{54}{subsection.5.1.1}% 
 \contentsline {subsection}{\numberline {5.1.2}La struttura del DNA mette a disposizione un meccanismo per l'ereditariet\`a}{55}{subsection.5.1.2}% 
@@ -142,7 +142,7 @@
 \contentsline {subsection}{\numberline {5.2.9}I nucleosomi sono tipicamente condensati in una fibra cromatinica}{58}{subsection.5.2.9}% 
 \contentsline {section}{\numberline {5.3}La struttura e la funzione della cromatina}{58}{section.5.3}% 
 \contentsline {subsection}{\numberline {5.3.1}L'eterocromatina \`e altamente organizzata e limita l'espressione genica}{58}{subsection.5.3.1}% 
-\contentsline {subsection}{\numberline {5.3.2}Lo stato eterocromatico \`e autopropagante}{59}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.2}Lo stato eterocromatico \`e auto-propagante}{59}{subsection.5.3.2}% 
 \contentsline {subsection}{\numberline {5.3.3}I nuclei istonici sono modificati covalentemente a molti siti diversi}{59}{subsection.5.3.3}% 
 \contentsline {subsection}{\numberline {5.3.4}La cromatina acquisisce variet\`a addizionale attraverso inserzioni specifiche al sito di un insieme di varianti di istoni}{59}{subsection.5.3.4}% 
 \contentsline {subsection}{\numberline {5.3.5}Le modifiche covalenti e le varianti istoniche agiscono insieme per controllare le funzioni dei cromosomi}{59}{subsection.5.3.5}% 
@@ -170,12 +170,12 @@
 \contentsline {subsection}{\numberline {5.5.7}Si pu\`o inferire la sequenza di alcuni genomi antichi}{65}{subsection.5.5.7}% 
 \contentsline {subsection}{\numberline {5.5.8}Il confronto tra sequenze multispecie identifica sequenze di DNA conservato di funzione sconosciuta}{66}{subsection.5.5.8}% 
 \contentsline {subsection}{\numberline {5.5.9}Cambi in sequenze precedentemente conservate possono aiutare a decifrare passi critici dell'evoluzione}{66}{subsection.5.5.9}% 
-\contentsline {subsection}{\numberline {5.5.10}Mutazioni nella sequenza di DNA che controlla l'espressione genica ha guitato molti dei cambi evolutivi nei vertebrati}{66}{subsection.5.5.10}% 
+\contentsline {subsection}{\numberline {5.5.10}Mutazioni nella sequenza di DNA che controlla l'espressione genica ha guidato molti dei cambi evolutivi nei vertebrati}{66}{subsection.5.5.10}% 
 \contentsline {subsection}{\numberline {5.5.11}La duplicazione genica fornisce una fonte di novit\`a genica durante l'evoluzione}{66}{subsection.5.5.11}% 
 \contentsline {subsection}{\numberline {5.5.12}Geni duplicati divergono}{67}{subsection.5.5.12}% 
 \contentsline {subsection}{\numberline {5.5.13}L'evoluzione del gene globina mostra come la duplicazione del DNA contribuisce all'evoluzione degli organismi}{67}{subsection.5.5.13}% 
 \contentsline {subsection}{\numberline {5.5.14}I geni che codificano nuove proteine possono essere creati ricombinando gli esoni}{67}{subsection.5.5.14}% 
-\contentsline {subsection}{\numberline {5.5.15}Mutazioni neutrali si diffondono divendando fissate in una popolazione, con probabilit\`a dipendente dalla dimensione della popolazione}{68}{subsection.5.5.15}% 
+\contentsline {subsection}{\numberline {5.5.15}Mutazioni neutrali si diffondono diventando fissate in una popolazione, con probabilit\`a dipendente dalla dimensione della popolazione}{68}{subsection.5.5.15}% 
 \contentsline {subsection}{\numberline {5.5.16}Molto pu\`o essere imparato dall'analisi della variazione tra gli umani}{68}{subsection.5.5.16}% 
 \contentsline {chapter}{\numberline {6}Replicazione, riparazione e ricombinazione del DNA}{70}{chapter.6}% 
 \contentsline {section}{\numberline {6.1}Il mantenimento della sequenza di DNA}{70}{section.6.1}% 
