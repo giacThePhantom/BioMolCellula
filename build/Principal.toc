@@ -412,3 +412,9 @@
 \contentsline {subsection}{\numberline {11.2.1}Complessi di pori nucleari perforano la membrana nuclare}{143}{subsection.11.2.1}% 
 \contentsline {subsection}{\numberline {11.2.2}Segnali di localizzazione direzionano le proteine nucleari al nucleo}{143}{subsection.11.2.2}% 
 \contentsline {subsection}{\numberline {11.2.3}Recettori di importazione nucleare si legano sia ai segnali di localizzazione nucleare e alle proteine NPC}{144}{subsection.11.2.3}% 
+\contentsline {subsection}{\numberline {11.2.4}L'esportazione nucelare lavora come l'importazione ma in senso opposto}{144}{subsection.11.2.4}% 
+\contentsline {subsection}{\numberline {11.2.5}La Ran GTPasi impone direzionalit\`a al trasporto attraverso NPC}{144}{subsection.11.2.5}% 
+\contentsline {subsection}{\numberline {11.2.6}Il trasporto attraverso NPC pu\`o essere regolato controllando l'accesso ai macchinari di trasporto}{145}{subsection.11.2.6}% 
+\contentsline {subsection}{\numberline {11.2.7}Durante la mitosi la membrana nucleare si disassembla}{145}{subsection.11.2.7}% 
+\contentsline {section}{\numberline {11.3}Il trasporto di proteine in mitocondri e cloroplasti}{145}{section.11.3}% 
+\contentsline {subsection}{\numberline {11.3.1}La traslocazione nei mitocondri dipende da sequenze di segnale e traslocatori di proteine}{146}{subsection.11.3.1}% 
