@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  22 APR 2020 15:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.3.5)  23 APR 2020 07:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1869,43 +1869,44 @@ Capitolo 3.
 ] [30] [31] [32] [33] [34]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 162.
+(hyperref)                removing `\mhchem@cee' on input line 168.
 
 [35]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 178.
+(hyperref)                removing `\mhchem@cee' on input line 184.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 186.
+(hyperref)                removing `\mhchem@cee' on input line 192.
 
 [36]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 211.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 217.
-
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 217.
 
 [37]
-Overfull \hbox (3.96616pt too wide) in paragraph at lines 229--229
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 223.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 223.
+
+
+Overfull \hbox (3.96616pt too wide) in paragraph at lines 235--235
 []\OT1/cmr/bx/n/12 Il tra-spor-to di elet-tro-ni gui-da la sin-te-si del-la mag
 -gio-ri par-te dell'$[]$
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 229.
+(hyperref)                removing `\mhchem@cee' on input line 235.
 
-) (./Chapters/04_Proteine.tex [38]
+) (./Chapters/04_Proteine.tex [38] [39]
 Capitolo 4.
-[39
+[40
 
 ]
 
@@ -1932,27 +1933,23 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 28.
 
-[40] [41] [42] [43] [44] [45]
+[41] [42] [43] [44] [45] [46]
 
 LaTeX Warning: Command \r invalid in math mode on input line 194.
 
-[46] [47] [48] [49] [50] [51]) [52] [53] [54
+[47] [48] [49] [50] [51] [52]) [53] [54] [55
 
 ]
 (./Chapters/05_DNACromosomiGenoma.tex
 Capitolo 5.
-[55
+[56
 
-] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68])
-(./Chapters/06_DNAReplicazioneRiparazioneRicombinazione.tex [69] [70]
+] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69])
+(./Chapters/06_DNAReplicazioneRiparazioneRicombinazione.tex [70] [71]
 Capitolo 6.
-[71
+[72
 
-] [72]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 58.
-
+] [73]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 58.
@@ -1965,42 +1962,42 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 58.
 
-[73] [74] [75]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 58.
+
+[74] [75] [76]
 
 Package Fancyhdr Warning: \headheight is too small (13.07225pt): 
 Make it at least 22.43335pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[76] [77] [78] [79] [80] [81] [82] [83] [84] [85])
-(./Chapters/07_DNAProteine.tex [86]
+[77] [78] [79] [80] [81] [82] [83] [84] [85] [86])
+(./Chapters/07_DNAProteine.tex [87]
 Capitolo 7.
-[87
+[88
 
-] [88] [89] [90] [91] [92]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 149.
-
+] [89] [90] [91] [92] [93]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 149.
 
-[93] [94] [95]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 149.
+
+[94] [95] [96]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 232.
 
-[96] [97] [98] [99] [100] [101]) (./Chapters/08_ControlloGeni.tex [102]
+[97] [98] [99] [100] [101] [102]) (./Chapters/08_ControlloGeni.tex [103]
 Capitolo 8.
-[103
+[104
 
-] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 302.
-
+] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
+[116]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 302.
@@ -2013,13 +2010,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 302.
 
-[116] [117] [118] [119]) [120] [121
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 302.
+
+[117] [118] [119] [120]) [121] [122
 
 ] (./Chapters/09_StrutturaMembrana.tex
 Capitolo 9.
-[122
+[123
 
-] [123] [124] [125]
+] [124] [125] [126]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 106.
@@ -2044,7 +2045,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 116.
 
-[126]
+[127]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 124.
@@ -2057,11 +2058,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 124.
 
-[127]) (./Chapters/10_TrasportoMembrana.tex [128]
+[128]) (./Chapters/10_TrasportoMembrana.tex [129]
 Capitolo 10.
-[129
+[130
 
-] [130]
+] [131]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 57.
@@ -2070,29 +2071,29 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `superscript' on input line 57.
 
-[131]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 70.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 70.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 70.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mhchem@cee' on input line 70.
-
 [132]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 70.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\mhchem@cee' on input line 70.
+
+[133]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 104.
 
-[133]
+[134]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 110.
@@ -2105,7 +2106,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 114.
 
-[134] [135] [136] [137] [138]
+[135] [136] [137] [138] [139]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\mhchem@cee' on input line 231.
@@ -2118,12 +2119,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `superscript' on input line 249.
 
-) (./Chapters/11_CompartimentiIntracellulariOrdinamentoProteine.tex [139]
-[140]
+) (./Chapters/11_CompartimentiIntracellulariOrdinamentoProteine.tex [140]
+[141]
 Capitolo 11.
-[141
+[142
 
-] [142] [143] [144] [145] [146] [147] [148] [149]) [150]
+] [143] [144] [145] [146] [147] [148] [149] [150]) [151]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 28.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 28.
 
@@ -2134,9 +2135,9 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 48255 strings out of 492615
- 1058629 string characters out of 6131391
- 1293843 words of memory out of 5000000
+ 48256 strings out of 492615
+ 1058637 string characters out of 6131391
+ 1296944 words of memory out of 5000000
  50898 multiletter control sequences out of 15000+600000
  547813 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2158,10 +2159,10 @@ exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1000.pfb>
-Output written on ./build/Principal.pdf (151 pages, 717870 bytes).
+Output written on ./build/Principal.pdf (152 pages, 719087 bytes).
 PDF statistics:
- 3874 PDF objects out of 4296 (max. 8388607)
- 3667 compressed objects within 37 object streams
- 585 named destinations out of 1000 (max. 500000)
+ 3878 PDF objects out of 4296 (max. 8388607)
+ 3670 compressed objects within 37 object streams
+ 586 named destinations out of 1000 (max. 500000)
  3381 words of extra memory for PDF output out of 10000 (max. 10000000)
 
