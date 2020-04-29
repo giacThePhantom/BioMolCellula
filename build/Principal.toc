@@ -450,3 +450,7 @@
 \contentsline {subsection}{\numberline {12.1.4}I fosfonositidi marcano gli organelli e i domini di membrana}{160}{subsection.12.1.4}% 
 \contentsline {subsection}{\numberline {12.1.5}Proteine piegatrici della membrana aiutano a deformare la membrana durante la formazione delle vescicole}{161}{subsection.12.1.5}% 
 \contentsline {subsection}{\numberline {12.1.6}Proteine citoplasmatiche regolano la separazione e decapsulamento delle vescicole}{161}{subsection.12.1.6}% 
+\contentsline {chapter}{\numberline {13}Conversione energetica: mitocondri e cloroplasti}{162}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Segnalazione cellulare}{163}{chapter.14}% 
+\contentsline {chapter}{\numberline {15}Il citoscheletro}{164}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{165}{chapter.16}% 
