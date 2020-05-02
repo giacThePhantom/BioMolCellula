@@ -1,473 +1,482 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {part}{I\hspace {1em}Introduzione alla cellula}{17}{part.1}% 
-\contentsline {chapter}{\numberline {1}Introduzione}{18}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Microscopia}{18}{section.1.1}% 
-\contentsline {subsection}{\numberline {1.1.1}Risoluzione}{18}{subsection.1.1.1}% 
-\contentsline {subsubsection}{Parametri fisici}{18}{section*.2}% 
-\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia ottica}{19}{subsection.1.1.2}% 
-\contentsline {subsubsection}{Microscopia a cambio di fase}{19}{section*.3}% 
-\contentsline {subsubsection}{Microscopia a fluorescenza}{19}{section*.4}% 
-\contentsline {paragraph}{FRET}{19}{section*.5}% 
-\contentsline {paragraph}{Photobleach}{19}{section*.6}% 
-\contentsline {section}{\numberline {1.2}Storia}{19}{section.1.2}% 
-\contentsline {chapter}{\numberline {2}Cellule e genomi}{21}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Caratteristiche universali della vita sulla Terra}{21}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Tutte le cellule conservano la loro informazione ereditaria nello stesso codice chimico lineare (DNA)}{21}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Tutte le cellule replicano la loro informazione ereditaria mediante polimerizzazione su uno stampo}{22}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascrivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{22}{subsection.2.1.3}% 
-\contentsline {subsection}{\numberline {2.1.4}Tutte le cellule usano proteine come catalizzatori}{23}{subsection.2.1.4}% 
-\contentsline {subsection}{\numberline {2.1.5}Tutte le cellule traducono RNA nello stesso modo}{23}{subsection.2.1.5}% 
-\contentsline {subsection}{\numberline {2.1.6}Il frammento di informazione genica che corrisponde ad una proteina \`e un gene}{23}{subsection.2.1.6}% 
-\contentsline {subsection}{\numberline {2.1.7}La vita richiede energia libera}{24}{subsection.2.1.7}% 
-\contentsline {subsection}{\numberline {2.1.8}Tutte le cellule funzionano come fabbriche biochimiche che impiegano le stesse strutture molecolare base}{24}{subsection.2.1.8}% 
-\contentsline {subsection}{\numberline {2.1.9}Tutte le cellule sono chiuse in una membrana plasmatica attraverso la quale nutrienti e materiali di scarto devono passare}{24}{subsection.2.1.9}% 
-\contentsline {section}{\numberline {2.2}La diversit\`a dei genomi e l'albero della vita}{24}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Le cellule possono ottenere energia da una variet\`a di fonti di energia libera}{24}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Alcune cellule fissano azoto e anidride carbonica per altre}{25}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}La pi\`u grande diverit\`a biochimica esiste tra le cellule procariote}{25}{subsection.2.2.3}% 
-\contentsline {subsection}{\numberline {2.2.4}L'albero della vita possiede tre rami principali: Batteri, Archei ed Eucarioti}{25}{subsection.2.2.4}% 
-\contentsline {subsection}{\numberline {2.2.5}Alcuni geni evolvono rapidamente, altri sono altamente conservati}{25}{subsection.2.2.5}% 
-\contentsline {subsection}{\numberline {2.2.6}Nuovi geni sono generati da geni preesistenti}{26}{subsection.2.2.6}% 
-\contentsline {subsection}{\numberline {2.2.7}La duplicazione genica permette la creazione di famiglie di geni imparentati in una stessa cellula}{26}{subsection.2.2.7}% 
-\contentsline {subsection}{\numberline {2.2.8}I geni possono essere trasferiti tra organismi}{26}{subsection.2.2.8}% 
-\contentsline {subsection}{\numberline {2.2.9}Molti geni sono comuni tra tutti i rami primari dell'albero della vita}{27}{subsection.2.2.9}% 
-\contentsline {subsection}{\numberline {2.2.10}Le mutazioni rivelano la funzione dei geni}{27}{subsection.2.2.10}% 
-\contentsline {section}{\numberline {2.3}Informazione genetica negli eucarioti}{27}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Le cellule eucariote potrebbero essersi originate come predatori}{27}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Le moderne cellule eucariote si sono evolute da una simbiosi}{27}{subsection.2.3.2}% 
-\contentsline {subsection}{\numberline {2.3.3}Gli eucarioti possiedono genomi ibridi}{28}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}I genomi eucarioti sono grandi}{28}{subsection.2.3.4}% 
-\contentsline {subsection}{\numberline {2.3.5}Il genoma definisce il programma dello sviluppo multicellulare}{28}{subsection.2.3.5}% 
-\contentsline {subsection}{\numberline {2.3.6}Molti eucarioti vivono come cellule solitarie}{29}{subsection.2.3.6}% 
-\contentsline {chapter}{\numberline {3}Chimica e bioenergetica della cellula}{30}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Le componenti chimiche della cellula}{30}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}L'acqua \`e mantenuta da legami a idrogeno}{30}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}Quattro tipi di attrazione non covalente aiuta a unire le molecole nelle cellule}{31}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Alcune molecole polari formano acidi e basi in acqua}{31}{subsection.3.1.3}% 
-\contentsline {subsection}{\numberline {3.1.4}La cellula \`e formata da composti di carbonio}{31}{subsection.3.1.4}% 
-\contentsline {subsection}{\numberline {3.1.5}Le cellule contengono quattro principali famiglie di piccole molecole organiche}{32}{subsection.3.1.5}% 
-\contentsline {subsection}{\numberline {3.1.6}La chimica della cellula \`e dominata da macromolecole con propriet\`a notevoli}{32}{subsection.3.1.6}% 
-\contentsline {subsection}{\numberline {3.1.7}I legami non covalenti specificano la forma di una macromolecola e i suoi legami con le altre molecole}{32}{subsection.3.1.7}% 
-\contentsline {section}{\numberline {3.2}Catalisi e utilizzo dell'energia da parte delle cellule}{33}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Il metabolismo della cellula \`e organizzato dagli enzimi}{33}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}L'ordine biologico \`e reso possibile dal rilascio di calore dalla cellula}{33}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Le cellule ottengono energia ossidando molecole organiche}{33}{subsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.2.4}Ossidazione e riduzione coinvolgono il trasferimento di elettroni}{33}{subsection.3.2.4}% 
-\contentsline {subsection}{\numberline {3.2.5}Gli enzimi abbassano la barriera di energia di attivazione che blocca la reazione chimica}{34}{subsection.3.2.5}% 
-\contentsline {subsection}{\numberline {3.2.6}Gli enzimi possono guidare i substrati lungo specifici cammini di reazioni}{34}{subsection.3.2.6}% 
-\contentsline {subsection}{\numberline {3.2.7}Come gli enzimi trovano i loro substrati, la rapidit\`a dei movimenti molecolari}{34}{subsection.3.2.7}% 
-\contentsline {subsection}{\numberline {3.2.8}Il cambio di energia libera di una reazione determina se pu\`o avvenire spontaneamente}{35}{subsection.3.2.8}% 
-\contentsline {subsection}{\numberline {3.2.9}Molecole vettore attivate sono essenziali per la biosintesi}{35}{subsection.3.2.9}% 
-\contentsline {subsection}{\numberline {3.2.10}L'ATP \`e il vettore attivo pi\`u utilizzato}{35}{subsection.3.2.10}% 
-\contentsline {subsection}{\numberline {3.2.11}NADH e NADPH sono vettori di elettroni}{36}{subsection.3.2.11}% 
-\contentsline {subsection}{\numberline {3.2.12}Esistono molte altre molecole vettori nella cellula}{36}{subsection.3.2.12}% 
-\contentsline {subsection}{\numberline {3.2.13}La sintesi di polimeri biologici \`e guidata dall'idrolisi dell'\ce {ATP}}{37}{subsection.3.2.13}% 
-\contentsline {section}{\numberline {3.3}Come le cellule ottengono energia dai nutrienti}{37}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}La glicolisi \`e un cammino centrale per produrre \ce {ATP}}{37}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}La fermentazione produce \ce {ATP} in assenza di ossigeno}{38}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}La glicolisi mostra come gli enzimi accoppiano l'ossidazione alla conservazione di energia}{38}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3.3.4}Gli organismi conservano le molecole nutrienti in serbatoi speciali}{38}{subsection.3.3.4}% 
-\contentsline {subsection}{\numberline {3.3.5}Zuccheri e acidi grassi sono degradati in acetile \ce {CoA} nei mitocondri}{39}{subsection.3.3.5}% 
-\contentsline {subsection}{\numberline {3.3.6}Il ciclo di acido citrico genera \ce {NADH} ossidando i gruppi acetili in \ce {CO2}}{39}{subsection.3.3.6}% 
-\contentsline {subsection}{\numberline {3.3.7}Il trasporto di elettroni guida la sintesi della maggiori parte dell'\ce {ATP} nelle cellule}{39}{subsection.3.3.7}% 
-\contentsline {subsection}{\numberline {3.3.8}Amminoacidi e nucleotidi sono parte del ciclo azotato}{40}{subsection.3.3.8}% 
-\contentsline {chapter}{\numberline {4}Proteine}{41}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Forma e struttura delle proteine}{41}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}La forma di una proteina \`e specificata dalla sua sequenza degli amminoacidi}{41}{subsection.4.1.1}% 
-\contentsline {subsection}{\numberline {4.1.2}Le proteine si ripiegano nella conformazione a minore energia}{42}{subsection.4.1.2}% 
-\contentsline {subsection}{\numberline {4.1.3}L'$\alpha $-elica e il $\beta $-foglietto sono pattern di piegamento comuni}{42}{subsection.4.1.3}% 
-\contentsline {subsection}{\numberline {4.1.4}I domini proteici sono unit\`a modulari da cui le proteine pi\`u grandi sono costruite}{42}{subsection.4.1.4}% 
-\contentsline {subsection}{\numberline {4.1.5}Poche delle catene polipeptidiche possibili saranno utili alla cellula}{42}{subsection.4.1.5}% 
-\contentsline {subsection}{\numberline {4.1.6}Le proteine possono essere classificate in molte famiglie}{43}{subsection.4.1.6}% 
-\contentsline {subsection}{\numberline {4.1.7}Alcuni domini proteici si trovano in molte proteine diverse}{43}{subsection.4.1.7}% 
-\contentsline {subsection}{\numberline {4.1.8}Il genoma umano codifica un complesso insieme di proteine, rivelando che molto rimane sconosciuto}{43}{subsection.4.1.8}% 
-\contentsline {subsection}{\numberline {4.1.9}Proteine pi\`u grandi contengono pi\`u di una catena polipeptidica}{44}{subsection.4.1.9}% 
-\contentsline {subsection}{\numberline {4.1.10}Alcune proteine globulari formano lunghi filamenti elicoidali}{44}{subsection.4.1.10}% 
-\contentsline {subsection}{\numberline {4.1.11}Molte proteine hanno forme allungate e fibrose}{44}{subsection.4.1.11}% 
-\contentsline {subsection}{\numberline {4.1.12}Le proteine contengono una grande quantit\`a di catene polipeptidiche intrinsecamente disordinate}{44}{subsection.4.1.12}% 
-\contentsline {subsection}{\numberline {4.1.13}Legami incrociati covalenti stabilizzano proteine extracellulari}{44}{subsection.4.1.13}% 
-\contentsline {subsection}{\numberline {4.1.14}Le molecole proteiche spesso svolgono la funzione di subunit\`a per l'assemblaggio di grandi strutture}{45}{subsection.4.1.14}% 
-\contentsline {subsection}{\numberline {4.1.15}I fattori di assemblaggio aiutano la formazione di complesse strutture biologiche}{45}{subsection.4.1.15}% 
-\contentsline {subsection}{\numberline {4.1.16}Fibrille amiloidi possono formarsi da molte proteine}{45}{subsection.4.1.16}% 
-\contentsline {subsection}{\numberline {4.1.17}Molte proteine contengono domini a bassa complessit\`a che possono formare amiloidi reversibili}{46}{subsection.4.1.17}% 
-\contentsline {section}{\numberline {4.2}Funzione delle proteine}{46}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Tutte le proteine si legano ad altre molecole}{46}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}La conformazione superficiale di una proteina determina la sua chimica}{46}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}La comparazione di sotto-sequenze tra membri di una famiglia proteica evidenzia i siti di legame cruciali}{47}{subsection.4.2.3}% 
-\contentsline {subsection}{\numberline {4.2.4}Le proteine si legano con altre proteine attraverso molti tipi di interfacce}{47}{subsection.4.2.4}% 
-\contentsline {subsection}{\numberline {4.2.5}I siti di legame degli anticorpi sono estremamente versatili}{47}{subsection.4.2.5}% 
-\contentsline {subsection}{\numberline {4.2.6}La costante di equilibrio misura la forza di legame}{47}{subsection.4.2.6}% 
-\contentsline {subsection}{\numberline {4.2.7}Gli enzimi sono catalizzatori potenti e molto specifici}{48}{subsection.4.2.7}% 
-\contentsline {subsection}{\numberline {4.2.8}Il legame con il substrato \`e il primo passo nella catalisi enzimatica}{48}{subsection.4.2.8}% 
-\contentsline {subsection}{\numberline {4.2.9}Gli enzimi velocizzano la reazione stabilizzando selettivamente stati transitivi}{48}{subsection.4.2.9}% 
-\contentsline {subsection}{\numberline {4.2.10}Gli enzimi possono usare simultaneamente catalizzatori acidi e basici}{48}{subsection.4.2.10}% 
-\contentsline {subsection}{\numberline {4.2.11}Il lisozima illustra come un enzima funziona}{49}{subsection.4.2.11}% 
-\contentsline {subsection}{\numberline {4.2.12}Molecole strettamente legate aggiungono altre funzioni alle proteine}{49}{subsection.4.2.12}% 
-\contentsline {subsection}{\numberline {4.2.13}Complessi multi-enzima aiutano ad aumentare il tasso del metabolismo cellulare}{49}{subsection.4.2.13}% 
-\contentsline {subsection}{\numberline {4.2.14}La cellula regola le attivit\`a catalitiche dei propri enzimi}{50}{subsection.4.2.14}% 
-\contentsline {subsection}{\numberline {4.2.15}Gli enzimi allosterici possiedono due o pi\`u siti di legame che interagiscono}{50}{subsection.4.2.15}% 
-\contentsline {subsection}{\numberline {4.2.16}Due ligandi i cui siti di legame sono accoppiati devono avere effetto reciprocamente sul legame dell'altro}{50}{subsection.4.2.16}% 
-\contentsline {subsection}{\numberline {4.2.17}Insiemi di proteine simmetrici producono transizioni allosteriche cooperative}{51}{subsection.4.2.17}% 
-\contentsline {subsection}{\numberline {4.2.18}Molti cambi nelle proteine sono guidati dalla fosforilazione proteica}{51}{subsection.4.2.18}% 
-\contentsline {subsection}{\numberline {4.2.19}Una cellula eucariotica contiene un gran numero di proteina chinasi e proteina fosfatasi}{51}{subsection.4.2.19}% 
-\contentsline {subsection}{\numberline {4.2.20}La regolazione della proteina chinasi Src rivela come una proteina pu\`o funzionare come un microprocessore}{51}{subsection.4.2.20}% 
-\contentsline {subsection}{\numberline {4.2.21}Le proteine che si legano e regolano il GTP sono onnipresenti regolatori}{52}{subsection.4.2.21}% 
-\contentsline {subsection}{\numberline {4.2.22}Le proteine regolatorie GAP e GEF controllano l'ativit\`a delle proteine GTP-leganti determinando se \`e legato GTP o GDP}{52}{subsection.4.2.22}% 
-\contentsline {subsection}{\numberline {4.2.23}Le proteine possono essere regolate dall'aggiunta covalente di altre proteine}{52}{subsection.4.2.23}% 
-\contentsline {subsection}{\numberline {4.2.24}Un elaborato sistema di coniugazione di ubiquitina \`e utilizzato per marcare le proteine}{52}{subsection.4.2.24}% 
-\contentsline {subsection}{\numberline {4.2.25}I complessi proteici con parti interscambiabili fanno un efficiente uso dell'informazione genica}{53}{subsection.4.2.25}% 
-\contentsline {subsection}{\numberline {4.2.26}Una proteina GTP-legante mostra come grandi movimenti proteici siano possibili}{53}{subsection.4.2.26}% 
-\contentsline {subsection}{\numberline {4.2.27}Le proteine motrici producono grandi movimenti nelle cellule}{53}{subsection.4.2.27}% 
-\contentsline {subsection}{\numberline {4.2.28}I trasportatori di membrana imbrigliano energia per pompare le molecole attraverso le membrane}{54}{subsection.4.2.28}% 
-\contentsline {subsection}{\numberline {4.2.29}Le proteine formano grandi complessi che funzionano come macchinari proteici}{54}{subsection.4.2.29}% 
-\contentsline {subsection}{\numberline {4.2.30}Impalcature concentrano insiemi di proteine che interagiscono}{54}{subsection.4.2.30}% 
-\contentsline {subsection}{\numberline {4.2.31}Molte proteine sono controllate da modifiche covalenti che le dirigono verso siti specifici all'interno della cellula}{54}{subsection.4.2.31}% 
-\contentsline {subsection}{\numberline {4.2.32}Una complessa rete di interazioni proteiche sottosta alle funzioni della cellula}{54}{subsection.4.2.32}% 
-\contentsline {part}{II\hspace {1em}Meccanismi genetici basici}{56}{part.2}% 
-\contentsline {chapter}{\numberline {5}DNA, cromosomi e genomi}{57}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{57}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Una molecola di DNA consiste di due catene di nucleotidi complementari}{57}{subsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}La struttura del DNA mette a disposizione un meccanismo per l'ereditariet\`a}{58}{subsection.5.1.2}% 
-\contentsline {subsection}{\numberline {5.1.3}Negli eucarioti il DNA \`e racchiuso nel nucleo cellulare}{58}{subsection.5.1.3}% 
-\contentsline {section}{\numberline {5.2}DNA cromosomico e il suo confezionamento nella fibra cromatina}{58}{section.5.2}% 
-\contentsline {subsection}{\numberline {5.2.1}Il DNA eucariotico \`e confezionato in un insieme di cromosomi}{58}{subsection.5.2.1}% 
-\contentsline {subsection}{\numberline {5.2.2}I cromosomi contengono lunghe stringhe di geni}{59}{subsection.5.2.2}% 
-\contentsline {subsection}{\numberline {5.2.3}La sequenza nucleotidica del genoma umano mostra come i geni sono ordinati}{59}{subsection.5.2.3}% 
-\contentsline {subsection}{\numberline {5.2.4}Ogni molecola di DNA che forma un cromosoma lineare deve contenere un centromero, due telomeri e un'origine di replicazione}{59}{subsection.5.2.4}% 
-\contentsline {subsection}{\numberline {5.2.5}Le molecole di DNA sono altamente conservate nei cromosomi}{60}{subsection.5.2.5}% 
-\contentsline {subsection}{\numberline {5.2.6}I nucleosomi sono unit\`a base della struttura del cromosoma eucariote}{60}{subsection.5.2.6}% 
-\contentsline {subsection}{\numberline {5.2.7}La struttura del nucleo del nucleosoma rivela come il DNA \`e condensato}{60}{subsection.5.2.7}% 
-\contentsline {subsection}{\numberline {5.2.8}I nucleosomi hanno strutture dinamiche e sono soggetti a cambi catalizzati da complessi rimodellanti a cromatina ATP-dipendenti}{61}{subsection.5.2.8}% 
-\contentsline {subsection}{\numberline {5.2.9}I nucleosomi sono tipicamente condensati in una fibra cromatinica}{61}{subsection.5.2.9}% 
-\contentsline {section}{\numberline {5.3}La struttura e la funzione della cromatina}{61}{section.5.3}% 
-\contentsline {subsection}{\numberline {5.3.1}L'eterocromatina \`e altamente organizzata e limita l'espressione genica}{61}{subsection.5.3.1}% 
-\contentsline {subsection}{\numberline {5.3.2}Lo stato eterocromatico \`e auto-propagante}{62}{subsection.5.3.2}% 
-\contentsline {subsection}{\numberline {5.3.3}I nuclei istonici sono modificati covalentemente a molti siti diversi}{62}{subsection.5.3.3}% 
-\contentsline {subsection}{\numberline {5.3.4}La cromatina acquisisce variet\`a addizionale attraverso inserzioni specifiche al sito di un insieme di varianti di istoni}{62}{subsection.5.3.4}% 
-\contentsline {subsection}{\numberline {5.3.5}Le modifiche covalenti e le varianti istoniche agiscono insieme per controllare le funzioni dei cromosomi}{62}{subsection.5.3.5}% 
-\contentsline {subsection}{\numberline {5.3.6}Un complesso di proteine lettrici e scrittrici possono espandere modifiche alla cromatina lungo un cromosoma}{63}{subsection.5.3.6}% 
-\contentsline {subsection}{\numberline {5.3.7}Barriere nella sequenza di DNA bloccano l'espansione dei complessi di lettura-scrittura separando domini di cromatina vicini}{63}{subsection.5.3.7}% 
-\contentsline {subsection}{\numberline {5.3.8}La cromatina nei centromeri rivela come le varianti degli istoni possono creare strutture speciali}{63}{subsection.5.3.8}% 
-\contentsline {subsection}{\numberline {5.3.9}Alcune strutture cromatiniche possono essere ereditate direttamente}{64}{subsection.5.3.9}% 
-\contentsline {subsection}{\numberline {5.3.10}L'attivazione e la repressione di strutture di cromatina pu\`o essere ereditato epigeneticamente}{64}{subsection.5.3.10}% 
-\contentsline {subsection}{\numberline {5.3.11}Le strutture di cromatina sono importanti per le funzioni del cromosoma eucariotico}{64}{subsection.5.3.11}% 
-\contentsline {section}{\numberline {5.4}La struttura globale dei cromosomi}{64}{section.5.4}% 
-\contentsline {subsection}{\numberline {5.4.1}I cromosomi sono piegati in grandi anelli di cromatina}{64}{subsection.5.4.1}% 
-\contentsline {subsection}{\numberline {5.4.2}Cromosomi politene sono utili per visualizzare le strutture di cromatina}{64}{subsection.5.4.2}% 
-\contentsline {subsection}{\numberline {5.4.3}Esistono multiple forme di cromatina}{65}{subsection.5.4.3}% 
-\contentsline {subsection}{\numberline {5.4.4}Gli anelli di cromatina decondensano quando i geni al loro interno sono espressi}{65}{subsection.5.4.4}% 
-\contentsline {subsection}{\numberline {5.4.5}La cromatina pu\`o muoversi a siti specifici nel nucleo per alterare l'espressione dei geni}{65}{subsection.5.4.5}% 
-\contentsline {subsection}{\numberline {5.4.6}Reti di macromolecole formano un insieme di ambienti biochimici distinti nel nucleo}{66}{subsection.5.4.6}% 
-\contentsline {subsection}{\numberline {5.4.7}I cromosomi mitotici sono altamente condensati}{66}{subsection.5.4.7}% 
-\contentsline {section}{\numberline {5.5}Come si evolvono i genomi}{66}{section.5.5}% 
-\contentsline {subsection}{\numberline {5.5.1}Il confronto tra i genomi rivela sequenze di DNA attraverso la loro evoluzione del throughput di evoluzione}{67}{subsection.5.5.1}% 
-\contentsline {subsection}{\numberline {5.5.2}L'alterazione dei genomi \`e causata da fallimento del normale meccanismo per la copia e il mantenimento del DNA e da elementi del DNA trasponibili}{67}{subsection.5.5.2}% 
-\contentsline {subsection}{\numberline {5.5.3}La sequenza genomica di due specie differisce in proporzione al tempo in cui si sono evolute separatamente}{67}{subsection.5.5.3}% 
-\contentsline {subsection}{\numberline {5.5.4}L'albero filogenetico costruito dal confronto delle sequenze di DNA traccia le relazioni di tutti gli organismi}{67}{subsection.5.5.4}% 
-\contentsline {subsection}{\numberline {5.5.5}Un confronto tra cromosomi umani e dei topi mostra come la struttura dei genomi diverge}{68}{subsection.5.5.5}% 
-\contentsline {subsection}{\numberline {5.5.6}La dimensione del genoma dei vertebrati riflette i tassi relativi di addizione e perdita del DNA in un lignaggio}{68}{subsection.5.5.6}% 
-\contentsline {subsection}{\numberline {5.5.7}Si pu\`o inferire la sequenza di alcuni genomi antichi}{68}{subsection.5.5.7}% 
-\contentsline {subsection}{\numberline {5.5.8}Il confronto tra sequenze multispecie identifica sequenze di DNA conservato di funzione sconosciuta}{69}{subsection.5.5.8}% 
-\contentsline {subsection}{\numberline {5.5.9}Cambi in sequenze precedentemente conservate possono aiutare a decifrare passi critici dell'evoluzione}{69}{subsection.5.5.9}% 
-\contentsline {subsection}{\numberline {5.5.10}Mutazioni nella sequenza di DNA che controlla l'espressione genica ha guidato molti dei cambi evolutivi nei vertebrati}{69}{subsection.5.5.10}% 
-\contentsline {subsection}{\numberline {5.5.11}La duplicazione genica fornisce una fonte di novit\`a genica durante l'evoluzione}{69}{subsection.5.5.11}% 
-\contentsline {subsection}{\numberline {5.5.12}Geni duplicati divergono}{70}{subsection.5.5.12}% 
-\contentsline {subsection}{\numberline {5.5.13}L'evoluzione del gene globina mostra come la duplicazione del DNA contribuisce all'evoluzione degli organismi}{70}{subsection.5.5.13}% 
-\contentsline {subsection}{\numberline {5.5.14}I geni che codificano nuove proteine possono essere creati ricombinando gli esoni}{70}{subsection.5.5.14}% 
-\contentsline {subsection}{\numberline {5.5.15}Mutazioni neutrali si diffondono diventando fissate in una popolazione, con probabilit\`a dipendente dalla dimensione della popolazione}{71}{subsection.5.5.15}% 
-\contentsline {subsection}{\numberline {5.5.16}Molto pu\`o essere imparato dall'analisi della variazione tra gli umani}{71}{subsection.5.5.16}% 
-\contentsline {chapter}{\numberline {6}Replicazione, riparazione e ricombinazione del DNA}{73}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Il mantenimento della sequenza di DNA}{73}{section.6.1}% 
-\contentsline {subsection}{\numberline {6.1.1}I tassi di mutazione sono estremamente bassi}{73}{subsection.6.1.1}% 
-\contentsline {subsection}{\numberline {6.1.2}I tassi di mutazione bassi sono necessari per la vita come la conosciamo}{74}{subsection.6.1.2}% 
-\contentsline {section}{\numberline {6.2}Meccanismi di replicazione del DNA}{74}{section.6.2}% 
-\contentsline {subsection}{\numberline {6.2.1}L'accoppiamento delle basi sottost\`a la replicazione e riparazione del DNA}{74}{subsection.6.2.1}% 
-\contentsline {subsection}{\numberline {6.2.2}La forcella di replicazione del DNA \`e asimmetrica}{74}{subsection.6.2.2}% 
-\contentsline {subsection}{\numberline {6.2.3}L'alta fedelt\`a del meccanismo di replicazione del DNA richiede molti meccanismi di correzione}{75}{subsection.6.2.3}% 
-\contentsline {subsection}{\numberline {6.2.4}Solo la replicazione nella direzione $5'$-$3'$ permette una correzione efficiente}{75}{subsection.6.2.4}% 
-\contentsline {subsection}{\numberline {6.2.5}Un enzima che polimerizza i nucleotidi sintetizza corti primer di RNA sul filamento in ritardo}{76}{subsection.6.2.5}% 
-\contentsline {subsection}{\numberline {6.2.6}Proteine speciali aiutano l'apertura della doppia elica sopra la forcella di replicazione}{76}{subsection.6.2.6}% 
-\contentsline {subsection}{\numberline {6.2.7}Un anello che scivola mantiene una DNA polimerasi in movimento sul DNA}{76}{subsection.6.2.7}% 
-\contentsline {subsection}{\numberline {6.2.8}Le proteine a una forcella di replicazione cooperano per formare una macchina di replicazione}{77}{subsection.6.2.8}% 
-\contentsline {subsection}{\numberline {6.2.9}Un sistema di riparazione direzionato al filamento rimuove gli errori di replicazione che sfuggono alla macchina di replicazione}{77}{subsection.6.2.9}% 
-\contentsline {subsection}{\numberline {6.2.10}La DNA topoisomerasi impedisce l'ingarbugliamento del DNA durante la replicazione}{77}{subsection.6.2.10}% 
-\contentsline {subsection}{\numberline {6.2.11}La replicazione del DNA \`e fondamentalmente simile in eucarioti e batteri}{78}{subsection.6.2.11}% 
-\contentsline {section}{\numberline {6.3}Inizializzazione e completamento della replicazione del DNA nei cromosomi}{78}{section.6.3}% 
-\contentsline {subsection}{\numberline {6.3.1}La sintesi del DNA inizia alle origini di replicazione}{78}{subsection.6.3.1}% 
-\contentsline {subsection}{\numberline {6.3.2}I cromosomi batterici hanno un origine singola per la replicazione}{78}{subsection.6.3.2}% 
-\contentsline {subsection}{\numberline {6.3.3}I cromosomi eucariotici contengono multiple origini di replicazione}{79}{subsection.6.3.3}% 
-\contentsline {subsection}{\numberline {6.3.4}Negli eucarioti la replicazione del DNA avviene durante un'unica parte del ciclo vitale della cellula}{79}{subsection.6.3.4}% 
-\contentsline {subsection}{\numberline {6.3.5}Diverse regioni dello stesso cromosoma si replicano a tempi distinti durante la fase S}{79}{subsection.6.3.5}% 
-\contentsline {subsection}{\numberline {6.3.6}Un grande complesso multisubunit\`a si lega alle origini di replicazione eucariotiche}{79}{subsection.6.3.6}% 
-\contentsline {subsection}{\numberline {6.3.7}Nuovi nucleosomi sono assemblati in coda alla forcella di replicazione}{80}{subsection.6.3.7}% 
-\contentsline {subsubsection}{la telomerasi replica la fine dei cromosomi}{80}{section*.8}% 
-\contentsline {subsection}{\numberline {6.3.8}I telomeri sono condensati in strutture specializzate che proteggono la fine dei cromosomi}{80}{subsection.6.3.8}% 
-\contentsline {subsection}{\numberline {6.3.9}La lunghezza dei telomeri \`e regolata dalla cellula e dagli organismi}{81}{subsection.6.3.9}% 
-\contentsline {section}{\numberline {6.4}Riparazione del DNA}{81}{section.6.4}% 
-\contentsline {subsection}{\numberline {6.4.1}Senza la riparazione del DNA, danni spontanei cambierebbero rapidamente la sequenza del DNA}{81}{subsection.6.4.1}% 
-\contentsline {subsection}{\numberline {6.4.2}La doppia elica del DNA \`e prontamente riparata}{81}{subsection.6.4.2}% 
-\contentsline {subsection}{\numberline {6.4.3}Danni al DNA possono essere rimossi attraverso molti cammini}{81}{subsection.6.4.3}% 
-\contentsline {subsection}{\numberline {6.4.4}L'accoppiamento di riparazione a asportazione di nucleotidi con la trascrizione garantisce che il DNA pi\`u importante \`e riparato efficientemente}{82}{subsection.6.4.4}% 
-\contentsline {subsection}{\numberline {6.4.5}La chimica delle basi del DNA facilita l'individuazione dei danni}{82}{subsection.6.4.5}% 
-\contentsline {subsection}{\numberline {6.4.6}Speciali translesion della DNA polimerasi sono usate durante emergenze}{82}{subsection.6.4.6}% 
-\contentsline {subsection}{\numberline {6.4.7}Rotture nel doppio filamento sono efficientemente riparate}{83}{subsection.6.4.7}% 
-\contentsline {subsection}{\numberline {6.4.8}Danno al DNA ritarda la progressione del ciclo cellulare}{83}{subsection.6.4.8}% 
-\contentsline {subsection}{\numberline {6.4.9}Riparazione omologa}{83}{subsection.6.4.9}% 
-\contentsline {subsection}{\numberline {6.4.10}L'accoppiamento delle basi del DNA guida la ricombinazione omologa}{83}{subsection.6.4.10}% 
-\contentsline {subsection}{\numberline {6.4.11}La ricombinazione omologa pu\`o riparare perfettamente rotture a doppio filamento nel DNA}{84}{subsection.6.4.11}% 
-\contentsline {subsection}{\numberline {6.4.12}Il cambio di filamenti avviene grazie la proteina RecA/Rad51}{84}{subsection.6.4.12}% 
-\contentsline {subsection}{\numberline {6.4.13}La ricombinazione omologa pu\`o salvare forcelle di replicazione danneggiate}{84}{subsection.6.4.13}% 
-\contentsline {subsection}{\numberline {6.4.14}Le cellule regolano l'uso della ricombinazione omologa durante la riparazione del DNA}{84}{subsection.6.4.14}% 
-\contentsline {subsection}{\numberline {6.4.15}La ricombinazione omologa \`e cruciale per la meiosi}{85}{subsection.6.4.15}% 
-\contentsline {subsection}{\numberline {6.4.16}La ricombinazione meiotica comincia con una rottura a doppio filamento programmata}{85}{subsection.6.4.16}% 
-\contentsline {subsection}{\numberline {6.4.17}Le giunzioni di Holliday sono formate durante la meiosi}{85}{subsection.6.4.17}% 
-\contentsline {subsection}{\numberline {6.4.18}La ricombinazione omologa produce crossover e non-crossover durante la meiosi}{85}{subsection.6.4.18}% 
-\contentsline {subsection}{\numberline {6.4.19}La ricombinazione omologa solitamente causa conversione genica}{86}{subsection.6.4.19}% 
-\contentsline {section}{\numberline {6.5}Trasposizione e ricombinazione specifica al sito conservativa}{86}{section.6.5}% 
-\contentsline {subsection}{\numberline {6.5.1}Attraverso la transizione gli elementi genetici mobili possono inserirsi in ogni sequenza di DNA}{86}{subsection.6.5.1}% 
-\contentsline {subsection}{\numberline {6.5.2}Trasposoni solo a DNA si possono muovere attraverso un meccanismo a copia-incolla}{87}{subsection.6.5.2}% 
-\contentsline {subsection}{\numberline {6.5.3}Alcuni virus usano un meccanismo di trasposizione per muoversi nel cromosoma della cellula ospite}{87}{subsection.6.5.3}% 
-\contentsline {subsection}{\numberline {6.5.4}Retrotrasposoni simili ai retrovirus assomigliano ai retrovirus ma non possiedono un capside}{87}{subsection.6.5.4}% 
-\contentsline {subsection}{\numberline {6.5.5}Una grande frazione del genoma umano \`e composta di retrotrasposoni nonvirali}{87}{subsection.6.5.5}% 
-\contentsline {subsection}{\numberline {6.5.6}La ricombinazione conservativa specifica al sito pu\`o riordinare il DNA reversibilmente}{88}{subsection.6.5.6}% 
-\contentsline {chapter}{\numberline {7}Come una cellula legge il genoma, dal DNA alle proteine}{89}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Dal DNA all'RNA}{89}{section.7.1}% 
-\contentsline {subsection}{\numberline {7.1.1}Le molecole di RNA hanno un unico filamento}{89}{subsection.7.1.1}% 
-\contentsline {subsection}{\numberline {7.1.2}La trascrizione produce RNA complementare a un filamento di DNA}{90}{subsection.7.1.2}% 
-\contentsline {subsection}{\numberline {7.1.3}L'RNA polimerasi causa la trascrizione}{90}{subsection.7.1.3}% 
-\contentsline {subsection}{\numberline {7.1.4}Le cellule producono diverse categorie di molecole di RNA}{90}{subsection.7.1.4}% 
-\contentsline {subsection}{\numberline {7.1.5}Segnali codificati nel DNA indicano l'RNA polimerasi dove iniziare e dove finire}{90}{subsection.7.1.5}% 
-\contentsline {subsection}{\numberline {7.1.6}I segnali di inizio e terminazione della trascrizione sono eterogenei nella sequenza nucleotidica}{91}{subsection.7.1.6}% 
-\contentsline {subsection}{\numberline {7.1.7}L'iniziazione della trascrizione negli eucarioti richiede molte proteine}{91}{subsection.7.1.7}% 
-\contentsline {subsection}{\numberline {7.1.8}La RNA polimearsi II richiede un insieme di fattori di trascrizione generali}{92}{subsection.7.1.8}% 
-\contentsline {subsection}{\numberline {7.1.9}La polimerasi II richiede attivatori, mediatori e proteine per la modifica della cromatina}{92}{subsection.7.1.9}% 
-\contentsline {subsection}{\numberline {7.1.10}L'allungamento della trascrizione negli eucarioti richiede proteine accessorie}{92}{subsection.7.1.10}% 
-\contentsline {subsection}{\numberline {7.1.11}La trascrizione crea tensione superelicale}{93}{subsection.7.1.11}% 
-\contentsline {subsection}{\numberline {7.1.12}L'allungamento della trascrizione \`e strettamente accoppiato con il processamento dell'RNA}{93}{subsection.7.1.12}% 
-\contentsline {subsection}{\numberline {7.1.13}L incappucciamento dell'RNA \`e la prima modifica dei pre-mRNA eucariotici}{93}{subsection.7.1.13}% 
-\contentsline {subsection}{\numberline {7.1.14}L'RNA splicing rimuove le sequenze di introni dal pre-mRNA}{93}{subsection.7.1.14}% 
-\contentsline {subsection}{\numberline {7.1.15}Sequenze di nucleotidi segnalano dove avviene lo slicing}{93}{subsection.7.1.15}% 
-\contentsline {subsection}{\numberline {7.1.16}Lo splicing dell'RNA \`e svolto dallo spliceosoma}{94}{subsection.7.1.16}% 
-\contentsline {subsection}{\numberline {7.1.17}Lo spliceosoma usa l'idrolisi dell'ATP per produrre una sere di riordinamenti RNA-RNA}{94}{subsection.7.1.17}% 
-\contentsline {subsection}{\numberline {7.1.18}Altre propriet\`a del pre-mRNA e la sua sintesi spiega le scelte dei siti propri di splice}{94}{subsection.7.1.18}% 
-\contentsline {subsection}{\numberline {7.1.19}La struttura cromatinica influenza l'RNA splicing}{95}{subsection.7.1.19}% 
-\contentsline {subsection}{\numberline {7.1.20}Lo splicing di RNA mostra plasticit\`a notevole}{95}{subsection.7.1.20}% 
-\contentsline {subsection}{\numberline {7.1.21}Rna splicing catalizzato dallo spliceosoma si \`e probabilmente evoluto da meccanismi di autosplicing}{95}{subsection.7.1.21}% 
-\contentsline {subsection}{\numberline {7.1.22}Enzimi di processamento dell'RNA generano la terminazione $\mathbf {3'}$ degli mRNA eucariotici}{95}{subsection.7.1.22}% 
-\contentsline {subsection}{\numberline {7.1.23}mRNA maturi eucariotici sono esportati selettivamente dal nucleo}{96}{subsection.7.1.23}% 
-\contentsline {subsection}{\numberline {7.1.24}Anche gli RNA non codificanti sono sintetizzati e processati nel nucleo}{96}{subsection.7.1.24}% 
-\contentsline {subsection}{\numberline {7.1.25}Il nucleolo \`e una fabbrica di produzione di ribosomi}{97}{subsection.7.1.25}% 
-\contentsline {subsection}{\numberline {7.1.26}Il nucleo contiene una variet\`a di aggregati subnucleari}{97}{subsection.7.1.26}% 
-\contentsline {section}{\numberline {7.2}Da RNA a proteine}{97}{section.7.2}% 
-\contentsline {subsection}{\numberline {7.2.1}Una sequenza di mRNA \`e decodificata in insiemi di tre nucleotidi}{97}{subsection.7.2.1}% 
-\contentsline {subsection}{\numberline {7.2.2}Molecole di tRNA combinano amminoacidi ai codoni}{98}{subsection.7.2.2}% 
-\contentsline {subsection}{\numberline {7.2.3}tRNA sono modificati covalentemente prima che escano dal nucleo}{98}{subsection.7.2.3}% 
-\contentsline {subsection}{\numberline {7.2.4}Specifici enzimi accoppiano amminoacidi con la molecola di tRNA appropriata}{98}{subsection.7.2.4}% 
-\contentsline {subsection}{\numberline {7.2.5}La modifica da tRNA sintetasi assicura accuratezza}{98}{subsection.7.2.5}% 
-\contentsline {subsection}{\numberline {7.2.6}Gli amminoacidi sono aggiunti alla terminazione \ce {C-} di una catena polipeptidica crescente}{99}{subsection.7.2.6}% 
-\contentsline {subsection}{\numberline {7.2.7}Il messaggio di RNA \`e decodificato nei ribosomi}{99}{subsection.7.2.7}% 
-\contentsline {subsection}{\numberline {7.2.8}Fattori di allungamento portano avanti la traduzione e ne aumentano l'accuratezza}{99}{subsection.7.2.8}% 
-\contentsline {subsection}{\numberline {7.2.9}Molti processi biologici superano le limitazioni intrinseche all'accoppiamento di basi complementari}{100}{subsection.7.2.9}% 
-\contentsline {subsection}{\numberline {7.2.10}L'accuratezza nella traduzione richiede una spesa di energia libera}{100}{subsection.7.2.10}% 
-\contentsline {subsection}{\numberline {7.2.11}Il ribosoma \`e un ribozima}{100}{subsection.7.2.11}% 
-\contentsline {subsection}{\numberline {7.2.12}La sequenza nucleotidica negli mRNA segnala dove iniziare la sintesi delle proteine}{101}{subsection.7.2.12}% 
-\contentsline {subsection}{\numberline {7.2.13}I codoni di fine marcano la fine della traduzione}{101}{subsection.7.2.13}% 
-\contentsline {subsection}{\numberline {7.2.14}Le proteine sono create su poliribosomi}{102}{subsection.7.2.14}% 
-\contentsline {subsection}{\numberline {7.2.15}Ci sono piccole variazioni nel codice genetico standard}{102}{subsection.7.2.15}% 
-\contentsline {subsection}{\numberline {7.2.16}Meccanismi di controllo della qualit\`a agiscono per prevenire la traduzione di mRNA danneggiati}{102}{subsection.7.2.16}% 
-\contentsline {subsection}{\numberline {7.2.17}Alcune proteine cominciano a piegarsi mentre vengono sintetizzate}{102}{subsection.7.2.17}% 
-\contentsline {subsection}{\numberline {7.2.18}Accompagnatori molecolari aiutano a guidare il piegamento della maggior parte delle proteine}{103}{subsection.7.2.18}% 
-\contentsline {subsection}{\numberline {7.2.19}La cellula utilizza diversi tipi di accompagnatori}{103}{subsection.7.2.19}% 
-\contentsline {subsection}{\numberline {7.2.20}Regioni idrofobiche esposte forniscono segnali critici per il controlli di qualit\`a delle proteine}{103}{subsection.7.2.20}% 
-\contentsline {subsection}{\numberline {7.2.21}Il proteosoma \`e una proteasi compartimentalizzata con siti attivi reclusi}{103}{subsection.7.2.21}% 
-\contentsline {subsection}{\numberline {7.2.22}Molte proteine sono controllate da distruzione regolata}{104}{subsection.7.2.22}% 
-\contentsline {chapter}{\numberline {8}Controllo dell'espressione genica}{105}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Una panoramica del controllo dei geni}{105}{section.8.1}% 
-\contentsline {subsection}{\numberline {8.1.1}Diversi tipi di cellule sintetizzano diversi insiemi di RNA e proteine}{105}{subsection.8.1.1}% 
-\contentsline {subsection}{\numberline {8.1.2}Segnali esterni possono causare il cambio dell'espressione dei geni di una cellula}{105}{subsection.8.1.2}% 
-\contentsline {subsection}{\numberline {8.1.3}L'espressione dei geni pu\`o essere regolata a molti dei passaggi nel cammino da DNA a RNA a proteine}{105}{subsection.8.1.3}% 
-\contentsline {section}{\numberline {8.2}Controllo della trascrizione da parte di proteine leganti a specifiche sequenze}{106}{section.8.2}% 
-\contentsline {subsection}{\numberline {8.2.1}La sequenza dei nucleotidi nella doppia elica di DNA pu\`o essere letta da proteine}{106}{subsection.8.2.1}% 
-\contentsline {subsection}{\numberline {8.2.2}I regolatori di trascrizione contengono motivi strutturali che possono leggere sequenze di DNA}{106}{subsection.8.2.2}% 
-\contentsline {subsection}{\numberline {8.2.3}La dimerizzazione dei regolatori di transizione aumenta la loro affinit\`a e specificit\`a per il DNA}{106}{subsection.8.2.3}% 
-\contentsline {subsection}{\numberline {8.2.4}I regolatori di trascrizione si legano cooperativamente al DNA}{107}{subsection.8.2.4}% 
-\contentsline {subsection}{\numberline {8.2.5}La struttura del nucelosoma promuove legami cooperativi di regolatori di trascrizione}{107}{subsection.8.2.5}% 
-\contentsline {section}{\numberline {8.3}I regolatori di trascrizione attivano e disattivano i geni}{107}{section.8.3}% 
-\contentsline {subsection}{\numberline {8.3.1}Il repressore triptofano disattiva i geni}{107}{subsection.8.3.1}% 
-\contentsline {subsection}{\numberline {8.3.2}I repressori disattivano i geni e gli attivatori li attivano}{108}{subsection.8.3.2}% 
-\contentsline {subsection}{\numberline {8.3.3}Un attivatore e un repressore controllano l'operone Lac}{108}{subsection.8.3.3}% 
-\contentsline {subsection}{\numberline {8.3.4}L'inanellamento del DNA pu\`o avvenire durante la regolaizone genica dei batteri}{108}{subsection.8.3.4}% 
-\contentsline {subsection}{\numberline {8.3.5}Interruttori complessi controllano la trascrizione genica negli eucarioti}{108}{subsection.8.3.5}% 
-\contentsline {subsection}{\numberline {8.3.6}Una regione di controllo di un gene eucariotico consiste di un promotore e molte sequenze cis-regolatorie}{109}{subsection.8.3.6}% 
-\contentsline {subsection}{\numberline {8.3.7}I regolatori di trascrizione eucariotici lavorano in gruppi}{109}{subsection.8.3.7}% 
-\contentsline {subsection}{\numberline {8.3.8}Le proteine attivatrici promuovono l'assemblaggio di RNA polimerasi al punto di inizio della trascrizione}{109}{subsection.8.3.8}% 
-\contentsline {subsection}{\numberline {8.3.9}Gli attivatori di trascrizione eucariotici direazionano la modifica di strutture cromatiniche locali}{110}{subsection.8.3.9}% 
-\contentsline {subsection}{\numberline {8.3.10}Gli attivatori di trascrizione possono promuoverla rilasciando la RNA polimerasi dai promotori}{110}{subsection.8.3.10}% 
-\contentsline {subsection}{\numberline {8.3.11}Gli attivatori di trascrizione lavorano sinergeticamente}{110}{subsection.8.3.11}% 
-\contentsline {subsection}{\numberline {8.3.12}Repressori di trascrizione eucariotici possono inibire la trascrizione in molti modi}{111}{subsection.8.3.12}% 
-\contentsline {subsection}{\numberline {8.3.13}Sequenze di DNA isolanti impediscono a regolatori di influenzare geni distanti}{111}{subsection.8.3.13}% 
-\contentsline {subsection}{\numberline {8.3.14}Meccanismi genetici molecolari che creano e mantengono tipi di cellula specializzati}{111}{subsection.8.3.14}% 
-\contentsline {subsection}{\numberline {8.3.15}Complessi interruttori genici che regolano lo sviluppo della Drosophila sono creati da molecole pi\`u piccole}{111}{subsection.8.3.15}% 
-\contentsline {subsection}{\numberline {8.3.16}Il gene Eve della Drosophila \`e regolato da controlli combinatori}{112}{subsection.8.3.16}% 
-\contentsline {subsection}{\numberline {8.3.17}I regolatori di trascrizione sono messi ingioco da segnali extracellulari}{112}{subsection.8.3.17}% 
-\contentsline {subsection}{\numberline {8.3.18}Il controllo dei geni combinatorio diversi tipi di cellule}{112}{subsection.8.3.18}% 
-\contentsline {subsection}{\numberline {8.3.19}Combinazioni di regolatori di trascrizione master specificano il tempo della cellula controllando l'espressione di molti geni}{112}{subsection.8.3.19}% 
-\contentsline {subsection}{\numberline {8.3.20}Cellule specializzate devono rapidamente attivare e disattivare insiemi di geni}{112}{subsection.8.3.20}% 
-\contentsline {subsection}{\numberline {8.3.21}Cellule differenziate mantengono la loro identit\`a}{113}{subsection.8.3.21}% 
-\contentsline {subsection}{\numberline {8.3.22}Circuiti di trascrizione permettono alla cellula di compiere operazioni logiche}{113}{subsection.8.3.22}% 
-\contentsline {section}{\numberline {8.4}Meccanismi che rinforzano la memoria cellulare in piante e animali}{113}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}Pattern di metilazione del DNA possono essere ereditati quando le cellule dei vertebrati si dividono}{113}{subsection.8.4.1}% 
-\contentsline {subsection}{\numberline {8.4.2}Isole ricche di CG sono associate con molti geni nei mammiferi}{114}{subsection.8.4.2}% 
-\contentsline {subsection}{\numberline {8.4.3}L'imprinting genomico si basa sulla metilazione del DNA}{114}{subsection.8.4.3}% 
-\contentsline {subsection}{\numberline {8.4.4}Alterazioni globali al cromosoma nella struttura cromatinica possono essere ereditate}{115}{subsection.8.4.4}% 
-\contentsline {subsection}{\numberline {8.4.5}Meccanismi epigenetici assicurano che pattern stabili di espressione genica possono essere trasmessi a cellule figlie}{115}{subsection.8.4.5}% 
-\contentsline {section}{\numberline {8.5}Controlli post trascrizionali}{115}{section.8.5}% 
-\contentsline {subsection}{\numberline {8.5.1}L'attenuazione della trascrizione causa la terminazione prematura di alcune molecole di RNA}{115}{subsection.8.5.1}% 
-\contentsline {subsection}{\numberline {8.5.2}Riboswitches rappresentano probabilmente antiche forme di controllo genico}{116}{subsection.8.5.2}% 
-\contentsline {subsection}{\numberline {8.5.3}RNA splicing alternativo pu\`o produrre diverse forme di proteine dallo stesso gene}{116}{subsection.8.5.3}% 
-\contentsline {subsection}{\numberline {8.5.4}La definizione di un gene \`e stata modificata}{116}{subsection.8.5.4}% 
-\contentsline {subsection}{\numberline {8.5.5}Un cambio nel sito della rottura del trascritto a RNA e dell'addizione Poli-A pu\`o cambiare la terminazione C di una proteina}{116}{subsection.8.5.5}% 
-\contentsline {subsection}{\numberline {8.5.6}Modifiche dell'RNA possono cambiare il significato del messaggio RNA}{117}{subsection.8.5.6}% 
-\contentsline {subsection}{\numberline {8.5.7}Il trasporto di RNA dal nucleo pu\`o essere regolato}{117}{subsection.8.5.7}% 
-\contentsline {subsection}{\numberline {8.5.8}Alcuni mRNA sono localizzati in regioni specifiche del citosol}{117}{subsection.8.5.8}% 
-\contentsline {subsection}{\numberline {8.5.9}Le regioni non tradotte $\mathbf {5'}$ e $\mathbf {3'}$ controllano la traduzione dei propri mRNA}{118}{subsection.8.5.9}% 
-\contentsline {subsection}{\numberline {8.5.10}La fosforilazione di un fattore di iniziazione regola globalmente la sintesi proteica}{118}{subsection.8.5.10}% 
-\contentsline {subsection}{\numberline {8.5.11}Iniziazione al codone AUG a monte dell'inizio di traduzione pu\`o regolare l'iniziazione della traduzione eucariotica}{118}{subsection.8.5.11}% 
-\contentsline {subsection}{\numberline {8.5.12}Siti di entrata interni al ribosoma fornsicono opportunit\`a per il controllo traduzionale}{119}{subsection.8.5.12}% 
-\contentsline {subsection}{\numberline {8.5.13}Cambi nella stabilit\`a dell'mRNA possono regolare l'espressione genica}{119}{subsection.8.5.13}% 
-\contentsline {subsection}{\numberline {8.5.14}La regolazione della stabilit\`a dell'mRNA coinvolge corpi P e granuli di stress}{119}{subsection.8.5.14}% 
-\contentsline {section}{\numberline {8.6}Regolazione dell'espressione genica da RNA non codificanti}{120}{section.8.6}% 
-\contentsline {subsection}{\numberline {8.6.1}I trascritti di piccoli RNA non codificanti regolano molti geni animali e di piante attraverso interferenza RNA}{120}{subsection.8.6.1}% 
-\contentsline {subsection}{\numberline {8.6.2}Il miRNA regola la traduzione e stabilit\`a dell'mRNA}{120}{subsection.8.6.2}% 
-\contentsline {subsection}{\numberline {8.6.3}L'interferenza a RNA \`e anche usata come un meccanismo di difesa per la cellula}{120}{subsection.8.6.3}% 
-\contentsline {subsection}{\numberline {8.6.4}L'interferenza a RNA pu\`o direzionare la formazione di eterocromatina}{121}{subsection.8.6.4}% 
-\contentsline {subsection}{\numberline {8.6.5}I piRNA proteggono la linea germinale da elementi trasponibili}{121}{subsection.8.6.5}% 
-\contentsline {subsection}{\numberline {8.6.6}I batteri usano piccoli RNA non codificanti per proteggersi dai virus}{121}{subsection.8.6.6}% 
-\contentsline {subsection}{\numberline {8.6.7}Lunghi RNA non codificanti hanno funzioni diverse nella cellula}{122}{subsection.8.6.7}% 
-\contentsline {part}{III\hspace {1em}Organizzazione interna della cellula}{123}{part.3}% 
-\contentsline {chapter}{\numberline {9}Struttura di membrana}{124}{chapter.9}% 
-\contentsline {section}{\numberline {9.1}Il bistrato lipidico}{124}{section.9.1}% 
-\contentsline {subsection}{\numberline {9.1.1}Fosfogliceridi, sfingolipidi e steroli sono i lipidi pi\`u comuni nelle membrane cellulari}{124}{subsection.9.1.1}% 
-\contentsline {subsection}{\numberline {9.1.2}I fosfolipidi formano bistrati spontaneamente}{125}{subsection.9.1.2}% 
-\contentsline {subsection}{\numberline {9.1.3}Il bistrato lipidico \`e un fluido bidimensionale}{125}{subsection.9.1.3}% 
-\contentsline {subsection}{\numberline {9.1.4}La fluidit\`a del bistrato lipidico dipende dalla sua composizione}{125}{subsection.9.1.4}% 
-\contentsline {subsection}{\numberline {9.1.5}Nonostante la loro fluidit\`a i bistrati lipidici possono formare domini di composizioni diverse}{126}{subsection.9.1.5}% 
-\contentsline {subsection}{\numberline {9.1.6}Goccioline di lipidi sono circondate da un monostrato fosfolipidico}{126}{subsection.9.1.6}% 
-\contentsline {subsection}{\numberline {9.1.7}L'asimmetria del bistrato lipidico \`e funzionalmente importante}{126}{subsection.9.1.7}% 
-\contentsline {subsection}{\numberline {9.1.8}I glicolipidi si trovano sulla superficie di tutte le membrane plasmatiche eucariotiche}{126}{subsection.9.1.8}% 
-\contentsline {section}{\numberline {9.2}Proteine di membrana}{127}{section.9.2}% 
-\contentsline {subsection}{\numberline {9.2.1}Le proteine di membrana si possono associare con il bistrato lipidico in vari modi}{127}{subsection.9.2.1}% 
-\contentsline {subsection}{\numberline {9.2.2}Ancore lipidice controllano la localizzazione nella membrana di alcune proteine segnalatrici}{128}{subsection.9.2.2}% 
-\contentsline {subsection}{\numberline {9.2.3}Nella maggior parte delle proteine transmembrana la catena polipeptidica attraversa il bistrato lipidico in una conformazione a $\mathbf {\alpha }$-elica}{128}{subsection.9.2.3}% 
-\contentsline {subsection}{\numberline {9.2.4}$\mathbf {\alpha }$-eliche transmembrana interagiscono tra di loro}{128}{subsection.9.2.4}% 
-\contentsline {subsection}{\numberline {9.2.5}Alcuni barili $\beta $ formano grandi canali}{129}{subsection.9.2.5}% 
-\contentsline {subsection}{\numberline {9.2.6}Molte proteine di membrana sono glicolisate}{129}{subsection.9.2.6}% 
-\contentsline {subsection}{\numberline {9.2.7}Le cellule possono confinare proteine e lipidi a domini specifici nella membrana}{129}{subsection.9.2.7}% 
-\contentsline {subsection}{\numberline {9.2.8}Il citoscheletro corticale d\`a alle membrane forza meccanica e vincola la diffusione delle proteine di membrana}{130}{subsection.9.2.8}% 
-\contentsline {subsection}{\numberline {9.2.9}Proteine piegatrici di membrana deformano i bistrati}{130}{subsection.9.2.9}% 
-\contentsline {chapter}{\numberline {10}Trasporto di membrana di piccole molecole e propriet\`a elettriche delle membrane}{131}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Principi del trasporto di membrana}{131}{section.10.1}% 
-\contentsline {subsection}{\numberline {10.1.1}Bistrati lipidici liberi da proteine sono impermeabili agli ioni}{131}{subsection.10.1.1}% 
-\contentsline {subsection}{\numberline {10.1.2}Ci sono due classi di proteine di trasporto di membrana: trasportatori e canali}{131}{subsection.10.1.2}% 
-\contentsline {subsection}{\numberline {10.1.3}Il trasporto attivo \`e mediato da trasportatori accoppiati da una fonte di energia}{132}{subsection.10.1.3}% 
-\contentsline {section}{\numberline {10.2}Trasportatori e trasporto di membrana attivo}{132}{section.10.2}% 
-\contentsline {subsection}{\numberline {10.2.1}Il trasporto attivo pu\`o essere guidato da gradienti di concentrazione ionica}{132}{subsection.10.2.1}% 
-\contentsline {subsection}{\numberline {10.2.2}Trasportatori nella membrana plasmatica regolano il pH citosilico}{133}{subsection.10.2.2}% 
-\contentsline {subsection}{\numberline {10.2.3}Una distribuzione asimemtrica dei trasportatori nelle cellule epiteliali sottosta al trasporto transcellulare dei soluti}{133}{subsection.10.2.3}% 
-\contentsline {subsection}{\numberline {10.2.4}Ci sono tre classi di pompe guidate dall'ATP}{133}{subsection.10.2.4}% 
-\contentsline {subsection}{\numberline {10.2.5}Una ATPasi P-tipo pompa \ce {Ca^{2+}} nel reticolo sarcoplasmico nelle cellule muscolari}{133}{subsection.10.2.5}% 
-\contentsline {subsection}{\numberline {10.2.6}La pompa \ce {Na+}-\ce {K+} della membrana plasmatica stabilisce gradienti \ce {Na+} e \ce {K+} attraverso la membrana plasmatica}{134}{subsection.10.2.6}% 
-\contentsline {subsection}{\numberline {10.2.7}I trasportatori ABC costituiscono la pi\`u grande famiglia di proteine di trasporto di membrana}{134}{subsection.10.2.7}% 
-\contentsline {section}{\numberline {10.3}Canali e le propriet\`a elettriche delle membrane}{134}{section.10.3}% 
-\contentsline {subsection}{\numberline {10.3.1}Le acquaporine sono permeabili all'acqua ma impermeabili agli ioni}{135}{subsection.10.3.1}% 
-\contentsline {subsection}{\numberline {10.3.2}Canali ionici sono selettivi degli ioni e fluttuano tra stato aperto e chiuso}{135}{subsection.10.3.2}% 
-\contentsline {subsection}{\numberline {10.3.3}Il potenziale di membrana nelle cellule animali dipende principalmente dai canali di leak \ce {K+} e dal suo gradiente attraverso la membrana plasmatica}{135}{subsection.10.3.3}% 
-\contentsline {subsection}{\numberline {10.3.4}Il potenziale di riposo decade lentamente quando la pompa \ce {Na+}-\ce {K+} \`e fermata}{136}{subsection.10.3.4}% 
-\contentsline {subsection}{\numberline {10.3.5}La struttura dei canali batterici \ce {K+} motra come un canale ionico lavora}{136}{subsection.10.3.5}% 
-\contentsline {subsection}{\numberline {10.3.6}Canali meccanosensibili proteggono cellule batteriche contro pressioni osmotiche estreme}{136}{subsection.10.3.6}% 
-\contentsline {subsection}{\numberline {10.3.7}La funzione di un neurone dipende sulla sua struttura allungata}{136}{subsection.10.3.7}% 
-\contentsline {subsection}{\numberline {10.3.8}Canali di cationi voltage-gated generano potenziali di azione in cellule elettricamente generate}{137}{subsection.10.3.8}% 
-\contentsline {subsection}{\numberline {10.3.9}L'utilizzo di channelrhodopsin ha rivoluzionato lo studio di circuiti neurali}{137}{subsection.10.3.9}% 
-\contentsline {subsection}{\numberline {10.3.10}La mielinizzazione aumenta la velocit\`a e l'efficenza della propagazione del potenziale di azione nelle cellule nervose}{137}{subsection.10.3.10}% 
-\contentsline {subsection}{\numberline {10.3.11}Registrazione di morsetti mostra che canali ionici hanno uno stato binario}{138}{subsection.10.3.11}% 
-\contentsline {subsection}{\numberline {10.3.12}Canali di cationi voltage-gated sono evoluzionariamente e strutturalmente imparentati}{138}{subsection.10.3.12}% 
-\contentsline {subsection}{\numberline {10.3.13}Diversi dipi di neuroni mostrano caratteristiche propriet\`a di stable firing}{138}{subsection.10.3.13}% 
-\contentsline {subsection}{\numberline {10.3.14}Canali ionici transmitter-gated convertono segnali chimici in elettrici alla sinapsi chimica}{138}{subsection.10.3.14}% 
-\contentsline {subsection}{\numberline {10.3.15}Le sinapsi chimiche possono essere eccitatorie o inibitorie}{139}{subsection.10.3.15}% 
-\contentsline {subsection}{\numberline {10.3.16}I recettori di acetilcolina alle giunzioni neuromuscolari sono canali di cationi transmitter-gated eccitatori}{139}{subsection.10.3.16}% 
-\contentsline {subsection}{\numberline {10.3.17}I neuroni contengono molti tipi di canali transmitter-gated}{140}{subsection.10.3.17}% 
-\contentsline {subsection}{\numberline {10.3.18}La trasmissione neuromuscolare coinvolge l'attivazione sequenziale di cinque insiemi diversi di canali ionici}{140}{subsection.10.3.18}% 
-\contentsline {subsection}{\numberline {10.3.19}I singoli neuroni sono complessi dispositivi computazionali}{140}{subsection.10.3.19}% 
-\contentsline {subsection}{\numberline {10.3.20}La computazione neuronale richiede una combinazione di almeno tre tipi di canali \ce {K+}}{141}{subsection.10.3.20}% 
-\contentsline {subsection}{\numberline {10.3.21}Potenziazione a lungo termine (LPT) nell'ippocampo dei mammiferi dipende dall'entrata di \ce {Ca^{2+}} attraverso canali recettori di NMDA}{141}{subsection.10.3.21}% 
-\contentsline {chapter}{\numberline {11}Compartimenti intracellulari e ordinamento delle proteine}{143}{chapter.11}% 
-\contentsline {section}{\numberline {11.1}La compartimentalizzazione della cellula}{143}{section.11.1}% 
-\contentsline {subsection}{\numberline {11.1.1}Tutte le cellule hanno lo stesso insieme base di organelli racchiusi da membrana}{143}{subsection.11.1.1}% 
-\contentsline {subsection}{\numberline {11.1.2}Origini evolutive spiegano le reazioni topologiche degli organelli}{144}{subsection.11.1.2}% 
-\contentsline {subsection}{\numberline {11.1.3}Le proteine si possono muovere tra i compartimenti in modi diversi}{144}{subsection.11.1.3}% 
-\contentsline {subsection}{\numberline {11.1.4}Sequenze di segnali e recettori di ordinamento direzionano le proteine al corretto indirizzo nella cellula}{145}{subsection.11.1.4}% 
-\contentsline {subsection}{\numberline {11.1.5}La maggior parte degli organelli non pu\`o essere costruita da nuovo e richiedono informazioni nell'organello stesso}{145}{subsection.11.1.5}% 
-\contentsline {section}{\numberline {11.2}Il trasporto di molecole tra il nucleo e il citosol}{146}{section.11.2}% 
-\contentsline {subsection}{\numberline {11.2.1}Complessi di pori nucleari perforano la membrana nucleare}{146}{subsection.11.2.1}% 
-\contentsline {subsection}{\numberline {11.2.2}Segnali di localizzazione direzionano le proteine nucleari al nucleo}{146}{subsection.11.2.2}% 
-\contentsline {subsection}{\numberline {11.2.3}Recettori di importazione nucleare si legano sia ai segnali di localizzazione nucleare e alle proteine NPC}{147}{subsection.11.2.3}% 
-\contentsline {subsection}{\numberline {11.2.4}L'esportazione nucleare lavora come l'importazione ma in senso opposto}{147}{subsection.11.2.4}% 
-\contentsline {subsection}{\numberline {11.2.5}La Ran GTPasi impone direzionalit\`a al trasporto attraverso NPC}{147}{subsection.11.2.5}% 
-\contentsline {subsection}{\numberline {11.2.6}Il trasporto attraverso NPC pu\`o essere regolato controllando l'accesso ai macchinari di trasporto}{148}{subsection.11.2.6}% 
-\contentsline {subsection}{\numberline {11.2.7}Durante la mitosi la membrana nucleare si disassembla}{148}{subsection.11.2.7}% 
-\contentsline {section}{\numberline {11.3}Il trasporto di proteine in mitocondri e cloroplasti}{148}{section.11.3}% 
-\contentsline {subsection}{\numberline {11.3.1}La traslocazione nei mitocondri dipende da sequenze di segnale e traslocatori di proteine}{149}{subsection.11.3.1}% 
-\contentsline {subsection}{\numberline {11.3.2}I precursori mitocondriali sono importati come catene polipeptidiche non piegate}{149}{subsection.11.3.2}% 
-\contentsline {subsection}{\numberline {11.3.3}L'importazione \`e guidata da idrolisi dell'ATP e da potenziale di membrana}{150}{subsection.11.3.3}% 
-\contentsline {subsection}{\numberline {11.3.4}Batteri e mitocondri utilizzano meccanismi simili per inserire porine nella membrana esterna}{150}{subsection.11.3.4}% 
-\contentsline {subsection}{\numberline {11.3.5}Trasoprto nella membrana interna mitocondriale e nello spazio intermembrana avviene secondo diverse strade}{150}{subsection.11.3.5}% 
-\contentsline {subsection}{\numberline {11.3.6}Due sequenze di segnale direzionano le proteine a una membrana tilacoide nei cloroplasti}{151}{subsection.11.3.6}% 
-\contentsline {section}{\numberline {11.4}Perossisomi}{151}{section.11.4}% 
-\contentsline {subsection}{\numberline {11.4.1}I perossisomi usano ossigeno molecolare e perossido di idrogeno per svolgere reazioni di ossidazione}{151}{subsection.11.4.1}% 
-\contentsline {subsection}{\numberline {11.4.2}Una corta sequenza di segnale direziona l'importazione di proteine nei perossisomi}{151}{subsection.11.4.2}% 
-\contentsline {subsection}{\numberline {11.4.3}Il reticolo endoplasmatico}{152}{subsection.11.4.3}% 
-\contentsline {subsection}{\numberline {11.4.4}L'ER \`e strutturalmente e funzionalmente diverso}{152}{subsection.11.4.4}% 
-\contentsline {subsection}{\numberline {11.4.5}Sequenze di segnale sono state scoperte prima in proteine importate nell'ER ruvido}{152}{subsection.11.4.5}% 
-\contentsline {subsection}{\numberline {11.4.6}Una particella di riconoscimento del segale (SRP) direziona la sequenza di segnale ER a un recettore specifico nella membrana dell'ER ruvido}{153}{subsection.11.4.6}% 
-\contentsline {subsection}{\numberline {11.4.7}La catena polipeptidica passa attraverso un canale acquoso nel traslocatore}{153}{subsection.11.4.7}% 
-\contentsline {subsection}{\numberline {11.4.8}Traslocazione attraverso la membrana ER non richiede sempre un allungamento della catena polipeptidica in corso}{153}{subsection.11.4.8}% 
-\contentsline {subsection}{\numberline {11.4.9}Nelle proteine transmembrana a singolo passaggio una singola sequenza di segnale ER interna rimane nel bistrato lipidico come una $\mathbf {\alpha }$-elica che attraversa la membrana}{154}{subsection.11.4.9}% 
-\contentsline {subsection}{\numberline {11.4.10}Combinazioni di segnali di inizio e terminazione del trasferimento determinano la topologia delle proteine di membrana multipassaggio}{154}{subsection.11.4.10}% 
-\contentsline {subsection}{\numberline {11.4.11}Proteine ancorate a ER con la coda sono integrate nella membrana ER con un meccanismo speciale}{155}{subsection.11.4.11}% 
-\contentsline {subsection}{\numberline {11.4.12}Catene polipeptidiche traslocate si piegano e assemblano nel lume dell'ER ruvido}{155}{subsection.11.4.12}% 
-\contentsline {subsection}{\numberline {11.4.13}La maggior parte delle proteine sintetizzate nell'ER rugoso sono glicolisate dall'addizione di un oligosaccaride comune legato a \ce {N}}{155}{subsection.11.4.13}% 
-\contentsline {subsection}{\numberline {11.4.14}Gli oligosaccaridi sono utilizzati come marcature per lo stato del piegamento della proteina}{156}{subsection.11.4.14}% 
-\contentsline {subsection}{\numberline {11.4.15}Proteine piegate non correttamente sono esportate dall'ER e degradate nel citosol}{156}{subsection.11.4.15}% 
-\contentsline {subsection}{\numberline {11.4.16}Proteine malpiegate nell'ER attivano una risposta di proteine non piegate}{157}{subsection.11.4.16}% 
-\contentsline {subsection}{\numberline {11.4.17}Alcune proteine di membrana acquisiscono un'ancora glicosilfosfatidilinositolo (GPI) covalentemente attaccata}{157}{subsection.11.4.17}% 
-\contentsline {subsection}{\numberline {11.4.18}L'ER assembla la maggior parte dei bistrati lipidici}{157}{subsection.11.4.18}% 
-\contentsline {chapter}{\numberline {12}Traffico di membrana intracellulare}{159}{chapter.12}% 
-\contentsline {section}{\numberline {12.1}I meccanismi molecolari di trasporto di membrana e il mantenimento della diversit\`a compartimentale}{159}{section.12.1}% 
-\contentsline {subsection}{\numberline {12.1.1}Ci sono vari tipi di vescicole incapsulate}{160}{subsection.12.1.1}% 
-\contentsline {subsection}{\numberline {12.1.2}L'assemblaggio di una capsula di clatrina guida la formazione della vescicola}{160}{subsection.12.1.2}% 
-\contentsline {subsection}{\numberline {12.1.3}Proteine adattatrici selezionano il cargo nelle vescicole incapsulate a clatrina}{160}{subsection.12.1.3}% 
-\contentsline {subsection}{\numberline {12.1.4}I fosfonositidi marcano gli organelli e i domini di membrana}{160}{subsection.12.1.4}% 
-\contentsline {subsection}{\numberline {12.1.5}Proteine piegatrici della membrana aiutano a deformare la membrana durante la formazione delle vescicole}{161}{subsection.12.1.5}% 
-\contentsline {subsection}{\numberline {12.1.6}Proteine citoplasmatiche regolano la separazione e decapsulamento delle vescicole}{161}{subsection.12.1.6}% 
-\contentsline {subsection}{\numberline {12.1.7}GTPasi monomerica controlla l'assemblaggio della capsula}{161}{subsection.12.1.7}% 
-\contentsline {subsection}{\numberline {12.1.8}Non tutte le vescicole di trasporto sono sferiche}{162}{subsection.12.1.8}% 
-\contentsline {subsection}{\numberline {12.1.9}Le proteine Rab guidano le vescicole di trasporto alle loro membrane obiettivo}{162}{subsection.12.1.9}% 
-\contentsline {subsection}{\numberline {12.1.10}Cascate di Rab possono cambiare l'identit\`a di un organello}{163}{subsection.12.1.10}% 
-\contentsline {subsection}{\numberline {12.1.11}Le SNARE mediano la fusione di membrana}{163}{subsection.12.1.11}% 
-\contentsline {subsection}{\numberline {12.1.12}SNARE interagenti devono essere separati prima che possano funzionare ancora}{164}{subsection.12.1.12}% 
-\contentsline {section}{\numberline {12.2}Trasporto dall'ER attraverso l'apparato di Golgi}{164}{section.12.2}% 
-\contentsline {subsection}{\numberline {12.2.1}Le proteine lasciano l'ER in vescicole di trasporto incapsulate in COPII}{164}{subsection.12.2.1}% 
-\contentsline {subsection}{\numberline {12.2.2}Solo proteine appropriamente piegate e assemblate possono lasciare l'ER}{164}{subsection.12.2.2}% 
-\contentsline {subsection}{\numberline {12.2.3}Raggruppamenti vescicolari tubulari mediano il trasporto dall'ER all'apparato di Golgi}{165}{subsection.12.2.3}% 
-\contentsline {subsection}{\numberline {12.2.4}Il cammino di recupero all'ER usa segnali di ordinamento}{165}{subsection.12.2.4}% 
-\contentsline {chapter}{\numberline {13}Conversione energetica: mitocondri e cloroplasti}{166}{chapter.13}% 
-\contentsline {chapter}{\numberline {14}Segnalazione cellulare}{167}{chapter.14}% 
-\contentsline {section}{\numberline {14.1}Principi di segnalazione cellulare}{167}{section.14.1}% 
-\contentsline {subsection}{\numberline {14.1.1}Segnali extracellulari possono agire lungo distanze corte o lunghe}{167}{subsection.14.1.1}% 
-\contentsline {subsection}{\numberline {14.1.2}Molecole di segnale extracellulare si legano a recettori specifici}{168}{subsection.14.1.2}% 
-\contentsline {subsection}{\numberline {14.1.3}Ogni cellula \`e programmata per rispondere a specifiche combinazioni di segnali extracellulari}{168}{subsection.14.1.3}% 
-\contentsline {subsection}{\numberline {14.1.4}Ci sono tre classi principali di proteine recettrici sulla superficie cellulare}{168}{subsection.14.1.4}% 
-\contentsline {subsection}{\numberline {14.1.5}Recettori di superficie cellulare inoltrano segnali attraverso molecole di segnale intracellulare}{169}{subsection.14.1.5}% 
-\contentsline {chapter}{\numberline {15}Il citoscheletro}{170}{chapter.15}% 
-\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{171}{chapter.16}% 
+\contentsline {part}{I\hspace {1em}Introduzione alla cellula}{18}{part.1}% 
+\contentsline {chapter}{\numberline {1}Introduzione}{19}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Microscopia}{19}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Risoluzione}{19}{subsection.1.1.1}% 
+\contentsline {subsubsection}{Parametri fisici}{19}{section*.2}% 
+\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia ottica}{20}{subsection.1.1.2}% 
+\contentsline {subsubsection}{Microscopia a cambio di fase}{20}{section*.3}% 
+\contentsline {subsubsection}{Microscopia a fluorescenza}{20}{section*.4}% 
+\contentsline {paragraph}{FRET}{20}{section*.5}% 
+\contentsline {paragraph}{Photobleach}{20}{section*.6}% 
+\contentsline {section}{\numberline {1.2}Storia}{20}{section.1.2}% 
+\contentsline {chapter}{\numberline {2}Cellule e genomi}{22}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Caratteristiche universali della vita sulla Terra}{22}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Tutte le cellule conservano la loro informazione ereditaria nello stesso codice chimico lineare (DNA)}{22}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Tutte le cellule replicano la loro informazione ereditaria mediante polimerizzazione su uno stampo}{23}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Tutte le cellule trascrivono porzioni della loro informazione ereditaria nella stessa forma intermedia (RNA)}{23}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.4}Tutte le cellule usano proteine come catalizzatori}{24}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.5}Tutte le cellule traducono RNA nello stesso modo}{24}{subsection.2.1.5}% 
+\contentsline {subsection}{\numberline {2.1.6}Il frammento di informazione genica che corrisponde ad una proteina \`e un gene}{24}{subsection.2.1.6}% 
+\contentsline {subsection}{\numberline {2.1.7}La vita richiede energia libera}{25}{subsection.2.1.7}% 
+\contentsline {subsection}{\numberline {2.1.8}Tutte le cellule funzionano come fabbriche biochimiche che impiegano le stesse strutture molecolare base}{25}{subsection.2.1.8}% 
+\contentsline {subsection}{\numberline {2.1.9}Tutte le cellule sono chiuse in una membrana plasmatica attraverso la quale nutrienti e materiali di scarto devono passare}{25}{subsection.2.1.9}% 
+\contentsline {section}{\numberline {2.2}La diversit\`a dei genomi e l'albero della vita}{25}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Le cellule possono ottenere energia da una variet\`a di fonti di energia libera}{25}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Alcune cellule fissano azoto e anidride carbonica per altre}{26}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}La pi\`u grande diverit\`a biochimica esiste tra le cellule procariote}{26}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}L'albero della vita possiede tre rami principali: Batteri, Archei ed Eucarioti}{26}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.5}Alcuni geni evolvono rapidamente, altri sono altamente conservati}{26}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.6}Nuovi geni sono generati da geni preesistenti}{27}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.7}La duplicazione genica permette la creazione di famiglie di geni imparentati in una stessa cellula}{27}{subsection.2.2.7}% 
+\contentsline {subsection}{\numberline {2.2.8}I geni possono essere trasferiti tra organismi}{27}{subsection.2.2.8}% 
+\contentsline {subsection}{\numberline {2.2.9}Molti geni sono comuni tra tutti i rami primari dell'albero della vita}{28}{subsection.2.2.9}% 
+\contentsline {subsection}{\numberline {2.2.10}Le mutazioni rivelano la funzione dei geni}{28}{subsection.2.2.10}% 
+\contentsline {section}{\numberline {2.3}Informazione genetica negli eucarioti}{28}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Le cellule eucariote potrebbero essersi originate come predatori}{28}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Le moderne cellule eucariote si sono evolute da una simbiosi}{28}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Gli eucarioti possiedono genomi ibridi}{29}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}I genomi eucarioti sono grandi}{29}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Il genoma definisce il programma dello sviluppo multicellulare}{29}{subsection.2.3.5}% 
+\contentsline {subsection}{\numberline {2.3.6}Molti eucarioti vivono come cellule solitarie}{30}{subsection.2.3.6}% 
+\contentsline {chapter}{\numberline {3}Chimica e bioenergetica della cellula}{31}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Le componenti chimiche della cellula}{31}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}L'acqua \`e mantenuta da legami a idrogeno}{31}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Quattro tipi di attrazione non covalente aiuta a unire le molecole nelle cellule}{32}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Alcune molecole polari formano acidi e basi in acqua}{32}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}La cellula \`e formata da composti di carbonio}{32}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}Le cellule contengono quattro principali famiglie di piccole molecole organiche}{33}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}La chimica della cellula \`e dominata da macromolecole con propriet\`a notevoli}{33}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.7}I legami non covalenti specificano la forma di una macromolecola e i suoi legami con le altre molecole}{33}{subsection.3.1.7}% 
+\contentsline {section}{\numberline {3.2}Catalisi e utilizzo dell'energia da parte delle cellule}{34}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Il metabolismo della cellula \`e organizzato dagli enzimi}{34}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}L'ordine biologico \`e reso possibile dal rilascio di calore dalla cellula}{34}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Le cellule ottengono energia ossidando molecole organiche}{34}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}Ossidazione e riduzione coinvolgono il trasferimento di elettroni}{34}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.5}Gli enzimi abbassano la barriera di energia di attivazione che blocca la reazione chimica}{35}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.6}Gli enzimi possono guidare i substrati lungo specifici cammini di reazioni}{35}{subsection.3.2.6}% 
+\contentsline {subsection}{\numberline {3.2.7}Come gli enzimi trovano i loro substrati, la rapidit\`a dei movimenti molecolari}{35}{subsection.3.2.7}% 
+\contentsline {subsection}{\numberline {3.2.8}Il cambio di energia libera di una reazione determina se pu\`o avvenire spontaneamente}{36}{subsection.3.2.8}% 
+\contentsline {subsection}{\numberline {3.2.9}Molecole vettore attivate sono essenziali per la biosintesi}{36}{subsection.3.2.9}% 
+\contentsline {subsection}{\numberline {3.2.10}L'ATP \`e il vettore attivo pi\`u utilizzato}{36}{subsection.3.2.10}% 
+\contentsline {subsection}{\numberline {3.2.11}NADH e NADPH sono vettori di elettroni}{37}{subsection.3.2.11}% 
+\contentsline {subsection}{\numberline {3.2.12}Esistono molte altre molecole vettori nella cellula}{37}{subsection.3.2.12}% 
+\contentsline {subsection}{\numberline {3.2.13}La sintesi di polimeri biologici \`e guidata dall'idrolisi dell'\ce {ATP}}{38}{subsection.3.2.13}% 
+\contentsline {section}{\numberline {3.3}Come le cellule ottengono energia dai nutrienti}{38}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}La glicolisi \`e un cammino centrale per produrre \ce {ATP}}{38}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}La fermentazione produce \ce {ATP} in assenza di ossigeno}{39}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}La glicolisi mostra come gli enzimi accoppiano l'ossidazione alla conservazione di energia}{39}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Gli organismi conservano le molecole nutrienti in serbatoi speciali}{39}{subsection.3.3.4}% 
+\contentsline {subsection}{\numberline {3.3.5}Zuccheri e acidi grassi sono degradati in acetile \ce {CoA} nei mitocondri}{40}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}Il ciclo di acido citrico genera \ce {NADH} ossidando i gruppi acetili in \ce {CO2}}{40}{subsection.3.3.6}% 
+\contentsline {subsection}{\numberline {3.3.7}Il trasporto di elettroni guida la sintesi della maggiori parte dell'\ce {ATP} nelle cellule}{40}{subsection.3.3.7}% 
+\contentsline {subsection}{\numberline {3.3.8}Amminoacidi e nucleotidi sono parte del ciclo azotato}{41}{subsection.3.3.8}% 
+\contentsline {chapter}{\numberline {4}Proteine}{42}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Forma e struttura delle proteine}{42}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}La forma di una proteina \`e specificata dalla sua sequenza degli amminoacidi}{42}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Le proteine si ripiegano nella conformazione a minore energia}{43}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}L'$\alpha $-elica e il $\beta $-foglietto sono pattern di piegamento comuni}{43}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}I domini proteici sono unit\`a modulari da cui le proteine pi\`u grandi sono costruite}{43}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.5}Poche delle catene polipeptidiche possibili saranno utili alla cellula}{43}{subsection.4.1.5}% 
+\contentsline {subsection}{\numberline {4.1.6}Le proteine possono essere classificate in molte famiglie}{44}{subsection.4.1.6}% 
+\contentsline {subsection}{\numberline {4.1.7}Alcuni domini proteici si trovano in molte proteine diverse}{44}{subsection.4.1.7}% 
+\contentsline {subsection}{\numberline {4.1.8}Il genoma umano codifica un complesso insieme di proteine, rivelando che molto rimane sconosciuto}{44}{subsection.4.1.8}% 
+\contentsline {subsection}{\numberline {4.1.9}Proteine pi\`u grandi contengono pi\`u di una catena polipeptidica}{45}{subsection.4.1.9}% 
+\contentsline {subsection}{\numberline {4.1.10}Alcune proteine globulari formano lunghi filamenti elicoidali}{45}{subsection.4.1.10}% 
+\contentsline {subsection}{\numberline {4.1.11}Molte proteine hanno forme allungate e fibrose}{45}{subsection.4.1.11}% 
+\contentsline {subsection}{\numberline {4.1.12}Le proteine contengono una grande quantit\`a di catene polipeptidiche intrinsecamente disordinate}{45}{subsection.4.1.12}% 
+\contentsline {subsection}{\numberline {4.1.13}Legami incrociati covalenti stabilizzano proteine extracellulari}{45}{subsection.4.1.13}% 
+\contentsline {subsection}{\numberline {4.1.14}Le molecole proteiche spesso svolgono la funzione di subunit\`a per l'assemblaggio di grandi strutture}{46}{subsection.4.1.14}% 
+\contentsline {subsection}{\numberline {4.1.15}I fattori di assemblaggio aiutano la formazione di complesse strutture biologiche}{46}{subsection.4.1.15}% 
+\contentsline {subsection}{\numberline {4.1.16}Fibrille amiloidi possono formarsi da molte proteine}{46}{subsection.4.1.16}% 
+\contentsline {subsection}{\numberline {4.1.17}Molte proteine contengono domini a bassa complessit\`a che possono formare amiloidi reversibili}{47}{subsection.4.1.17}% 
+\contentsline {section}{\numberline {4.2}Funzione delle proteine}{47}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Tutte le proteine si legano ad altre molecole}{47}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}La conformazione superficiale di una proteina determina la sua chimica}{47}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}La comparazione di sotto-sequenze tra membri di una famiglia proteica evidenzia i siti di legame cruciali}{48}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Le proteine si legano con altre proteine attraverso molti tipi di interfacce}{48}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}I siti di legame degli anticorpi sono estremamente versatili}{48}{subsection.4.2.5}% 
+\contentsline {subsection}{\numberline {4.2.6}La costante di equilibrio misura la forza di legame}{48}{subsection.4.2.6}% 
+\contentsline {subsection}{\numberline {4.2.7}Gli enzimi sono catalizzatori potenti e molto specifici}{49}{subsection.4.2.7}% 
+\contentsline {subsection}{\numberline {4.2.8}Il legame con il substrato \`e il primo passo nella catalisi enzimatica}{49}{subsection.4.2.8}% 
+\contentsline {subsection}{\numberline {4.2.9}Gli enzimi velocizzano la reazione stabilizzando selettivamente stati transitivi}{49}{subsection.4.2.9}% 
+\contentsline {subsection}{\numberline {4.2.10}Gli enzimi possono usare simultaneamente catalizzatori acidi e basici}{49}{subsection.4.2.10}% 
+\contentsline {subsection}{\numberline {4.2.11}Il lisozima illustra come un enzima funziona}{50}{subsection.4.2.11}% 
+\contentsline {subsection}{\numberline {4.2.12}Molecole strettamente legate aggiungono altre funzioni alle proteine}{50}{subsection.4.2.12}% 
+\contentsline {subsection}{\numberline {4.2.13}Complessi multi-enzima aiutano ad aumentare il tasso del metabolismo cellulare}{50}{subsection.4.2.13}% 
+\contentsline {subsection}{\numberline {4.2.14}La cellula regola le attivit\`a catalitiche dei propri enzimi}{51}{subsection.4.2.14}% 
+\contentsline {subsection}{\numberline {4.2.15}Gli enzimi allosterici possiedono due o pi\`u siti di legame che interagiscono}{51}{subsection.4.2.15}% 
+\contentsline {subsection}{\numberline {4.2.16}Due ligandi i cui siti di legame sono accoppiati devono avere effetto reciprocamente sul legame dell'altro}{51}{subsection.4.2.16}% 
+\contentsline {subsection}{\numberline {4.2.17}Insiemi di proteine simmetrici producono transizioni allosteriche cooperative}{52}{subsection.4.2.17}% 
+\contentsline {subsection}{\numberline {4.2.18}Molti cambi nelle proteine sono guidati dalla fosforilazione proteica}{52}{subsection.4.2.18}% 
+\contentsline {subsection}{\numberline {4.2.19}Una cellula eucariotica contiene un gran numero di proteina chinasi e proteina fosfatasi}{52}{subsection.4.2.19}% 
+\contentsline {subsection}{\numberline {4.2.20}La regolazione della proteina chinasi Src rivela come una proteina pu\`o funzionare come un microprocessore}{52}{subsection.4.2.20}% 
+\contentsline {subsection}{\numberline {4.2.21}Le proteine che si legano e regolano il GTP sono onnipresenti regolatori}{53}{subsection.4.2.21}% 
+\contentsline {subsection}{\numberline {4.2.22}Le proteine regolatorie GAP e GEF controllano l'ativit\`a delle proteine GTP-leganti determinando se \`e legato GTP o GDP}{53}{subsection.4.2.22}% 
+\contentsline {subsection}{\numberline {4.2.23}Le proteine possono essere regolate dall'aggiunta covalente di altre proteine}{53}{subsection.4.2.23}% 
+\contentsline {subsection}{\numberline {4.2.24}Un elaborato sistema di coniugazione di ubiquitina \`e utilizzato per marcare le proteine}{53}{subsection.4.2.24}% 
+\contentsline {subsection}{\numberline {4.2.25}I complessi proteici con parti interscambiabili fanno un efficiente uso dell'informazione genica}{54}{subsection.4.2.25}% 
+\contentsline {subsection}{\numberline {4.2.26}Una proteina GTP-legante mostra come grandi movimenti proteici siano possibili}{54}{subsection.4.2.26}% 
+\contentsline {subsection}{\numberline {4.2.27}Le proteine motrici producono grandi movimenti nelle cellule}{54}{subsection.4.2.27}% 
+\contentsline {subsection}{\numberline {4.2.28}I trasportatori di membrana imbrigliano energia per pompare le molecole attraverso le membrane}{55}{subsection.4.2.28}% 
+\contentsline {subsection}{\numberline {4.2.29}Le proteine formano grandi complessi che funzionano come macchinari proteici}{55}{subsection.4.2.29}% 
+\contentsline {subsection}{\numberline {4.2.30}Impalcature concentrano insiemi di proteine che interagiscono}{55}{subsection.4.2.30}% 
+\contentsline {subsection}{\numberline {4.2.31}Molte proteine sono controllate da modifiche covalenti che le dirigono verso siti specifici all'interno della cellula}{55}{subsection.4.2.31}% 
+\contentsline {subsection}{\numberline {4.2.32}Una complessa rete di interazioni proteiche sottosta alle funzioni della cellula}{55}{subsection.4.2.32}% 
+\contentsline {part}{II\hspace {1em}Meccanismi genetici basici}{57}{part.2}% 
+\contentsline {chapter}{\numberline {5}DNA, cromosomi e genomi}{58}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}La struttura e la funzione del DNA}{58}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Una molecola di DNA consiste di due catene di nucleotidi complementari}{58}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}La struttura del DNA mette a disposizione un meccanismo per l'ereditariet\`a}{59}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Negli eucarioti il DNA \`e racchiuso nel nucleo cellulare}{59}{subsection.5.1.3}% 
+\contentsline {section}{\numberline {5.2}DNA cromosomico e il suo confezionamento nella fibra cromatina}{59}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Il DNA eucariotico \`e confezionato in un insieme di cromosomi}{59}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}I cromosomi contengono lunghe stringhe di geni}{60}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}La sequenza nucleotidica del genoma umano mostra come i geni sono ordinati}{60}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}Ogni molecola di DNA che forma un cromosoma lineare deve contenere un centromero, due telomeri e un'origine di replicazione}{60}{subsection.5.2.4}% 
+\contentsline {subsection}{\numberline {5.2.5}Le molecole di DNA sono altamente conservate nei cromosomi}{61}{subsection.5.2.5}% 
+\contentsline {subsection}{\numberline {5.2.6}I nucleosomi sono unit\`a base della struttura del cromosoma eucariote}{61}{subsection.5.2.6}% 
+\contentsline {subsection}{\numberline {5.2.7}La struttura del nucleo del nucleosoma rivela come il DNA \`e condensato}{61}{subsection.5.2.7}% 
+\contentsline {subsection}{\numberline {5.2.8}I nucleosomi hanno strutture dinamiche e sono soggetti a cambi catalizzati da complessi rimodellanti a cromatina ATP-dipendenti}{62}{subsection.5.2.8}% 
+\contentsline {subsection}{\numberline {5.2.9}I nucleosomi sono tipicamente condensati in una fibra cromatinica}{62}{subsection.5.2.9}% 
+\contentsline {section}{\numberline {5.3}La struttura e la funzione della cromatina}{62}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}L'eterocromatina \`e altamente organizzata e limita l'espressione genica}{62}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}Lo stato eterocromatico \`e auto-propagante}{63}{subsection.5.3.2}% 
+\contentsline {subsection}{\numberline {5.3.3}I nuclei istonici sono modificati covalentemente a molti siti diversi}{63}{subsection.5.3.3}% 
+\contentsline {subsection}{\numberline {5.3.4}La cromatina acquisisce variet\`a addizionale attraverso inserzioni specifiche al sito di un insieme di varianti di istoni}{63}{subsection.5.3.4}% 
+\contentsline {subsection}{\numberline {5.3.5}Le modifiche covalenti e le varianti istoniche agiscono insieme per controllare le funzioni dei cromosomi}{63}{subsection.5.3.5}% 
+\contentsline {subsection}{\numberline {5.3.6}Un complesso di proteine lettrici e scrittrici possono espandere modifiche alla cromatina lungo un cromosoma}{64}{subsection.5.3.6}% 
+\contentsline {subsection}{\numberline {5.3.7}Barriere nella sequenza di DNA bloccano l'espansione dei complessi di lettura-scrittura separando domini di cromatina vicini}{64}{subsection.5.3.7}% 
+\contentsline {subsection}{\numberline {5.3.8}La cromatina nei centromeri rivela come le varianti degli istoni possono creare strutture speciali}{64}{subsection.5.3.8}% 
+\contentsline {subsection}{\numberline {5.3.9}Alcune strutture cromatiniche possono essere ereditate direttamente}{65}{subsection.5.3.9}% 
+\contentsline {subsection}{\numberline {5.3.10}L'attivazione e la repressione di strutture di cromatina pu\`o essere ereditato epigeneticamente}{65}{subsection.5.3.10}% 
+\contentsline {subsection}{\numberline {5.3.11}Le strutture di cromatina sono importanti per le funzioni del cromosoma eucariotico}{65}{subsection.5.3.11}% 
+\contentsline {section}{\numberline {5.4}La struttura globale dei cromosomi}{65}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}I cromosomi sono piegati in grandi anelli di cromatina}{65}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Cromosomi politene sono utili per visualizzare le strutture di cromatina}{65}{subsection.5.4.2}% 
+\contentsline {subsection}{\numberline {5.4.3}Esistono multiple forme di cromatina}{66}{subsection.5.4.3}% 
+\contentsline {subsection}{\numberline {5.4.4}Gli anelli di cromatina decondensano quando i geni al loro interno sono espressi}{66}{subsection.5.4.4}% 
+\contentsline {subsection}{\numberline {5.4.5}La cromatina pu\`o muoversi a siti specifici nel nucleo per alterare l'espressione dei geni}{66}{subsection.5.4.5}% 
+\contentsline {subsection}{\numberline {5.4.6}Reti di macromolecole formano un insieme di ambienti biochimici distinti nel nucleo}{67}{subsection.5.4.6}% 
+\contentsline {subsection}{\numberline {5.4.7}I cromosomi mitotici sono altamente condensati}{67}{subsection.5.4.7}% 
+\contentsline {section}{\numberline {5.5}Come si evolvono i genomi}{67}{section.5.5}% 
+\contentsline {subsection}{\numberline {5.5.1}Il confronto tra i genomi rivela sequenze di DNA attraverso la loro evoluzione del throughput di evoluzione}{68}{subsection.5.5.1}% 
+\contentsline {subsection}{\numberline {5.5.2}L'alterazione dei genomi \`e causata da fallimento del normale meccanismo per la copia e il mantenimento del DNA e da elementi del DNA trasponibili}{68}{subsection.5.5.2}% 
+\contentsline {subsection}{\numberline {5.5.3}La sequenza genomica di due specie differisce in proporzione al tempo in cui si sono evolute separatamente}{68}{subsection.5.5.3}% 
+\contentsline {subsection}{\numberline {5.5.4}L'albero filogenetico costruito dal confronto delle sequenze di DNA traccia le relazioni di tutti gli organismi}{68}{subsection.5.5.4}% 
+\contentsline {subsection}{\numberline {5.5.5}Un confronto tra cromosomi umani e dei topi mostra come la struttura dei genomi diverge}{69}{subsection.5.5.5}% 
+\contentsline {subsection}{\numberline {5.5.6}La dimensione del genoma dei vertebrati riflette i tassi relativi di addizione e perdita del DNA in un lignaggio}{69}{subsection.5.5.6}% 
+\contentsline {subsection}{\numberline {5.5.7}Si pu\`o inferire la sequenza di alcuni genomi antichi}{69}{subsection.5.5.7}% 
+\contentsline {subsection}{\numberline {5.5.8}Il confronto tra sequenze multispecie identifica sequenze di DNA conservato di funzione sconosciuta}{70}{subsection.5.5.8}% 
+\contentsline {subsection}{\numberline {5.5.9}Cambi in sequenze precedentemente conservate possono aiutare a decifrare passi critici dell'evoluzione}{70}{subsection.5.5.9}% 
+\contentsline {subsection}{\numberline {5.5.10}Mutazioni nella sequenza di DNA che controlla l'espressione genica ha guidato molti dei cambi evolutivi nei vertebrati}{70}{subsection.5.5.10}% 
+\contentsline {subsection}{\numberline {5.5.11}La duplicazione genica fornisce una fonte di novit\`a genica durante l'evoluzione}{70}{subsection.5.5.11}% 
+\contentsline {subsection}{\numberline {5.5.12}Geni duplicati divergono}{71}{subsection.5.5.12}% 
+\contentsline {subsection}{\numberline {5.5.13}L'evoluzione del gene globina mostra come la duplicazione del DNA contribuisce all'evoluzione degli organismi}{71}{subsection.5.5.13}% 
+\contentsline {subsection}{\numberline {5.5.14}I geni che codificano nuove proteine possono essere creati ricombinando gli esoni}{71}{subsection.5.5.14}% 
+\contentsline {subsection}{\numberline {5.5.15}Mutazioni neutrali si diffondono diventando fissate in una popolazione, con probabilit\`a dipendente dalla dimensione della popolazione}{72}{subsection.5.5.15}% 
+\contentsline {subsection}{\numberline {5.5.16}Molto pu\`o essere imparato dall'analisi della variazione tra gli umani}{72}{subsection.5.5.16}% 
+\contentsline {chapter}{\numberline {6}Replicazione, riparazione e ricombinazione del DNA}{74}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Il mantenimento della sequenza di DNA}{74}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}I tassi di mutazione sono estremamente bassi}{74}{subsection.6.1.1}% 
+\contentsline {subsection}{\numberline {6.1.2}I tassi di mutazione bassi sono necessari per la vita come la conosciamo}{75}{subsection.6.1.2}% 
+\contentsline {section}{\numberline {6.2}Meccanismi di replicazione del DNA}{75}{section.6.2}% 
+\contentsline {subsection}{\numberline {6.2.1}L'accoppiamento delle basi sottost\`a la replicazione e riparazione del DNA}{75}{subsection.6.2.1}% 
+\contentsline {subsection}{\numberline {6.2.2}La forcella di replicazione del DNA \`e asimmetrica}{75}{subsection.6.2.2}% 
+\contentsline {subsection}{\numberline {6.2.3}L'alta fedelt\`a del meccanismo di replicazione del DNA richiede molti meccanismi di correzione}{76}{subsection.6.2.3}% 
+\contentsline {subsection}{\numberline {6.2.4}Solo la replicazione nella direzione $5'$-$3'$ permette una correzione efficiente}{76}{subsection.6.2.4}% 
+\contentsline {subsection}{\numberline {6.2.5}Un enzima che polimerizza i nucleotidi sintetizza corti primer di RNA sul filamento in ritardo}{77}{subsection.6.2.5}% 
+\contentsline {subsection}{\numberline {6.2.6}Proteine speciali aiutano l'apertura della doppia elica sopra la forcella di replicazione}{77}{subsection.6.2.6}% 
+\contentsline {subsection}{\numberline {6.2.7}Un anello che scivola mantiene una DNA polimerasi in movimento sul DNA}{77}{subsection.6.2.7}% 
+\contentsline {subsection}{\numberline {6.2.8}Le proteine a una forcella di replicazione cooperano per formare una macchina di replicazione}{78}{subsection.6.2.8}% 
+\contentsline {subsection}{\numberline {6.2.9}Un sistema di riparazione direzionato al filamento rimuove gli errori di replicazione che sfuggono alla macchina di replicazione}{78}{subsection.6.2.9}% 
+\contentsline {subsection}{\numberline {6.2.10}La DNA topoisomerasi impedisce l'ingarbugliamento del DNA durante la replicazione}{78}{subsection.6.2.10}% 
+\contentsline {subsection}{\numberline {6.2.11}La replicazione del DNA \`e fondamentalmente simile in eucarioti e batteri}{79}{subsection.6.2.11}% 
+\contentsline {section}{\numberline {6.3}Inizializzazione e completamento della replicazione del DNA nei cromosomi}{79}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}La sintesi del DNA inizia alle origini di replicazione}{79}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}I cromosomi batterici hanno un origine singola per la replicazione}{79}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}I cromosomi eucariotici contengono multiple origini di replicazione}{80}{subsection.6.3.3}% 
+\contentsline {subsection}{\numberline {6.3.4}Negli eucarioti la replicazione del DNA avviene durante un'unica parte del ciclo vitale della cellula}{80}{subsection.6.3.4}% 
+\contentsline {subsection}{\numberline {6.3.5}Diverse regioni dello stesso cromosoma si replicano a tempi distinti durante la fase S}{80}{subsection.6.3.5}% 
+\contentsline {subsection}{\numberline {6.3.6}Un grande complesso multisubunit\`a si lega alle origini di replicazione eucariotiche}{80}{subsection.6.3.6}% 
+\contentsline {subsection}{\numberline {6.3.7}Nuovi nucleosomi sono assemblati in coda alla forcella di replicazione}{81}{subsection.6.3.7}% 
+\contentsline {subsubsection}{la telomerasi replica la fine dei cromosomi}{81}{section*.8}% 
+\contentsline {subsection}{\numberline {6.3.8}I telomeri sono condensati in strutture specializzate che proteggono la fine dei cromosomi}{81}{subsection.6.3.8}% 
+\contentsline {subsection}{\numberline {6.3.9}La lunghezza dei telomeri \`e regolata dalla cellula e dagli organismi}{82}{subsection.6.3.9}% 
+\contentsline {section}{\numberline {6.4}Riparazione del DNA}{82}{section.6.4}% 
+\contentsline {subsection}{\numberline {6.4.1}Senza la riparazione del DNA, danni spontanei cambierebbero rapidamente la sequenza del DNA}{82}{subsection.6.4.1}% 
+\contentsline {subsection}{\numberline {6.4.2}La doppia elica del DNA \`e prontamente riparata}{82}{subsection.6.4.2}% 
+\contentsline {subsection}{\numberline {6.4.3}Danni al DNA possono essere rimossi attraverso molti cammini}{82}{subsection.6.4.3}% 
+\contentsline {subsection}{\numberline {6.4.4}L'accoppiamento di riparazione a asportazione di nucleotidi con la trascrizione garantisce che il DNA pi\`u importante \`e riparato efficientemente}{83}{subsection.6.4.4}% 
+\contentsline {subsection}{\numberline {6.4.5}La chimica delle basi del DNA facilita l'individuazione dei danni}{83}{subsection.6.4.5}% 
+\contentsline {subsection}{\numberline {6.4.6}Speciali translesion della DNA polimerasi sono usate durante emergenze}{83}{subsection.6.4.6}% 
+\contentsline {subsection}{\numberline {6.4.7}Rotture nel doppio filamento sono efficientemente riparate}{84}{subsection.6.4.7}% 
+\contentsline {subsection}{\numberline {6.4.8}Danno al DNA ritarda la progressione del ciclo cellulare}{84}{subsection.6.4.8}% 
+\contentsline {subsection}{\numberline {6.4.9}Riparazione omologa}{84}{subsection.6.4.9}% 
+\contentsline {subsection}{\numberline {6.4.10}L'accoppiamento delle basi del DNA guida la ricombinazione omologa}{84}{subsection.6.4.10}% 
+\contentsline {subsection}{\numberline {6.4.11}La ricombinazione omologa pu\`o riparare perfettamente rotture a doppio filamento nel DNA}{85}{subsection.6.4.11}% 
+\contentsline {subsection}{\numberline {6.4.12}Il cambio di filamenti avviene grazie la proteina RecA/Rad51}{85}{subsection.6.4.12}% 
+\contentsline {subsection}{\numberline {6.4.13}La ricombinazione omologa pu\`o salvare forcelle di replicazione danneggiate}{85}{subsection.6.4.13}% 
+\contentsline {subsection}{\numberline {6.4.14}Le cellule regolano l'uso della ricombinazione omologa durante la riparazione del DNA}{85}{subsection.6.4.14}% 
+\contentsline {subsection}{\numberline {6.4.15}La ricombinazione omologa \`e cruciale per la meiosi}{86}{subsection.6.4.15}% 
+\contentsline {subsection}{\numberline {6.4.16}La ricombinazione meiotica comincia con una rottura a doppio filamento programmata}{86}{subsection.6.4.16}% 
+\contentsline {subsection}{\numberline {6.4.17}Le giunzioni di Holliday sono formate durante la meiosi}{86}{subsection.6.4.17}% 
+\contentsline {subsection}{\numberline {6.4.18}La ricombinazione omologa produce crossover e non-crossover durante la meiosi}{86}{subsection.6.4.18}% 
+\contentsline {subsection}{\numberline {6.4.19}La ricombinazione omologa solitamente causa conversione genica}{87}{subsection.6.4.19}% 
+\contentsline {section}{\numberline {6.5}Trasposizione e ricombinazione specifica al sito conservativa}{87}{section.6.5}% 
+\contentsline {subsection}{\numberline {6.5.1}Attraverso la transizione gli elementi genetici mobili possono inserirsi in ogni sequenza di DNA}{87}{subsection.6.5.1}% 
+\contentsline {subsection}{\numberline {6.5.2}Trasposoni solo a DNA si possono muovere attraverso un meccanismo a copia-incolla}{88}{subsection.6.5.2}% 
+\contentsline {subsection}{\numberline {6.5.3}Alcuni virus usano un meccanismo di trasposizione per muoversi nel cromosoma della cellula ospite}{88}{subsection.6.5.3}% 
+\contentsline {subsection}{\numberline {6.5.4}Retrotrasposoni simili ai retrovirus assomigliano ai retrovirus ma non possiedono un capside}{88}{subsection.6.5.4}% 
+\contentsline {subsection}{\numberline {6.5.5}Una grande frazione del genoma umano \`e composta di retrotrasposoni nonvirali}{88}{subsection.6.5.5}% 
+\contentsline {subsection}{\numberline {6.5.6}La ricombinazione conservativa specifica al sito pu\`o riordinare il DNA reversibilmente}{89}{subsection.6.5.6}% 
+\contentsline {chapter}{\numberline {7}Come una cellula legge il genoma, dal DNA alle proteine}{90}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Dal DNA all'RNA}{90}{section.7.1}% 
+\contentsline {subsection}{\numberline {7.1.1}Le molecole di RNA hanno un unico filamento}{90}{subsection.7.1.1}% 
+\contentsline {subsection}{\numberline {7.1.2}La trascrizione produce RNA complementare a un filamento di DNA}{91}{subsection.7.1.2}% 
+\contentsline {subsection}{\numberline {7.1.3}L'RNA polimerasi causa la trascrizione}{91}{subsection.7.1.3}% 
+\contentsline {subsection}{\numberline {7.1.4}Le cellule producono diverse categorie di molecole di RNA}{91}{subsection.7.1.4}% 
+\contentsline {subsection}{\numberline {7.1.5}Segnali codificati nel DNA indicano l'RNA polimerasi dove iniziare e dove finire}{91}{subsection.7.1.5}% 
+\contentsline {subsection}{\numberline {7.1.6}I segnali di inizio e terminazione della trascrizione sono eterogenei nella sequenza nucleotidica}{92}{subsection.7.1.6}% 
+\contentsline {subsection}{\numberline {7.1.7}L'iniziazione della trascrizione negli eucarioti richiede molte proteine}{92}{subsection.7.1.7}% 
+\contentsline {subsection}{\numberline {7.1.8}La RNA polimearsi II richiede un insieme di fattori di trascrizione generali}{93}{subsection.7.1.8}% 
+\contentsline {subsection}{\numberline {7.1.9}La polimerasi II richiede attivatori, mediatori e proteine per la modifica della cromatina}{93}{subsection.7.1.9}% 
+\contentsline {subsection}{\numberline {7.1.10}L'allungamento della trascrizione negli eucarioti richiede proteine accessorie}{93}{subsection.7.1.10}% 
+\contentsline {subsection}{\numberline {7.1.11}La trascrizione crea tensione superelicale}{94}{subsection.7.1.11}% 
+\contentsline {subsection}{\numberline {7.1.12}L'allungamento della trascrizione \`e strettamente accoppiato con il processamento dell'RNA}{94}{subsection.7.1.12}% 
+\contentsline {subsection}{\numberline {7.1.13}L incappucciamento dell'RNA \`e la prima modifica dei pre-mRNA eucariotici}{94}{subsection.7.1.13}% 
+\contentsline {subsection}{\numberline {7.1.14}L'RNA splicing rimuove le sequenze di introni dal pre-mRNA}{94}{subsection.7.1.14}% 
+\contentsline {subsection}{\numberline {7.1.15}Sequenze di nucleotidi segnalano dove avviene lo slicing}{94}{subsection.7.1.15}% 
+\contentsline {subsection}{\numberline {7.1.16}Lo splicing dell'RNA \`e svolto dallo spliceosoma}{95}{subsection.7.1.16}% 
+\contentsline {subsection}{\numberline {7.1.17}Lo spliceosoma usa l'idrolisi dell'ATP per produrre una sere di riordinamenti RNA-RNA}{95}{subsection.7.1.17}% 
+\contentsline {subsection}{\numberline {7.1.18}Altre propriet\`a del pre-mRNA e la sua sintesi spiega le scelte dei siti propri di splice}{95}{subsection.7.1.18}% 
+\contentsline {subsection}{\numberline {7.1.19}La struttura cromatinica influenza l'RNA splicing}{96}{subsection.7.1.19}% 
+\contentsline {subsection}{\numberline {7.1.20}Lo splicing di RNA mostra plasticit\`a notevole}{96}{subsection.7.1.20}% 
+\contentsline {subsection}{\numberline {7.1.21}Rna splicing catalizzato dallo spliceosoma si \`e probabilmente evoluto da meccanismi di autosplicing}{96}{subsection.7.1.21}% 
+\contentsline {subsection}{\numberline {7.1.22}Enzimi di processamento dell'RNA generano la terminazione $\mathbf {3'}$ degli mRNA eucariotici}{96}{subsection.7.1.22}% 
+\contentsline {subsection}{\numberline {7.1.23}mRNA maturi eucariotici sono esportati selettivamente dal nucleo}{97}{subsection.7.1.23}% 
+\contentsline {subsection}{\numberline {7.1.24}Anche gli RNA non codificanti sono sintetizzati e processati nel nucleo}{97}{subsection.7.1.24}% 
+\contentsline {subsection}{\numberline {7.1.25}Il nucleolo \`e una fabbrica di produzione di ribosomi}{98}{subsection.7.1.25}% 
+\contentsline {subsection}{\numberline {7.1.26}Il nucleo contiene una variet\`a di aggregati subnucleari}{98}{subsection.7.1.26}% 
+\contentsline {section}{\numberline {7.2}Da RNA a proteine}{98}{section.7.2}% 
+\contentsline {subsection}{\numberline {7.2.1}Una sequenza di mRNA \`e decodificata in insiemi di tre nucleotidi}{98}{subsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7.2.2}Molecole di tRNA combinano amminoacidi ai codoni}{99}{subsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.2.3}tRNA sono modificati covalentemente prima che escano dal nucleo}{99}{subsection.7.2.3}% 
+\contentsline {subsection}{\numberline {7.2.4}Specifici enzimi accoppiano amminoacidi con la molecola di tRNA appropriata}{99}{subsection.7.2.4}% 
+\contentsline {subsection}{\numberline {7.2.5}La modifica da tRNA sintetasi assicura accuratezza}{99}{subsection.7.2.5}% 
+\contentsline {subsection}{\numberline {7.2.6}Gli amminoacidi sono aggiunti alla terminazione \ce {C-} di una catena polipeptidica crescente}{100}{subsection.7.2.6}% 
+\contentsline {subsection}{\numberline {7.2.7}Il messaggio di RNA \`e decodificato nei ribosomi}{100}{subsection.7.2.7}% 
+\contentsline {subsection}{\numberline {7.2.8}Fattori di allungamento portano avanti la traduzione e ne aumentano l'accuratezza}{100}{subsection.7.2.8}% 
+\contentsline {subsection}{\numberline {7.2.9}Molti processi biologici superano le limitazioni intrinseche all'accoppiamento di basi complementari}{101}{subsection.7.2.9}% 
+\contentsline {subsection}{\numberline {7.2.10}L'accuratezza nella traduzione richiede una spesa di energia libera}{101}{subsection.7.2.10}% 
+\contentsline {subsection}{\numberline {7.2.11}Il ribosoma \`e un ribozima}{101}{subsection.7.2.11}% 
+\contentsline {subsection}{\numberline {7.2.12}La sequenza nucleotidica negli mRNA segnala dove iniziare la sintesi delle proteine}{102}{subsection.7.2.12}% 
+\contentsline {subsection}{\numberline {7.2.13}I codoni di fine marcano la fine della traduzione}{102}{subsection.7.2.13}% 
+\contentsline {subsection}{\numberline {7.2.14}Le proteine sono create su poliribosomi}{103}{subsection.7.2.14}% 
+\contentsline {subsection}{\numberline {7.2.15}Ci sono piccole variazioni nel codice genetico standard}{103}{subsection.7.2.15}% 
+\contentsline {subsection}{\numberline {7.2.16}Meccanismi di controllo della qualit\`a agiscono per prevenire la traduzione di mRNA danneggiati}{103}{subsection.7.2.16}% 
+\contentsline {subsection}{\numberline {7.2.17}Alcune proteine cominciano a piegarsi mentre vengono sintetizzate}{103}{subsection.7.2.17}% 
+\contentsline {subsection}{\numberline {7.2.18}Accompagnatori molecolari aiutano a guidare il piegamento della maggior parte delle proteine}{104}{subsection.7.2.18}% 
+\contentsline {subsection}{\numberline {7.2.19}La cellula utilizza diversi tipi di accompagnatori}{104}{subsection.7.2.19}% 
+\contentsline {subsection}{\numberline {7.2.20}Regioni idrofobiche esposte forniscono segnali critici per il controlli di qualit\`a delle proteine}{104}{subsection.7.2.20}% 
+\contentsline {subsection}{\numberline {7.2.21}Il proteosoma \`e una proteasi compartimentalizzata con siti attivi reclusi}{104}{subsection.7.2.21}% 
+\contentsline {subsection}{\numberline {7.2.22}Molte proteine sono controllate da distruzione regolata}{105}{subsection.7.2.22}% 
+\contentsline {chapter}{\numberline {8}Controllo dell'espressione genica}{106}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Una panoramica del controllo dei geni}{106}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Diversi tipi di cellule sintetizzano diversi insiemi di RNA e proteine}{106}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}Segnali esterni possono causare il cambio dell'espressione dei geni di una cellula}{106}{subsection.8.1.2}% 
+\contentsline {subsection}{\numberline {8.1.3}L'espressione dei geni pu\`o essere regolata a molti dei passaggi nel cammino da DNA a RNA a proteine}{106}{subsection.8.1.3}% 
+\contentsline {section}{\numberline {8.2}Controllo della trascrizione da parte di proteine leganti a specifiche sequenze}{107}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}La sequenza dei nucleotidi nella doppia elica di DNA pu\`o essere letta da proteine}{107}{subsection.8.2.1}% 
+\contentsline {subsection}{\numberline {8.2.2}I regolatori di trascrizione contengono motivi strutturali che possono leggere sequenze di DNA}{107}{subsection.8.2.2}% 
+\contentsline {subsection}{\numberline {8.2.3}La dimerizzazione dei regolatori di transizione aumenta la loro affinit\`a e specificit\`a per il DNA}{107}{subsection.8.2.3}% 
+\contentsline {subsection}{\numberline {8.2.4}I regolatori di trascrizione si legano cooperativamente al DNA}{108}{subsection.8.2.4}% 
+\contentsline {subsection}{\numberline {8.2.5}La struttura del nucelosoma promuove legami cooperativi di regolatori di trascrizione}{108}{subsection.8.2.5}% 
+\contentsline {section}{\numberline {8.3}I regolatori di trascrizione attivano e disattivano i geni}{108}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Il repressore triptofano disattiva i geni}{108}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}I repressori disattivano i geni e gli attivatori li attivano}{109}{subsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.3.3}Un attivatore e un repressore controllano l'operone Lac}{109}{subsection.8.3.3}% 
+\contentsline {subsection}{\numberline {8.3.4}L'inanellamento del DNA pu\`o avvenire durante la regolaizone genica dei batteri}{109}{subsection.8.3.4}% 
+\contentsline {subsection}{\numberline {8.3.5}Interruttori complessi controllano la trascrizione genica negli eucarioti}{109}{subsection.8.3.5}% 
+\contentsline {subsection}{\numberline {8.3.6}Una regione di controllo di un gene eucariotico consiste di un promotore e molte sequenze cis-regolatorie}{110}{subsection.8.3.6}% 
+\contentsline {subsection}{\numberline {8.3.7}I regolatori di trascrizione eucariotici lavorano in gruppi}{110}{subsection.8.3.7}% 
+\contentsline {subsection}{\numberline {8.3.8}Le proteine attivatrici promuovono l'assemblaggio di RNA polimerasi al punto di inizio della trascrizione}{110}{subsection.8.3.8}% 
+\contentsline {subsection}{\numberline {8.3.9}Gli attivatori di trascrizione eucariotici direazionano la modifica di strutture cromatiniche locali}{111}{subsection.8.3.9}% 
+\contentsline {subsection}{\numberline {8.3.10}Gli attivatori di trascrizione possono promuoverla rilasciando la RNA polimerasi dai promotori}{111}{subsection.8.3.10}% 
+\contentsline {subsection}{\numberline {8.3.11}Gli attivatori di trascrizione lavorano sinergeticamente}{111}{subsection.8.3.11}% 
+\contentsline {subsection}{\numberline {8.3.12}Repressori di trascrizione eucariotici possono inibire la trascrizione in molti modi}{112}{subsection.8.3.12}% 
+\contentsline {subsection}{\numberline {8.3.13}Sequenze di DNA isolanti impediscono a regolatori di influenzare geni distanti}{112}{subsection.8.3.13}% 
+\contentsline {subsection}{\numberline {8.3.14}Meccanismi genetici molecolari che creano e mantengono tipi di cellula specializzati}{112}{subsection.8.3.14}% 
+\contentsline {subsection}{\numberline {8.3.15}Complessi interruttori genici che regolano lo sviluppo della Drosophila sono creati da molecole pi\`u piccole}{112}{subsection.8.3.15}% 
+\contentsline {subsection}{\numberline {8.3.16}Il gene Eve della Drosophila \`e regolato da controlli combinatori}{113}{subsection.8.3.16}% 
+\contentsline {subsection}{\numberline {8.3.17}I regolatori di trascrizione sono messi ingioco da segnali extracellulari}{113}{subsection.8.3.17}% 
+\contentsline {subsection}{\numberline {8.3.18}Il controllo dei geni combinatorio diversi tipi di cellule}{113}{subsection.8.3.18}% 
+\contentsline {subsection}{\numberline {8.3.19}Combinazioni di regolatori di trascrizione master specificano il tempo della cellula controllando l'espressione di molti geni}{113}{subsection.8.3.19}% 
+\contentsline {subsection}{\numberline {8.3.20}Cellule specializzate devono rapidamente attivare e disattivare insiemi di geni}{113}{subsection.8.3.20}% 
+\contentsline {subsection}{\numberline {8.3.21}Cellule differenziate mantengono la loro identit\`a}{114}{subsection.8.3.21}% 
+\contentsline {subsection}{\numberline {8.3.22}Circuiti di trascrizione permettono alla cellula di compiere operazioni logiche}{114}{subsection.8.3.22}% 
+\contentsline {section}{\numberline {8.4}Meccanismi che rinforzano la memoria cellulare in piante e animali}{114}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}Pattern di metilazione del DNA possono essere ereditati quando le cellule dei vertebrati si dividono}{114}{subsection.8.4.1}% 
+\contentsline {subsection}{\numberline {8.4.2}Isole ricche di CG sono associate con molti geni nei mammiferi}{115}{subsection.8.4.2}% 
+\contentsline {subsection}{\numberline {8.4.3}L'imprinting genomico si basa sulla metilazione del DNA}{115}{subsection.8.4.3}% 
+\contentsline {subsection}{\numberline {8.4.4}Alterazioni globali al cromosoma nella struttura cromatinica possono essere ereditate}{116}{subsection.8.4.4}% 
+\contentsline {subsection}{\numberline {8.4.5}Meccanismi epigenetici assicurano che pattern stabili di espressione genica possono essere trasmessi a cellule figlie}{116}{subsection.8.4.5}% 
+\contentsline {section}{\numberline {8.5}Controlli post trascrizionali}{116}{section.8.5}% 
+\contentsline {subsection}{\numberline {8.5.1}L'attenuazione della trascrizione causa la terminazione prematura di alcune molecole di RNA}{116}{subsection.8.5.1}% 
+\contentsline {subsection}{\numberline {8.5.2}Riboswitches rappresentano probabilmente antiche forme di controllo genico}{117}{subsection.8.5.2}% 
+\contentsline {subsection}{\numberline {8.5.3}RNA splicing alternativo pu\`o produrre diverse forme di proteine dallo stesso gene}{117}{subsection.8.5.3}% 
+\contentsline {subsection}{\numberline {8.5.4}La definizione di un gene \`e stata modificata}{117}{subsection.8.5.4}% 
+\contentsline {subsection}{\numberline {8.5.5}Un cambio nel sito della rottura del trascritto a RNA e dell'addizione Poli-A pu\`o cambiare la terminazione C di una proteina}{117}{subsection.8.5.5}% 
+\contentsline {subsection}{\numberline {8.5.6}Modifiche dell'RNA possono cambiare il significato del messaggio RNA}{118}{subsection.8.5.6}% 
+\contentsline {subsection}{\numberline {8.5.7}Il trasporto di RNA dal nucleo pu\`o essere regolato}{118}{subsection.8.5.7}% 
+\contentsline {subsection}{\numberline {8.5.8}Alcuni mRNA sono localizzati in regioni specifiche del citosol}{118}{subsection.8.5.8}% 
+\contentsline {subsection}{\numberline {8.5.9}Le regioni non tradotte $\mathbf {5'}$ e $\mathbf {3'}$ controllano la traduzione dei propri mRNA}{119}{subsection.8.5.9}% 
+\contentsline {subsection}{\numberline {8.5.10}La fosforilazione di un fattore di iniziazione regola globalmente la sintesi proteica}{119}{subsection.8.5.10}% 
+\contentsline {subsection}{\numberline {8.5.11}Iniziazione al codone AUG a monte dell'inizio di traduzione pu\`o regolare l'iniziazione della traduzione eucariotica}{119}{subsection.8.5.11}% 
+\contentsline {subsection}{\numberline {8.5.12}Siti di entrata interni al ribosoma fornsicono opportunit\`a per il controllo traduzionale}{120}{subsection.8.5.12}% 
+\contentsline {subsection}{\numberline {8.5.13}Cambi nella stabilit\`a dell'mRNA possono regolare l'espressione genica}{120}{subsection.8.5.13}% 
+\contentsline {subsection}{\numberline {8.5.14}La regolazione della stabilit\`a dell'mRNA coinvolge corpi P e granuli di stress}{120}{subsection.8.5.14}% 
+\contentsline {section}{\numberline {8.6}Regolazione dell'espressione genica da RNA non codificanti}{121}{section.8.6}% 
+\contentsline {subsection}{\numberline {8.6.1}I trascritti di piccoli RNA non codificanti regolano molti geni animali e di piante attraverso interferenza RNA}{121}{subsection.8.6.1}% 
+\contentsline {subsection}{\numberline {8.6.2}Il miRNA regola la traduzione e stabilit\`a dell'mRNA}{121}{subsection.8.6.2}% 
+\contentsline {subsection}{\numberline {8.6.3}L'interferenza a RNA \`e anche usata come un meccanismo di difesa per la cellula}{121}{subsection.8.6.3}% 
+\contentsline {subsection}{\numberline {8.6.4}L'interferenza a RNA pu\`o direzionare la formazione di eterocromatina}{122}{subsection.8.6.4}% 
+\contentsline {subsection}{\numberline {8.6.5}I piRNA proteggono la linea germinale da elementi trasponibili}{122}{subsection.8.6.5}% 
+\contentsline {subsection}{\numberline {8.6.6}I batteri usano piccoli RNA non codificanti per proteggersi dai virus}{122}{subsection.8.6.6}% 
+\contentsline {subsection}{\numberline {8.6.7}Lunghi RNA non codificanti hanno funzioni diverse nella cellula}{123}{subsection.8.6.7}% 
+\contentsline {part}{III\hspace {1em}Organizzazione interna della cellula}{124}{part.3}% 
+\contentsline {chapter}{\numberline {9}Struttura di membrana}{125}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Il bistrato lipidico}{125}{section.9.1}% 
+\contentsline {subsection}{\numberline {9.1.1}Fosfogliceridi, sfingolipidi e steroli sono i lipidi pi\`u comuni nelle membrane cellulari}{125}{subsection.9.1.1}% 
+\contentsline {subsection}{\numberline {9.1.2}I fosfolipidi formano bistrati spontaneamente}{126}{subsection.9.1.2}% 
+\contentsline {subsection}{\numberline {9.1.3}Il bistrato lipidico \`e un fluido bidimensionale}{126}{subsection.9.1.3}% 
+\contentsline {subsection}{\numberline {9.1.4}La fluidit\`a del bistrato lipidico dipende dalla sua composizione}{126}{subsection.9.1.4}% 
+\contentsline {subsection}{\numberline {9.1.5}Nonostante la loro fluidit\`a i bistrati lipidici possono formare domini di composizioni diverse}{127}{subsection.9.1.5}% 
+\contentsline {subsection}{\numberline {9.1.6}Goccioline di lipidi sono circondate da un monostrato fosfolipidico}{127}{subsection.9.1.6}% 
+\contentsline {subsection}{\numberline {9.1.7}L'asimmetria del bistrato lipidico \`e funzionalmente importante}{127}{subsection.9.1.7}% 
+\contentsline {subsection}{\numberline {9.1.8}I glicolipidi si trovano sulla superficie di tutte le membrane plasmatiche eucariotiche}{127}{subsection.9.1.8}% 
+\contentsline {section}{\numberline {9.2}Proteine di membrana}{128}{section.9.2}% 
+\contentsline {subsection}{\numberline {9.2.1}Le proteine di membrana si possono associare con il bistrato lipidico in vari modi}{128}{subsection.9.2.1}% 
+\contentsline {subsection}{\numberline {9.2.2}Ancore lipidice controllano la localizzazione nella membrana di alcune proteine segnalatrici}{129}{subsection.9.2.2}% 
+\contentsline {subsection}{\numberline {9.2.3}Nella maggior parte delle proteine transmembrana la catena polipeptidica attraversa il bistrato lipidico in una conformazione a $\mathbf {\alpha }$-elica}{129}{subsection.9.2.3}% 
+\contentsline {subsection}{\numberline {9.2.4}$\mathbf {\alpha }$-eliche transmembrana interagiscono tra di loro}{129}{subsection.9.2.4}% 
+\contentsline {subsection}{\numberline {9.2.5}Alcuni barili $\beta $ formano grandi canali}{130}{subsection.9.2.5}% 
+\contentsline {subsection}{\numberline {9.2.6}Molte proteine di membrana sono glicolisate}{130}{subsection.9.2.6}% 
+\contentsline {subsection}{\numberline {9.2.7}Le cellule possono confinare proteine e lipidi a domini specifici nella membrana}{130}{subsection.9.2.7}% 
+\contentsline {subsection}{\numberline {9.2.8}Il citoscheletro corticale d\`a alle membrane forza meccanica e vincola la diffusione delle proteine di membrana}{131}{subsection.9.2.8}% 
+\contentsline {subsection}{\numberline {9.2.9}Proteine piegatrici di membrana deformano i bistrati}{131}{subsection.9.2.9}% 
+\contentsline {chapter}{\numberline {10}Trasporto di membrana di piccole molecole e propriet\`a elettriche delle membrane}{132}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Principi del trasporto di membrana}{132}{section.10.1}% 
+\contentsline {subsection}{\numberline {10.1.1}Bistrati lipidici liberi da proteine sono impermeabili agli ioni}{132}{subsection.10.1.1}% 
+\contentsline {subsection}{\numberline {10.1.2}Ci sono due classi di proteine di trasporto di membrana: trasportatori e canali}{132}{subsection.10.1.2}% 
+\contentsline {subsection}{\numberline {10.1.3}Il trasporto attivo \`e mediato da trasportatori accoppiati da una fonte di energia}{133}{subsection.10.1.3}% 
+\contentsline {section}{\numberline {10.2}Trasportatori e trasporto di membrana attivo}{133}{section.10.2}% 
+\contentsline {subsection}{\numberline {10.2.1}Il trasporto attivo pu\`o essere guidato da gradienti di concentrazione ionica}{133}{subsection.10.2.1}% 
+\contentsline {subsection}{\numberline {10.2.2}Trasportatori nella membrana plasmatica regolano il pH citosilico}{134}{subsection.10.2.2}% 
+\contentsline {subsection}{\numberline {10.2.3}Una distribuzione asimemtrica dei trasportatori nelle cellule epiteliali sottosta al trasporto transcellulare dei soluti}{134}{subsection.10.2.3}% 
+\contentsline {subsection}{\numberline {10.2.4}Ci sono tre classi di pompe guidate dall'ATP}{134}{subsection.10.2.4}% 
+\contentsline {subsection}{\numberline {10.2.5}Una ATPasi P-tipo pompa \ce {Ca^{2+}} nel reticolo sarcoplasmico nelle cellule muscolari}{134}{subsection.10.2.5}% 
+\contentsline {subsection}{\numberline {10.2.6}La pompa \ce {Na+}-\ce {K+} della membrana plasmatica stabilisce gradienti \ce {Na+} e \ce {K+} attraverso la membrana plasmatica}{135}{subsection.10.2.6}% 
+\contentsline {subsection}{\numberline {10.2.7}I trasportatori ABC costituiscono la pi\`u grande famiglia di proteine di trasporto di membrana}{135}{subsection.10.2.7}% 
+\contentsline {section}{\numberline {10.3}Canali e le propriet\`a elettriche delle membrane}{135}{section.10.3}% 
+\contentsline {subsection}{\numberline {10.3.1}Le acquaporine sono permeabili all'acqua ma impermeabili agli ioni}{136}{subsection.10.3.1}% 
+\contentsline {subsection}{\numberline {10.3.2}Canali ionici sono selettivi degli ioni e fluttuano tra stato aperto e chiuso}{136}{subsection.10.3.2}% 
+\contentsline {subsection}{\numberline {10.3.3}Il potenziale di membrana nelle cellule animali dipende principalmente dai canali di leak \ce {K+} e dal suo gradiente attraverso la membrana plasmatica}{136}{subsection.10.3.3}% 
+\contentsline {subsection}{\numberline {10.3.4}Il potenziale di riposo decade lentamente quando la pompa \ce {Na+}-\ce {K+} \`e fermata}{137}{subsection.10.3.4}% 
+\contentsline {subsection}{\numberline {10.3.5}La struttura dei canali batterici \ce {K+} motra come un canale ionico lavora}{137}{subsection.10.3.5}% 
+\contentsline {subsection}{\numberline {10.3.6}Canali meccanosensibili proteggono cellule batteriche contro pressioni osmotiche estreme}{137}{subsection.10.3.6}% 
+\contentsline {subsection}{\numberline {10.3.7}La funzione di un neurone dipende sulla sua struttura allungata}{137}{subsection.10.3.7}% 
+\contentsline {subsection}{\numberline {10.3.8}Canali di cationi voltage-gated generano potenziali di azione in cellule elettricamente generate}{138}{subsection.10.3.8}% 
+\contentsline {subsection}{\numberline {10.3.9}L'utilizzo di channelrhodopsin ha rivoluzionato lo studio di circuiti neurali}{138}{subsection.10.3.9}% 
+\contentsline {subsection}{\numberline {10.3.10}La mielinizzazione aumenta la velocit\`a e l'efficenza della propagazione del potenziale di azione nelle cellule nervose}{138}{subsection.10.3.10}% 
+\contentsline {subsection}{\numberline {10.3.11}Registrazione di morsetti mostra che canali ionici hanno uno stato binario}{139}{subsection.10.3.11}% 
+\contentsline {subsection}{\numberline {10.3.12}Canali di cationi voltage-gated sono evoluzionariamente e strutturalmente imparentati}{139}{subsection.10.3.12}% 
+\contentsline {subsection}{\numberline {10.3.13}Diversi dipi di neuroni mostrano caratteristiche propriet\`a di stable firing}{139}{subsection.10.3.13}% 
+\contentsline {subsection}{\numberline {10.3.14}Canali ionici transmitter-gated convertono segnali chimici in elettrici alla sinapsi chimica}{139}{subsection.10.3.14}% 
+\contentsline {subsection}{\numberline {10.3.15}Le sinapsi chimiche possono essere eccitatorie o inibitorie}{140}{subsection.10.3.15}% 
+\contentsline {subsection}{\numberline {10.3.16}I recettori di acetilcolina alle giunzioni neuromuscolari sono canali di cationi transmitter-gated eccitatori}{140}{subsection.10.3.16}% 
+\contentsline {subsection}{\numberline {10.3.17}I neuroni contengono molti tipi di canali transmitter-gated}{141}{subsection.10.3.17}% 
+\contentsline {subsection}{\numberline {10.3.18}La trasmissione neuromuscolare coinvolge l'attivazione sequenziale di cinque insiemi diversi di canali ionici}{141}{subsection.10.3.18}% 
+\contentsline {subsection}{\numberline {10.3.19}I singoli neuroni sono complessi dispositivi computazionali}{141}{subsection.10.3.19}% 
+\contentsline {subsection}{\numberline {10.3.20}La computazione neuronale richiede una combinazione di almeno tre tipi di canali \ce {K+}}{142}{subsection.10.3.20}% 
+\contentsline {subsection}{\numberline {10.3.21}Potenziazione a lungo termine (LPT) nell'ippocampo dei mammiferi dipende dall'entrata di \ce {Ca^{2+}} attraverso canali recettori di NMDA}{142}{subsection.10.3.21}% 
+\contentsline {chapter}{\numberline {11}Compartimenti intracellulari e ordinamento delle proteine}{144}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}La compartimentalizzazione della cellula}{144}{section.11.1}% 
+\contentsline {subsection}{\numberline {11.1.1}Tutte le cellule hanno lo stesso insieme base di organelli racchiusi da membrana}{144}{subsection.11.1.1}% 
+\contentsline {subsection}{\numberline {11.1.2}Origini evolutive spiegano le reazioni topologiche degli organelli}{145}{subsection.11.1.2}% 
+\contentsline {subsection}{\numberline {11.1.3}Le proteine si possono muovere tra i compartimenti in modi diversi}{145}{subsection.11.1.3}% 
+\contentsline {subsection}{\numberline {11.1.4}Sequenze di segnali e recettori di ordinamento direzionano le proteine al corretto indirizzo nella cellula}{146}{subsection.11.1.4}% 
+\contentsline {subsection}{\numberline {11.1.5}La maggior parte degli organelli non pu\`o essere costruita da nuovo e richiedono informazioni nell'organello stesso}{146}{subsection.11.1.5}% 
+\contentsline {section}{\numberline {11.2}Il trasporto di molecole tra il nucleo e il citosol}{147}{section.11.2}% 
+\contentsline {subsection}{\numberline {11.2.1}Complessi di pori nucleari perforano la membrana nucleare}{147}{subsection.11.2.1}% 
+\contentsline {subsection}{\numberline {11.2.2}Segnali di localizzazione direzionano le proteine nucleari al nucleo}{147}{subsection.11.2.2}% 
+\contentsline {subsection}{\numberline {11.2.3}Recettori di importazione nucleare si legano sia ai segnali di localizzazione nucleare e alle proteine NPC}{148}{subsection.11.2.3}% 
+\contentsline {subsection}{\numberline {11.2.4}L'esportazione nucleare lavora come l'importazione ma in senso opposto}{148}{subsection.11.2.4}% 
+\contentsline {subsection}{\numberline {11.2.5}La Ran GTPasi impone direzionalit\`a al trasporto attraverso NPC}{148}{subsection.11.2.5}% 
+\contentsline {subsection}{\numberline {11.2.6}Il trasporto attraverso NPC pu\`o essere regolato controllando l'accesso ai macchinari di trasporto}{149}{subsection.11.2.6}% 
+\contentsline {subsection}{\numberline {11.2.7}Durante la mitosi la membrana nucleare si disassembla}{149}{subsection.11.2.7}% 
+\contentsline {section}{\numberline {11.3}Il trasporto di proteine in mitocondri e cloroplasti}{149}{section.11.3}% 
+\contentsline {subsection}{\numberline {11.3.1}La traslocazione nei mitocondri dipende da sequenze di segnale e traslocatori di proteine}{150}{subsection.11.3.1}% 
+\contentsline {subsection}{\numberline {11.3.2}I precursori mitocondriali sono importati come catene polipeptidiche non piegate}{150}{subsection.11.3.2}% 
+\contentsline {subsection}{\numberline {11.3.3}L'importazione \`e guidata da idrolisi dell'ATP e da potenziale di membrana}{151}{subsection.11.3.3}% 
+\contentsline {subsection}{\numberline {11.3.4}Batteri e mitocondri utilizzano meccanismi simili per inserire porine nella membrana esterna}{151}{subsection.11.3.4}% 
+\contentsline {subsection}{\numberline {11.3.5}Trasoprto nella membrana interna mitocondriale e nello spazio intermembrana avviene secondo diverse strade}{151}{subsection.11.3.5}% 
+\contentsline {subsection}{\numberline {11.3.6}Due sequenze di segnale direzionano le proteine a una membrana tilacoide nei cloroplasti}{152}{subsection.11.3.6}% 
+\contentsline {section}{\numberline {11.4}Perossisomi}{152}{section.11.4}% 
+\contentsline {subsection}{\numberline {11.4.1}I perossisomi usano ossigeno molecolare e perossido di idrogeno per svolgere reazioni di ossidazione}{152}{subsection.11.4.1}% 
+\contentsline {subsection}{\numberline {11.4.2}Una corta sequenza di segnale direziona l'importazione di proteine nei perossisomi}{152}{subsection.11.4.2}% 
+\contentsline {subsection}{\numberline {11.4.3}Il reticolo endoplasmatico}{153}{subsection.11.4.3}% 
+\contentsline {subsection}{\numberline {11.4.4}L'ER \`e strutturalmente e funzionalmente diverso}{153}{subsection.11.4.4}% 
+\contentsline {subsection}{\numberline {11.4.5}Sequenze di segnale sono state scoperte prima in proteine importate nell'ER ruvido}{153}{subsection.11.4.5}% 
+\contentsline {subsection}{\numberline {11.4.6}Una particella di riconoscimento del segale (SRP) direziona la sequenza di segnale ER a un recettore specifico nella membrana dell'ER ruvido}{154}{subsection.11.4.6}% 
+\contentsline {subsection}{\numberline {11.4.7}La catena polipeptidica passa attraverso un canale acquoso nel traslocatore}{154}{subsection.11.4.7}% 
+\contentsline {subsection}{\numberline {11.4.8}Traslocazione attraverso la membrana ER non richiede sempre un allungamento della catena polipeptidica in corso}{154}{subsection.11.4.8}% 
+\contentsline {subsection}{\numberline {11.4.9}Nelle proteine transmembrana a singolo passaggio una singola sequenza di segnale ER interna rimane nel bistrato lipidico come una $\mathbf {\alpha }$-elica che attraversa la membrana}{155}{subsection.11.4.9}% 
+\contentsline {subsection}{\numberline {11.4.10}Combinazioni di segnali di inizio e terminazione del trasferimento determinano la topologia delle proteine di membrana multipassaggio}{155}{subsection.11.4.10}% 
+\contentsline {subsection}{\numberline {11.4.11}Proteine ancorate a ER con la coda sono integrate nella membrana ER con un meccanismo speciale}{156}{subsection.11.4.11}% 
+\contentsline {subsection}{\numberline {11.4.12}Catene polipeptidiche traslocate si piegano e assemblano nel lume dell'ER ruvido}{156}{subsection.11.4.12}% 
+\contentsline {subsection}{\numberline {11.4.13}La maggior parte delle proteine sintetizzate nell'ER rugoso sono glicolisate dall'addizione di un oligosaccaride comune legato a \ce {N}}{156}{subsection.11.4.13}% 
+\contentsline {subsection}{\numberline {11.4.14}Gli oligosaccaridi sono utilizzati come marcature per lo stato del piegamento della proteina}{157}{subsection.11.4.14}% 
+\contentsline {subsection}{\numberline {11.4.15}Proteine piegate non correttamente sono esportate dall'ER e degradate nel citosol}{157}{subsection.11.4.15}% 
+\contentsline {subsection}{\numberline {11.4.16}Proteine malpiegate nell'ER attivano una risposta di proteine non piegate}{158}{subsection.11.4.16}% 
+\contentsline {subsection}{\numberline {11.4.17}Alcune proteine di membrana acquisiscono un'ancora glicosilfosfatidilinositolo (GPI) covalentemente attaccata}{158}{subsection.11.4.17}% 
+\contentsline {subsection}{\numberline {11.4.18}L'ER assembla la maggior parte dei bistrati lipidici}{158}{subsection.11.4.18}% 
+\contentsline {chapter}{\numberline {12}Traffico di membrana intracellulare}{160}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}I meccanismi molecolari di trasporto di membrana e il mantenimento della diversit\`a compartimentale}{160}{section.12.1}% 
+\contentsline {subsection}{\numberline {12.1.1}Ci sono vari tipi di vescicole incapsulate}{161}{subsection.12.1.1}% 
+\contentsline {subsection}{\numberline {12.1.2}L'assemblaggio di una capsula di clatrina guida la formazione della vescicola}{161}{subsection.12.1.2}% 
+\contentsline {subsection}{\numberline {12.1.3}Proteine adattatrici selezionano il cargo nelle vescicole incapsulate a clatrina}{161}{subsection.12.1.3}% 
+\contentsline {subsection}{\numberline {12.1.4}I fosfonositidi marcano gli organelli e i domini di membrana}{161}{subsection.12.1.4}% 
+\contentsline {subsection}{\numberline {12.1.5}Proteine piegatrici della membrana aiutano a deformare la membrana durante la formazione delle vescicole}{162}{subsection.12.1.5}% 
+\contentsline {subsection}{\numberline {12.1.6}Proteine citoplasmatiche regolano la separazione e decapsulamento delle vescicole}{162}{subsection.12.1.6}% 
+\contentsline {subsection}{\numberline {12.1.7}GTPasi monomerica controlla l'assemblaggio della capsula}{162}{subsection.12.1.7}% 
+\contentsline {subsection}{\numberline {12.1.8}Non tutte le vescicole di trasporto sono sferiche}{163}{subsection.12.1.8}% 
+\contentsline {subsection}{\numberline {12.1.9}Le proteine Rab guidano le vescicole di trasporto alle loro membrane obiettivo}{163}{subsection.12.1.9}% 
+\contentsline {subsection}{\numberline {12.1.10}Cascate di Rab possono cambiare l'identit\`a di un organello}{164}{subsection.12.1.10}% 
+\contentsline {subsection}{\numberline {12.1.11}Le SNARE mediano la fusione di membrana}{164}{subsection.12.1.11}% 
+\contentsline {subsection}{\numberline {12.1.12}SNARE interagenti devono essere separati prima che possano funzionare ancora}{165}{subsection.12.1.12}% 
+\contentsline {section}{\numberline {12.2}Trasporto dall'ER attraverso l'apparato di Golgi}{165}{section.12.2}% 
+\contentsline {subsection}{\numberline {12.2.1}Le proteine lasciano l'ER in vescicole di trasporto incapsulate in COPII}{165}{subsection.12.2.1}% 
+\contentsline {subsection}{\numberline {12.2.2}Solo proteine appropriatamente piegate e assemblate possono lasciare l'ER}{165}{subsection.12.2.2}% 
+\contentsline {subsection}{\numberline {12.2.3}Raggruppamenti vescicolari tubulari mediano il trasporto dall'ER all'apparato di Golgi}{166}{subsection.12.2.3}% 
+\contentsline {subsection}{\numberline {12.2.4}Il cammino di recupero all'ER usa segnali di ordinamento}{166}{subsection.12.2.4}% 
+\contentsline {subsection}{\numberline {12.2.5}Molte proteine sono selettivamente trattenute nei compartimenti dove funzionano}{166}{subsection.12.2.5}% 
+\contentsline {subsection}{\numberline {12.2.6}L'apparato di Golfi consiste di una serie ordinata di compartimenti}{167}{subsection.12.2.6}% 
+\contentsline {subsection}{\numberline {12.2.7}Le catene oligosaccaridi sono processate nell'apparato di Golgi}{167}{subsection.12.2.7}% 
+\contentsline {subsection}{\numberline {12.2.8}I proteoglicani sono assemblati nell'apparato di Golgi}{167}{subsection.12.2.8}% 
+\contentsline {subsection}{\numberline {12.2.9}Il ruolo della glicosilazione}{168}{subsection.12.2.9}% 
+\contentsline {subsection}{\numberline {12.2.10}Il trasporto attraverso l'apparato di Golgi potrebbe accadere attraverso maturazione cisternale}{168}{subsection.12.2.10}% 
+\contentsline {subsection}{\numberline {12.2.11}La matrice di proteine del Golgi aiuta ad organizzare lo stack}{168}{subsection.12.2.11}% 
+\contentsline {section}{\numberline {12.3}Il trasporto dalla rete trans Golgi ai lisosomi}{168}{section.12.3}% 
+\contentsline {subsection}{\numberline {12.3.1}I lisosomi sono il sito principale della digestione intracellulare}{168}{subsection.12.3.1}% 
+\contentsline {chapter}{\numberline {13}Conversione energetica: mitocondri e cloroplasti}{169}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Segnalazione cellulare}{170}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}Principi di segnalazione cellulare}{170}{section.14.1}% 
+\contentsline {subsection}{\numberline {14.1.1}Segnali extracellulari possono agire lungo distanze corte o lunghe}{170}{subsection.14.1.1}% 
+\contentsline {subsection}{\numberline {14.1.2}Molecole di segnale extracellulare si legano a recettori specifici}{171}{subsection.14.1.2}% 
+\contentsline {subsection}{\numberline {14.1.3}Ogni cellula \`e programmata per rispondere a specifiche combinazioni di segnali extracellulari}{171}{subsection.14.1.3}% 
+\contentsline {subsection}{\numberline {14.1.4}Ci sono tre classi principali di proteine recettrici sulla superficie cellulare}{171}{subsection.14.1.4}% 
+\contentsline {subsection}{\numberline {14.1.5}Recettori di superficie cellulare inoltrano segnali attraverso molecole di segnale intracellulare}{172}{subsection.14.1.5}% 
+\contentsline {chapter}{\numberline {15}Il citoscheletro}{173}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{174}{chapter.16}% 
