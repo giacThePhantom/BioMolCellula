@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  2 MAY 2020 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  3 MAY 2020 23:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1594,7 +1594,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.42 ...e cellule solitarie}{29}{subsection.2.3.6}
+l.42 ...e cellule solitarie}{30}{subsection.2.3.6}
                                                   % [1]
 Underfull \hbox (badness 5245) in paragraph at lines 44--44
  [][] [][]\OT1/cmr/m/n/10 Le com-po-nen-ti chi-mi-che del-la 
@@ -2181,22 +2181,30 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Capitolo 12.
 [160
 
-] [161] [162] [163] [164] [165] [166] [167])
-(./Chapters/13_ConversioneEnergiaMitocondriCloroplasti.tex [168]
+] [161] [162] [163] [164] [165] [166] [167] [168] [169]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 253.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 253.
+
+[170]) (./Chapters/13_ConversioneEnergiaMitocondriCloroplasti.tex [171]
 Capitolo 13.
-) (./Chapters/14_SegnalazioneCellulare.tex [169
+) (./Chapters/14_SegnalazioneCellulare.tex [172
 
 ]
 Capitolo 14.
-[170
+[173
 
-] [171]) (./Chapters/15_Citoscheletro.tex [172]
+] [174]) (./Chapters/15_Citoscheletro.tex [175]
 Capitolo 15.
-) (./Chapters/16_CicloCellulare.tex [173
+) (./Chapters/16_CicloCellulare.tex [176
 
 ]
 Capitolo 16.
-) [174
+) [177
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
@@ -2208,10 +2216,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 48401 strings out of 492615
- 1061190 string characters out of 6131390
- 1305776 words of memory out of 5000000
- 50952 multiletter control sequences out of 15000+600000
+ 48423 strings out of 492615
+ 1061487 string characters out of 6131390
+ 1307094 words of memory out of 5000000
+ 50959 multiletter control sequences out of 15000+600000
  547813 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,19n,111p,816b,1022s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2233,10 +2241,10 @@ onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
 0.pfb>
-Output written on ./build/Principal.pdf (175 pages, 801187 bytes).
+Output written on ./build/Principal.pdf (178 pages, 810894 bytes).
 PDF statistics:
- 4380 PDF objects out of 5155 (max. 8388607)
- 4143 compressed objects within 42 object streams
- 662 named destinations out of 1000 (max. 500000)
- 3805 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4445 PDF objects out of 5155 (max. 8388607)
+ 4204 compressed objects within 43 object streams
+ 677 named destinations out of 1000 (max. 500000)
+ 3861 words of extra memory for PDF output out of 10000 (max. 10000000)
 
