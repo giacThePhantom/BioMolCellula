@@ -477,13 +477,23 @@
 \contentsline {subsection}{\numberline {12.3.6}Un recettore mannosio $\mathbf {6}$-fosfato ordina le idrolasi lisosomiali nella rete trans Golgi}{170}{subsection.12.3.6}% 
 \contentsline {subsection}{\numberline {12.3.7}Alcuni lisosomi e corpi multivescicolari subiscono esocitosi}{171}{subsection.12.3.7}% 
 \contentsline {section}{\numberline {12.4}Il trasporto nella cellula dalla membrana plasmatica: endocitosi}{171}{section.12.4}% 
-\contentsline {chapter}{\numberline {13}Conversione energetica: mitocondri e cloroplasti}{172}{chapter.13}% 
-\contentsline {chapter}{\numberline {14}Segnalazione cellulare}{173}{chapter.14}% 
-\contentsline {section}{\numberline {14.1}Principi di segnalazione cellulare}{173}{section.14.1}% 
-\contentsline {subsection}{\numberline {14.1.1}Segnali extracellulari possono agire lungo distanze corte o lunghe}{173}{subsection.14.1.1}% 
-\contentsline {subsection}{\numberline {14.1.2}Molecole di segnale extracellulare si legano a recettori specifici}{174}{subsection.14.1.2}% 
-\contentsline {subsection}{\numberline {14.1.3}Ogni cellula \`e programmata per rispondere a specifiche combinazioni di segnali extracellulari}{174}{subsection.14.1.3}% 
-\contentsline {subsection}{\numberline {14.1.4}Ci sono tre classi principali di proteine recettrici sulla superficie cellulare}{174}{subsection.14.1.4}% 
-\contentsline {subsection}{\numberline {14.1.5}Recettori di superficie cellulare inoltrano segnali attraverso molecole di segnale intracellulare}{175}{subsection.14.1.5}% 
-\contentsline {chapter}{\numberline {15}Il citoscheletro}{176}{chapter.15}% 
-\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{177}{chapter.16}% 
+\contentsline {subsection}{\numberline {12.4.1}Vescicole pinocitiche si formano da pozzi incapsulati nella membrana plasmatica}{171}{subsection.12.4.1}% 
+\contentsline {subsection}{\numberline {12.4.2}Non tutte le vescicole pinocitiche sono incapsulate da clatrina}{172}{subsection.12.4.2}% 
+\contentsline {subsection}{\numberline {12.4.3}Le cellule usano endocitosi mediata da recettori per importare macromolecole selezionate extracellulari}{172}{subsection.12.4.3}% 
+\contentsline {subsection}{\numberline {12.4.4}Proteine specifiche sono recuperate dagli endosomi giovani e ritornate alla membrana plasmatica}{173}{subsection.12.4.4}% 
+\contentsline {subsection}{\numberline {12.4.5}I recettori segnalanti nella membrana plasmatica sono regolati da degradazione nei lisosomi}{173}{subsection.12.4.5}% 
+\contentsline {subsection}{\numberline {12.4.6}Gli endosomi giovani maturano in endosomi maturi}{173}{subsection.12.4.6}% 
+\contentsline {subsection}{\numberline {12.4.7}Complessi proteici ESCRT mediano la formazione di vescicole intralumenali nei corpi multivescicolari}{174}{subsection.12.4.7}% 
+\contentsline {subsection}{\numberline {12.4.8}Endosomi riciclanti regolano la composizione della membrana plasmatica}{174}{subsection.12.4.8}% 
+\contentsline {subsection}{\numberline {12.4.9}Cellule fagocitiche specializzate possono ingerire grandi particelle}{174}{subsection.12.4.9}% 
+\contentsline {section}{\numberline {12.5}Il trasporto dalla rete trans Golfi all'esterno cellulare: esocitosi}{175}{section.12.5}% 
+\contentsline {chapter}{\numberline {13}Conversione energetica: mitocondri e cloroplasti}{176}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Segnalazione cellulare}{177}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}Principi di segnalazione cellulare}{177}{section.14.1}% 
+\contentsline {subsection}{\numberline {14.1.1}Segnali extracellulari possono agire lungo distanze corte o lunghe}{177}{subsection.14.1.1}% 
+\contentsline {subsection}{\numberline {14.1.2}Molecole di segnale extracellulare si legano a recettori specifici}{178}{subsection.14.1.2}% 
+\contentsline {subsection}{\numberline {14.1.3}Ogni cellula \`e programmata per rispondere a specifiche combinazioni di segnali extracellulari}{178}{subsection.14.1.3}% 
+\contentsline {subsection}{\numberline {14.1.4}Ci sono tre classi principali di proteine recettrici sulla superficie cellulare}{178}{subsection.14.1.4}% 
+\contentsline {subsection}{\numberline {14.1.5}Recettori di superficie cellulare inoltrano segnali attraverso molecole di segnale intracellulare}{179}{subsection.14.1.5}% 
+\contentsline {chapter}{\numberline {15}Il citoscheletro}{180}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{181}{chapter.16}% 
