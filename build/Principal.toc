@@ -534,5 +534,8 @@
 \contentsline {subsection}{\numberline {14.3.5}Ras attiva una molecola di segnale MAP chinasi}{193}{subsection.14.3.5}% 
 \contentsline {subsection}{\numberline {14.3.6}Proteine di impalcatura aiutano a prevenire la comunicazione tra moduli MAP chinasi paralleli}{193}{subsection.14.3.6}% 
 \contentsline {subsection}{\numberline {14.3.7}La famiglia di GTPasi Rho accoppia funzionalmente recettori della superficie cellulare al citoscheletro}{194}{subsection.14.3.7}% 
-\contentsline {chapter}{\numberline {15}Il citoscheletro}{195}{chapter.15}% 
-\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{196}{chapter.16}% 
+\contentsline {subsection}{\numberline {14.3.8}La PI 3-chinasi produce siti di attracco per lipidi nella membrana plasmatica}{194}{subsection.14.3.8}% 
+\contentsline {subsection}{\numberline {14.3.9}Il cammino di segnalazione PI-3-chinas-Akt stimola la sopravvivenza e crescita delle cellule animali}{194}{subsection.14.3.9}% 
+\contentsline {subsection}{\numberline {14.3.10}RTK e GPCR attivano cammini di segnalazione sovrapposti}{195}{subsection.14.3.10}% 
+\contentsline {chapter}{\numberline {15}Il citoscheletro}{196}{chapter.15}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{197}{chapter.16}% 
