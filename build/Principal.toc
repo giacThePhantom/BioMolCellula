@@ -537,5 +537,12 @@
 \contentsline {subsection}{\numberline {14.3.8}La PI 3-chinasi produce siti di attracco per lipidi nella membrana plasmatica}{194}{subsection.14.3.8}% 
 \contentsline {subsection}{\numberline {14.3.9}Il cammino di segnalazione PI-3-chinas-Akt stimola la sopravvivenza e crescita delle cellule animali}{194}{subsection.14.3.9}% 
 \contentsline {subsection}{\numberline {14.3.10}RTK e GPCR attivano cammini di segnalazione sovrapposti}{195}{subsection.14.3.10}% 
-\contentsline {chapter}{\numberline {15}Il citoscheletro}{196}{chapter.15}% 
-\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{197}{chapter.16}% 
+\contentsline {subsection}{\numberline {14.3.11}Alcuni recettori accoppiati ad enzimi si associano con la chinasi tirosina citoplasmatica}{195}{subsection.14.3.11}% 
+\contentsline {subsection}{\numberline {14.3.12}I recettori citochina attivano il cammino di segnalazione JAK-STAT}{195}{subsection.14.3.12}% 
+\contentsline {subsection}{\numberline {14.3.13}La proteina tirosina fosfatasi inverte la fosforilazione delle tirosine}{196}{subsection.14.3.13}% 
+\contentsline {subsection}{\numberline {14.3.14}Le proteine di segnale della superfamiglia TGF$\beta $ agiscono attraverso recettori serina/treonina chinasi e Smads}{196}{subsection.14.3.14}% 
+\contentsline {section}{\numberline {14.4}Strade di segnalazione alternative nella regolazione genica}{197}{section.14.4}% 
+\contentsline {section}{\numberline {14.5}Segnalazione nelle piante}{197}{section.14.5}% 
+\contentsline {chapter}{\numberline {15}Il citoscheletro}{198}{chapter.15}% 
+\contentsline {section}{\numberline {15.1}Funzione e origine del citoscheletro}{198}{section.15.1}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{199}{chapter.16}% 

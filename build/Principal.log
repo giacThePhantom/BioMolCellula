@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  11 MAY 2020 22:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.4.24)  13 MAY 2020 19:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2274,13 +2274,26 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `superscript' on input line 189.
 
-[189] [190] [191] [192] [193]) (./Chapters/15_Citoscheletro.tex [194] [195]
+[189] [190] [191] [192] [193] [194] [195]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\beta' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 342.
+
+[196]) (./Chapters/15_Citoscheletro.tex [197]
 Capitolo 15.
-) (./Chapters/16_CicloCellulare.tex [196
+) (./Chapters/16_CicloCellulare.tex [198
 
 ]
 Capitolo 16.
-) [197
+) [199
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
@@ -2292,10 +2305,10 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 48547 strings out of 492615
- 1063507 string characters out of 6131390
- 1317084 words of memory out of 5000000
- 51011 multiletter control sequences out of 15000+600000
+ 48563 strings out of 492615
+ 1063753 string characters out of 6131390
+ 1317540 words of memory out of 5000000
+ 51018 multiletter control sequences out of 15000+600000
  547813 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,19n,111p,816b,1022s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2317,10 +2330,10 @@ onts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmti7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
 0.pfb>
-Output written on ./build/Principal.pdf (198 pages, 884977 bytes).
+Output written on ./build/Principal.pdf (200 pages, 895307 bytes).
 PDF statistics:
- 4927 PDF objects out of 5155 (max. 8388607)
- 4662 compressed objects within 47 object streams
- 749 named destinations out of 1000 (max. 500000)
- 4277 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4987 PDF objects out of 5155 (max. 8388607)
+ 4719 compressed objects within 48 object streams
+ 758 named destinations out of 1000 (max. 500000)
+ 4333 words of extra memory for PDF output out of 10000 (max. 10000000)
 
