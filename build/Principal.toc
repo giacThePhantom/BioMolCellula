@@ -482,7 +482,7 @@
 \contentsline {subsection}{\numberline {12.4.3}Le cellule usano endocitosi mediata da recettori per importare macromolecole selezionate extracellulari}{175}{subsection.12.4.3}% 
 \contentsline {subsection}{\numberline {12.4.4}Proteine specifiche sono recuperate dagli endosomi giovani e ritornate alla membrana plasmatica}{176}{subsection.12.4.4}% 
 \contentsline {subsection}{\numberline {12.4.5}I recettori segnalanti nella membrana plasmatica sono regolati da degradazione nei lisosomi}{176}{subsection.12.4.5}% 
-\contentsline {subsection}{\numberline {12.4.6}Gli endosomi giovani maturano in endosomi maturi}{176}{subsection.12.4.6}% 
+\contentsline {subsection}{\numberline {12.4.6}Gli endosomi giovani maturano in endosomi tardivi}{176}{subsection.12.4.6}% 
 \contentsline {subsection}{\numberline {12.4.7}Complessi proteici ESCRT mediano la formazione di vescicole intralumenali nei corpi multivescicolari}{177}{subsection.12.4.7}% 
 \contentsline {subsection}{\numberline {12.4.8}Endosomi riciclanti regolano la composizione della membrana plasmatica}{177}{subsection.12.4.8}% 
 \contentsline {subsection}{\numberline {12.4.9}Cellule fagocitiche specializzate possono ingerire grandi particelle}{177}{subsection.12.4.9}% 
@@ -568,4 +568,11 @@
 \contentsline {subsection}{\numberline {15.3.4}Un aumento nella concentrazione citosilica di \ce {Ca^{2+}} inizia la contrazione muscolare}{205}{subsection.15.3.4}% 
 \contentsline {section}{\numberline {15.4}Microtubuli}{206}{section.15.4}% 
 \contentsline {subsection}{\numberline {15.4.1}I microtubuli sono tubi vuoti fatti da protofilamenti}{206}{subsection.15.4.1}% 
-\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{207}{chapter.16}% 
+\contentsline {subsection}{\numberline {15.4.2}I microtubuli subiscono instabilit\`a dinamica}{206}{subsection.15.4.2}% 
+\contentsline {subsection}{\numberline {15.4.3}Un complesso proteico contenente $\gamma $-tubulina nuclea i microtubuli}{207}{subsection.15.4.3}% 
+\contentsline {subsection}{\numberline {15.4.4}I microtubuli si emanano dal centrosoma nelle cellule animali}{207}{subsection.15.4.4}% 
+\contentsline {subsection}{\numberline {15.4.5}Proteine leganti ai microtubuli modulano la dinamica e l'organizzazione dei filamenti}{207}{subsection.15.4.5}% 
+\contentsline {subsection}{\numberline {15.4.6}Le proteine leganti ale terminazioni pi\`u dei microtubuli modulano la dinamiche e gli attaccamenti}{207}{subsection.15.4.6}% 
+\contentsline {subsection}{\numberline {15.4.7}Proteine sequestranti della tubulina e separanti dei microtubuli destabilizzano i microtubuli}{208}{subsection.15.4.7}% 
+\contentsline {subsection}{\numberline {15.4.8}Due tipi di proteine motrici si muovono lungo microtubuli}{208}{subsection.15.4.8}% 
+\contentsline {chapter}{\numberline {16}Il ciclo cellulare}{209}{chapter.16}% 
