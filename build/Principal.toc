@@ -297,7 +297,7 @@
 \contentsline {subsection}{\numberline {8.3.1}Il repressore triptofano disattiva i geni}{112}{subsection.8.3.1}% 
 \contentsline {subsection}{\numberline {8.3.2}I repressori disattivano i geni e gli attivatori li attivano}{113}{subsection.8.3.2}% 
 \contentsline {subsection}{\numberline {8.3.3}Un attivatore e un repressore controllano l'operone Lac}{113}{subsection.8.3.3}% 
-\contentsline {subsection}{\numberline {8.3.4}L'inanellamento del DNA pu\`o avvenire durante la regolaizone genica dei batteri}{113}{subsection.8.3.4}% 
+\contentsline {subsection}{\numberline {8.3.4}L'inanellamento del DNA pu\`o avvenire durante la regolazione genica dei batteri}{113}{subsection.8.3.4}% 
 \contentsline {subsection}{\numberline {8.3.5}Interruttori complessi controllano la trascrizione genica negli eucarioti}{113}{subsection.8.3.5}% 
 \contentsline {subsection}{\numberline {8.3.6}Una regione di controllo di un gene eucariotico consiste di un promotore e molte sequenze cis-regolatorie}{114}{subsection.8.3.6}% 
 \contentsline {subsection}{\numberline {8.3.7}I regolatori di trascrizione eucariotici lavorano in gruppi}{114}{subsection.8.3.7}% 
@@ -310,7 +310,7 @@
 \contentsline {subsection}{\numberline {8.3.14}Meccanismi genetici molecolari che creano e mantengono tipi di cellula specializzati}{116}{subsection.8.3.14}% 
 \contentsline {subsection}{\numberline {8.3.15}Complessi interruttori genici che regolano lo sviluppo della Drosophila sono creati da molecole pi\`u piccole}{116}{subsection.8.3.15}% 
 \contentsline {subsection}{\numberline {8.3.16}Il gene Eve della Drosophila \`e regolato da controlli combinatori}{117}{subsection.8.3.16}% 
-\contentsline {subsection}{\numberline {8.3.17}I regolatori di trascrizione sono messi ingioco da segnali extracellulari}{117}{subsection.8.3.17}% 
+\contentsline {subsection}{\numberline {8.3.17}I regolatori di trascrizione sono messi in gioco da segnali extracellulari}{117}{subsection.8.3.17}% 
 \contentsline {subsection}{\numberline {8.3.18}Il controllo dei geni combinatorio diversi tipi di cellule}{117}{subsection.8.3.18}% 
 \contentsline {subsection}{\numberline {8.3.19}Combinazioni di regolatori di trascrizione master specificano il tempo della cellula controllando l'espressione di molti geni}{117}{subsection.8.3.19}% 
 \contentsline {subsection}{\numberline {8.3.20}Cellule specializzate devono rapidamente attivare e disattivare insiemi di geni}{117}{subsection.8.3.20}% 
@@ -334,7 +334,7 @@
 \contentsline {subsection}{\numberline {8.5.9}Le regioni non tradotte $\mathbf {5'}$ e $\mathbf {3'}$ controllano la traduzione dei propri mRNA}{123}{subsection.8.5.9}% 
 \contentsline {subsection}{\numberline {8.5.10}La fosforilazione di un fattore di iniziazione regola globalmente la sintesi proteica}{123}{subsection.8.5.10}% 
 \contentsline {subsection}{\numberline {8.5.11}Iniziazione al codone AUG a monte dell'inizio di traduzione pu\`o regolare l'iniziazione della traduzione eucariotica}{123}{subsection.8.5.11}% 
-\contentsline {subsection}{\numberline {8.5.12}Siti di entrata interni al ribosoma fornsicono opportunit\`a per il controllo traduzionale}{124}{subsection.8.5.12}% 
+\contentsline {subsection}{\numberline {8.5.12}Siti di entrata interni al ribosoma forniscono opportunit\`a per il controllo traduzionale}{124}{subsection.8.5.12}% 
 \contentsline {subsection}{\numberline {8.5.13}Cambi nella stabilit\`a dell'mRNA possono regolare l'espressione genica}{124}{subsection.8.5.13}% 
 \contentsline {subsection}{\numberline {8.5.14}La regolazione della stabilit\`a dell'mRNA coinvolge corpi P e granuli di stress}{124}{subsection.8.5.14}% 
 \contentsline {section}{\numberline {8.6}Regolazione dell'espressione genica da RNA non codificanti}{125}{section.8.6}% 
