@@ -358,7 +358,7 @@
 \contentsline {subsection}{\numberline {9.1.8}I glicolipidi si trovano sulla superficie di tutte le membrane plasmatiche eucariotiche}{131}{subsection.9.1.8}% 
 \contentsline {section}{\numberline {9.2}Proteine di membrana}{132}{section.9.2}% 
 \contentsline {subsection}{\numberline {9.2.1}Le proteine di membrana si possono associare con il bistrato lipidico in vari modi}{132}{subsection.9.2.1}% 
-\contentsline {subsection}{\numberline {9.2.2}Ancore lipidice controllano la localizzazione nella membrana di alcune proteine segnalatrici}{133}{subsection.9.2.2}% 
+\contentsline {subsection}{\numberline {9.2.2}Ancore lipidiche controllano la localizzazione nella membrana di alcune proteine segnalatrici}{133}{subsection.9.2.2}% 
 \contentsline {subsection}{\numberline {9.2.3}Nella maggior parte delle proteine transmembrana la catena polipeptidica attraversa il bistrato lipidico in una conformazione a $\mathbf {\alpha }$-elica}{133}{subsection.9.2.3}% 
 \contentsline {subsection}{\numberline {9.2.4}$\mathbf {\alpha }$-eliche transmembrana interagiscono tra di loro}{133}{subsection.9.2.4}% 
 \contentsline {subsection}{\numberline {9.2.5}Alcuni barili $\beta $ formano grandi canali}{134}{subsection.9.2.5}% 
@@ -374,7 +374,7 @@
 \contentsline {section}{\numberline {10.2}Trasportatori e trasporto di membrana attivo}{137}{section.10.2}% 
 \contentsline {subsection}{\numberline {10.2.1}Il trasporto attivo pu\`o essere guidato da gradienti di concentrazione ionica}{137}{subsection.10.2.1}% 
 \contentsline {subsection}{\numberline {10.2.2}Trasportatori nella membrana plasmatica regolano il pH citosilico}{138}{subsection.10.2.2}% 
-\contentsline {subsection}{\numberline {10.2.3}Una distribuzione asimemtrica dei trasportatori nelle cellule epiteliali sottosta al trasporto transcellulare dei soluti}{138}{subsection.10.2.3}% 
+\contentsline {subsection}{\numberline {10.2.3}Una distribuzione asimmetrica dei trasportatori nelle cellule epiteliali sottosta al trasporto transcellulare dei soluti}{138}{subsection.10.2.3}% 
 \contentsline {subsection}{\numberline {10.2.4}Ci sono tre classi di pompe guidate dall'ATP}{138}{subsection.10.2.4}% 
 \contentsline {subsection}{\numberline {10.2.5}Una ATPasi P-tipo pompa \ce {Ca^{2+}} nel reticolo sarcoplasmico nelle cellule muscolari}{138}{subsection.10.2.5}% 
 \contentsline {subsection}{\numberline {10.2.6}La pompa \ce {Na+}-\ce {K+} della membrana plasmatica stabilisce gradienti \ce {Na+} e \ce {K+} attraverso la membrana plasmatica}{139}{subsection.10.2.6}% 
@@ -384,7 +384,7 @@
 \contentsline {subsection}{\numberline {10.3.2}Canali ionici sono selettivi degli ioni e fluttuano tra stato aperto e chiuso}{140}{subsection.10.3.2}% 
 \contentsline {subsection}{\numberline {10.3.3}Il potenziale di membrana nelle cellule animali dipende principalmente dai canali di leak \ce {K+} e dal suo gradiente attraverso la membrana plasmatica}{140}{subsection.10.3.3}% 
 \contentsline {subsection}{\numberline {10.3.4}Il potenziale di riposo decade lentamente quando la pompa \ce {Na+}-\ce {K+} \`e fermata}{141}{subsection.10.3.4}% 
-\contentsline {subsection}{\numberline {10.3.5}La struttura dei canali batterici \ce {K+} motra come un canale ionico lavora}{141}{subsection.10.3.5}% 
+\contentsline {subsection}{\numberline {10.3.5}La struttura dei canali batterici \ce {K+} mostra come un canale ionico lavora}{141}{subsection.10.3.5}% 
 \contentsline {subsection}{\numberline {10.3.6}Canali meccanosensibili proteggono cellule batteriche contro pressioni osmotiche estreme}{141}{subsection.10.3.6}% 
 \contentsline {subsection}{\numberline {10.3.7}La funzione di un neurone dipende sulla sua struttura allungata}{141}{subsection.10.3.7}% 
 \contentsline {subsection}{\numberline {10.3.8}Canali di cationi voltage-gated generano potenziali di azione in cellule elettricamente generate}{142}{subsection.10.3.8}% 
@@ -392,7 +392,7 @@
 \contentsline {subsection}{\numberline {10.3.10}La mielinizzazione aumenta la velocit\`a e l'efficenza della propagazione del potenziale di azione nelle cellule nervose}{142}{subsection.10.3.10}% 
 \contentsline {subsection}{\numberline {10.3.11}Registrazione di morsetti mostra che canali ionici hanno uno stato binario}{143}{subsection.10.3.11}% 
 \contentsline {subsection}{\numberline {10.3.12}Canali di cationi voltage-gated sono evoluzionariamente e strutturalmente imparentati}{143}{subsection.10.3.12}% 
-\contentsline {subsection}{\numberline {10.3.13}Diversi dipi di neuroni mostrano caratteristiche propriet\`a di stable firing}{143}{subsection.10.3.13}% 
+\contentsline {subsection}{\numberline {10.3.13}Diversi tipi di neuroni mostrano caratteristiche propriet\`a di stable firing}{143}{subsection.10.3.13}% 
 \contentsline {subsection}{\numberline {10.3.14}Canali ionici transmitter-gated convertono segnali chimici in elettrici alla sinapsi chimica}{143}{subsection.10.3.14}% 
 \contentsline {subsection}{\numberline {10.3.15}Le sinapsi chimiche possono essere eccitatorie o inibitorie}{144}{subsection.10.3.15}% 
 \contentsline {subsection}{\numberline {10.3.16}I recettori di acetilcolina alle giunzioni neuromuscolari sono canali di cationi transmitter-gated eccitatori}{144}{subsection.10.3.16}% 
@@ -421,7 +421,7 @@
 \contentsline {subsection}{\numberline {11.3.2}I precursori mitocondriali sono importati come catene polipeptidiche non piegate}{154}{subsection.11.3.2}% 
 \contentsline {subsection}{\numberline {11.3.3}L'importazione \`e guidata da idrolisi dell'ATP e da potenziale di membrana}{155}{subsection.11.3.3}% 
 \contentsline {subsection}{\numberline {11.3.4}Batteri e mitocondri utilizzano meccanismi simili per inserire porine nella membrana esterna}{155}{subsection.11.3.4}% 
-\contentsline {subsection}{\numberline {11.3.5}Trasoprto nella membrana interna mitocondriale e nello spazio intermembrana avviene secondo diverse strade}{155}{subsection.11.3.5}% 
+\contentsline {subsection}{\numberline {11.3.5}Trasporto nella membrana interna mitocondriale e nello spazio intermembrana avviene secondo diverse strade}{155}{subsection.11.3.5}% 
 \contentsline {subsection}{\numberline {11.3.6}Due sequenze di segnale direzionano le proteine a una membrana tilacoide nei cloroplasti}{156}{subsection.11.3.6}% 
 \contentsline {section}{\numberline {11.4}Perossisomi}{156}{section.11.4}% 
 \contentsline {subsection}{\numberline {11.4.1}I perossisomi usano ossigeno molecolare e perossido di idrogeno per svolgere reazioni di ossidazione}{156}{subsection.11.4.1}% 
