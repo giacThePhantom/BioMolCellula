@@ -71,90 +71,92 @@
 \contentsline {subsubsection}{Tripla elica}{15}{section*.44}% 
 \contentsline {subsubsection}{Struttura cruciforme}{15}{section*.45}% 
 \contentsline {subsection}{\numberline {2.1.3}DNA superavvolto}{15}{subsection.2.1.3}% 
-\contentsline {subsubsection}{Topoisomerasi}{15}{section*.46}% 
-\contentsline {section}{\numberline {2.2}Struttura del RNA}{15}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Struttura cromatinica}{15}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Struttura del DNA}{16}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Modifiche dell'RNA}{17}{subsection.2.4.1}% 
-\contentsline {section}{\numberline {2.5}Struttura del DNA}{17}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Struttura dell'RNA}{17}{section.2.6}% 
-\contentsline {section}{\numberline {2.7}Interazioni tra basi}{18}{section.2.7}% 
-\contentsline {subsection}{\numberline {2.7.1}Temperatura di melting}{18}{subsection.2.7.1}% 
-\contentsline {section}{\numberline {2.8}Conformazioni particolari}{18}{section.2.8}% 
-\contentsline {subsection}{\numberline {2.8.1}Tripla elica}{18}{subsection.2.8.1}% 
-\contentsline {subsection}{\numberline {2.8.2}La struttura cruciforme}{18}{subsection.2.8.2}% 
-\contentsline {section}{\numberline {2.9}DNA superavvolto}{18}{section.2.9}% 
-\contentsline {subsection}{\numberline {2.9.1}Topoisomerasi}{19}{subsection.2.9.1}% 
-\contentsline {section}{\numberline {2.10}Modifiche post-traduzionali}{19}{section.2.10}% 
-\contentsline {subsection}{\numberline {2.10.1}Fosforilazione}{19}{subsection.2.10.1}% 
-\contentsline {subsection}{\numberline {2.10.2}Acetilazione}{19}{subsection.2.10.2}% 
-\contentsline {subsection}{\numberline {2.10.3}Metilazione}{19}{subsection.2.10.3}% 
-\contentsline {subsection}{\numberline {2.10.4}Ubiquitinazione}{20}{subsection.2.10.4}% 
-\contentsline {subsection}{\numberline {2.10.5}Sumoilazione}{20}{subsection.2.10.5}% 
-\contentsline {section}{\numberline {2.11}Come il DNA viene organizzato nel nucleo: cromatina}{20}{section.2.11}% 
-\contentsline {subsection}{\numberline {2.11.1}Cromatina}{21}{subsection.2.11.1}% 
-\contentsline {subsection}{\numberline {2.11.2}Istoni e prime fasi di compattamento del DNA}{22}{subsection.2.11.2}% 
-\contentsline {subsection}{\numberline {2.11.3}Sindrome di Rett}{24}{subsection.2.11.3}% 
-\contentsline {section}{\numberline {2.12}Struttura dell'RNA}{26}{section.2.12}% 
-\contentsline {chapter}{\numberline {3}Replicazione del DNA e il mantenimento dei telomeri}{28}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Mutazioni}{28}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Modello di duplicazione}{28}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Modello semi-conservativo}{28}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Modello conservativo}{29}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Modello dispersivo}{29}{subsection.3.2.3}% 
-\contentsline {section}{\numberline {3.3}Lezione 7}{30}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Formazione del complesso di prereplicazione alle origini di replicazione}{32}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Istoni}{33}{subsection.3.3.2}% 
-\contentsline {subsection}{\numberline {3.3.3}Telomeri}{33}{subsection.3.3.3}% 
-\contentsline {section}{\numberline {3.4}Lezione 8}{34}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Mitocondri}{34}{subsection.3.4.1}% 
-\contentsline {chapter}{\numberline {4}Trascrizione}{35}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Struttura delle RNA polimerasi}{36}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Inizio}{37}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Meccanismo di trascrizione}{37}{subsection.4.2.1}% 
-\contentsline {section}{\numberline {4.3}Allungamento}{37}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}Terminazione}{38}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}Terminazione in eucarioti}{39}{subsection.4.4.1}% 
-\contentsline {section}{\numberline {4.5}Trasporto nucleare}{39}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Lezione 10}{40}{section.4.6}% 
-\contentsline {subsection}{\numberline {4.6.1}Operone triptofano}{41}{subsection.4.6.1}% 
-\contentsline {chapter}{\numberline {5}Splicing}{42}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Capping}{42}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Poliadenilazione}{43}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Splicing}{44}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}Introni catalitici di gruppo 1}{45}{section.5.4}% 
-\contentsline {section}{\numberline {5.5}Introni autocatalici del gruppo 2}{45}{section.5.5}% 
-\contentsline {section}{\numberline {5.6}Introni spliceosomali del pre-mRNA nucleare}{45}{section.5.6}% 
-\contentsline {section}{\numberline {5.7}Minigeni}{46}{section.5.7}% 
-\contentsline {section}{\numberline {5.8}RNA editing}{48}{section.5.8}% 
-\contentsline {subsection}{\numberline {5.8.1}Editosoma}{48}{subsection.5.8.1}% 
-\contentsline {section}{\numberline {5.9}Essay per editing}{49}{section.5.9}% 
-\contentsline {chapter}{\numberline {6}Trasporto e localizzazione dell'RNA}{51}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Traduzione}{55}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Biogenesi dei ribosomi}{56}{section.7.1}% 
-\contentsline {chapter}{\numberline {8}Segnalazione cellulare: trasduzione del segnale}{60}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Effetto dell'acetilcolina sul cuore}{66}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Recettori del sistema olfattivo}{67}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Trasduzione visiva}{67}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}Lezione 16}{68}{section.8.4}% 
-\contentsline {section}{\numberline {8.5}Recettori ad attivit\`a enzimatica intrinseca}{71}{section.8.5}% 
-\contentsline {subsection}{\numberline {8.5.1}recettori associati a tirosina chinasi}{71}{subsection.8.5.1}% 
-\contentsline {chapter}{\numberline {9}Membrana}{73}{chapter.9}% 
-\contentsline {chapter}{\numberline {10}Organelli}{75}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}Trafficking tra nucleo e citoplasma}{77}{section.10.1}% 
-\contentsline {subsection}{\numberline {10.1.1}Trasporto in mitocondri e plastidi}{80}{subsection.10.1.1}% 
-\contentsline {section}{\numberline {10.2}Perossisomi}{81}{section.10.2}% 
-\contentsline {section}{\numberline {10.3}Reticolo endoplasmatico}{82}{section.10.3}% 
-\contentsline {section}{\numberline {10.4}Traffico intracellulare di vescicole}{87}{section.10.4}% 
-\contentsline {section}{\numberline {10.5}Apparato del Golgi}{90}{section.10.5}% 
-\contentsline {section}{\numberline {10.6}Lisosomi}{91}{section.10.6}% 
-\contentsline {section}{\numberline {10.7}Endosomi}{92}{section.10.7}% 
-\contentsline {chapter}{\numberline {11}Citoscheletro}{96}{chapter.11}% 
-\contentsline {section}{\numberline {11.1}Actina}{96}{section.11.1}% 
-\contentsline {section}{\numberline {11.2}Microtubuli}{100}{section.11.2}% 
-\contentsline {section}{\numberline {11.3}Filamenti intermedi}{102}{section.11.3}% 
-\contentsline {section}{\numberline {11.4}Movimento cellulare}{103}{section.11.4}% 
-\contentsline {chapter}{\numberline {12}Esperienza di laboratorio}{105}{chapter.12}% 
-\contentsline {section}{\numberline {12.1}Seconda giornata}{108}{section.12.1}% 
-\contentsline {section}{\numberline {12.2}Laboratorio 3}{111}{section.12.2}% 
-\contentsline {section}{\numberline {12.3}Laboratorio 4}{115}{section.12.3}% 
+\contentsline {subsubsection}{Topoisomerasi}{16}{section*.46}% 
+\contentsline {paragraph}{Topoisomerasi di tipo I}{16}{section*.47}% 
+\contentsline {paragraph}{Topoisomerasi di tipo II}{16}{section*.48}% 
+\contentsline {section}{\numberline {2.2}Struttura del RNA}{16}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Struttura cromatinica}{16}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Struttura del DNA}{17}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Modifiche dell'RNA}{18}{subsection.2.4.1}% 
+\contentsline {section}{\numberline {2.5}Struttura del DNA}{18}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Struttura dell'RNA}{19}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Interazioni tra basi}{19}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.1}Temperatura di melting}{19}{subsection.2.7.1}% 
+\contentsline {section}{\numberline {2.8}Conformazioni particolari}{19}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Tripla elica}{19}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}La struttura cruciforme}{19}{subsection.2.8.2}% 
+\contentsline {section}{\numberline {2.9}DNA superavvolto}{19}{section.2.9}% 
+\contentsline {subsection}{\numberline {2.9.1}Topoisomerasi}{20}{subsection.2.9.1}% 
+\contentsline {section}{\numberline {2.10}Modifiche post-traduzionali}{20}{section.2.10}% 
+\contentsline {subsection}{\numberline {2.10.1}Fosforilazione}{20}{subsection.2.10.1}% 
+\contentsline {subsection}{\numberline {2.10.2}Acetilazione}{20}{subsection.2.10.2}% 
+\contentsline {subsection}{\numberline {2.10.3}Metilazione}{20}{subsection.2.10.3}% 
+\contentsline {subsection}{\numberline {2.10.4}Ubiquitinazione}{21}{subsection.2.10.4}% 
+\contentsline {subsection}{\numberline {2.10.5}Sumoilazione}{21}{subsection.2.10.5}% 
+\contentsline {section}{\numberline {2.11}Come il DNA viene organizzato nel nucleo: cromatina}{21}{section.2.11}% 
+\contentsline {subsection}{\numberline {2.11.1}Cromatina}{22}{subsection.2.11.1}% 
+\contentsline {subsection}{\numberline {2.11.2}Istoni e prime fasi di compattamento del DNA}{23}{subsection.2.11.2}% 
+\contentsline {subsection}{\numberline {2.11.3}Sindrome di Rett}{25}{subsection.2.11.3}% 
+\contentsline {section}{\numberline {2.12}Struttura dell'RNA}{27}{section.2.12}% 
+\contentsline {chapter}{\numberline {3}Replicazione del DNA e il mantenimento dei telomeri}{29}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Mutazioni}{29}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Modello di duplicazione}{29}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Modello semi-conservativo}{29}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Modello conservativo}{30}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Modello dispersivo}{30}{subsection.3.2.3}% 
+\contentsline {section}{\numberline {3.3}Lezione 7}{31}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Formazione del complesso di prereplicazione alle origini di replicazione}{33}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Istoni}{34}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.3}Telomeri}{34}{subsection.3.3.3}% 
+\contentsline {section}{\numberline {3.4}Lezione 8}{35}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Mitocondri}{35}{subsection.3.4.1}% 
+\contentsline {chapter}{\numberline {4}Trascrizione}{36}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Struttura delle RNA polimerasi}{37}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Inizio}{38}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Meccanismo di trascrizione}{38}{subsection.4.2.1}% 
+\contentsline {section}{\numberline {4.3}Allungamento}{38}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Terminazione}{39}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Terminazione in eucarioti}{40}{subsection.4.4.1}% 
+\contentsline {section}{\numberline {4.5}Trasporto nucleare}{40}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Lezione 10}{41}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Operone triptofano}{42}{subsection.4.6.1}% 
+\contentsline {chapter}{\numberline {5}Splicing}{43}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Capping}{43}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Poliadenilazione}{44}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Splicing}{45}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Introni catalitici di gruppo 1}{46}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Introni autocatalici del gruppo 2}{46}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Introni spliceosomali del pre-mRNA nucleare}{46}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Minigeni}{47}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}RNA editing}{49}{section.5.8}% 
+\contentsline {subsection}{\numberline {5.8.1}Editosoma}{49}{subsection.5.8.1}% 
+\contentsline {section}{\numberline {5.9}Essay per editing}{50}{section.5.9}% 
+\contentsline {chapter}{\numberline {6}Trasporto e localizzazione dell'RNA}{52}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Traduzione}{56}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Biogenesi dei ribosomi}{57}{section.7.1}% 
+\contentsline {chapter}{\numberline {8}Segnalazione cellulare: trasduzione del segnale}{61}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Effetto dell'acetilcolina sul cuore}{67}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Recettori del sistema olfattivo}{68}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Trasduzione visiva}{68}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Lezione 16}{69}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Recettori ad attivit\`a enzimatica intrinseca}{72}{section.8.5}% 
+\contentsline {subsection}{\numberline {8.5.1}recettori associati a tirosina chinasi}{72}{subsection.8.5.1}% 
+\contentsline {chapter}{\numberline {9}Membrana}{74}{chapter.9}% 
+\contentsline {chapter}{\numberline {10}Organelli}{76}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Trafficking tra nucleo e citoplasma}{78}{section.10.1}% 
+\contentsline {subsection}{\numberline {10.1.1}Trasporto in mitocondri e plastidi}{81}{subsection.10.1.1}% 
+\contentsline {section}{\numberline {10.2}Perossisomi}{82}{section.10.2}% 
+\contentsline {section}{\numberline {10.3}Reticolo endoplasmatico}{83}{section.10.3}% 
+\contentsline {section}{\numberline {10.4}Traffico intracellulare di vescicole}{88}{section.10.4}% 
+\contentsline {section}{\numberline {10.5}Apparato del Golgi}{91}{section.10.5}% 
+\contentsline {section}{\numberline {10.6}Lisosomi}{92}{section.10.6}% 
+\contentsline {section}{\numberline {10.7}Endosomi}{93}{section.10.7}% 
+\contentsline {chapter}{\numberline {11}Citoscheletro}{97}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Actina}{97}{section.11.1}% 
+\contentsline {section}{\numberline {11.2}Microtubuli}{101}{section.11.2}% 
+\contentsline {section}{\numberline {11.3}Filamenti intermedi}{103}{section.11.3}% 
+\contentsline {section}{\numberline {11.4}Movimento cellulare}{104}{section.11.4}% 
+\contentsline {chapter}{\numberline {12}Esperienza di laboratorio}{106}{chapter.12}% 
+\contentsline {section}{\numberline {12.1}Seconda giornata}{109}{section.12.1}% 
+\contentsline {section}{\numberline {12.2}Laboratorio 3}{112}{section.12.2}% 
+\contentsline {section}{\numberline {12.3}Laboratorio 4}{116}{section.12.3}% 
