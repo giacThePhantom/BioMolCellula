@@ -303,4 +303,9 @@
 \contentsline {subsubsection}{\numberline {12.4.7.1}Composizione}{129}{subsubsection.12.4.7.1}% 
 \contentsline {subsubsection}{\numberline {12.4.7.2}\emph {DAPI}}{129}{subsubsection.12.4.7.2}% 
 \contentsline {subsection}{\numberline {12.4.8}Colorazione vitale}{129}{subsection.12.4.8}% 
-\contentsline {section}{\numberline {12.5}Laboratorio 4}{129}{section.12.5}% 
+\contentsline {subsubsection}{\numberline {12.4.8.1}Fissaggio delle cellule}{129}{subsubsection.12.4.8.1}% 
+\contentsline {subsubsection}{\numberline {12.4.8.2}Protocollo}{129}{subsubsection.12.4.8.2}% 
+\contentsline {subsubsection}{\numberline {12.4.8.3}Prime colorazioni}{130}{subsubsection.12.4.8.3}% 
+\contentsline {subsubsection}{\numberline {12.4.8.4}Permeabilizzazione}{130}{subsubsection.12.4.8.4}% 
+\contentsline {subsubsection}{\numberline {12.4.8.5}Colorazioni}{130}{subsubsection.12.4.8.5}% 
+\contentsline {subsubsection}{\numberline {12.4.8.6}Sincronizzare le cellule}{130}{subsubsection.12.4.8.6}% 
