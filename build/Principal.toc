@@ -74,29 +74,34 @@
 \contentsline {paragraph}{\numberline {2.1.1.1.2}Nucleotidi}{16}{paragraph.2.1.1.1.2}%
 \contentsline {subparagraph}{\numberline {2.1.1.1.2.1}Funzioni}{16}{subparagraph.2.1.1.1.2.1}%
 \contentsline {subparagraph}{\numberline {2.1.1.1.2.2}Gruppo idrossile}{16}{subparagraph.2.1.1.1.2.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.2.3}Base azotata}{16}{subparagraph.2.1.1.1.2.3}%
 \contentsline {subsubsection}{\numberline {2.1.1.2}Polimerizzazione}{17}{subsubsection.2.1.1.2}%
 \contentsline {subsection}{\numberline {2.1.2}Polarit\`a}{17}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}Interazioni tra basi}{17}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.1}Chargaff}{17}{subsubsection.2.1.3.1}%
-\contentsline {subsubsection}{\numberline {2.1.3.2}Temperatura di melting}{17}{subsubsection.2.1.3.2}%
-\contentsline {subsection}{\numberline {2.1.4}Caratteristiche}{17}{subsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.4.1}Lettura del codice genetico}{17}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Movimento tra basi appaiate}{17}{subsubsection.2.1.3.1}%
+\contentsline {paragraph}{\numberline {2.1.3.1.1}Twist}{17}{paragraph.2.1.3.1.1}%
+\contentsline {paragraph}{\numberline {2.1.3.1.2}Roll}{17}{paragraph.2.1.3.1.2}%
+\contentsline {paragraph}{\numberline {2.1.3.1.3}Tilt}{17}{paragraph.2.1.3.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Chargaff}{17}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Temperatura di melting}{18}{subsubsection.2.1.3.3}%
+\contentsline {subsection}{\numberline {2.1.4}Caratteristiche}{18}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Lettura del codice genetico}{18}{subsubsection.2.1.4.1}%
 \contentsline {subsection}{\numberline {2.1.5}Tipologie di strutture}{18}{subsection.2.1.5}%
 \contentsline {subsubsection}{\numberline {2.1.5.1}Struttura primaria}{18}{subsubsection.2.1.5.1}%
 \contentsline {subsubsection}{\numberline {2.1.5.2}Struttura secondaria}{18}{subsubsection.2.1.5.2}%
 \contentsline {paragraph}{\numberline {2.1.5.2.1}Impalamento delle basi}{18}{paragraph.2.1.5.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.5.3}Basi di Hoogsteen}{18}{subsubsection.2.1.5.3}%
-\contentsline {subsubsection}{\numberline {2.1.5.4}Conformazioni particolari}{18}{subsubsection.2.1.5.4}%
-\contentsline {paragraph}{\numberline {2.1.5.4.1}Forma $\mathbf {A}$}{18}{paragraph.2.1.5.4.1}%
-\contentsline {paragraph}{\numberline {2.1.5.4.2}Forma $\mathbf {B}$}{18}{paragraph.2.1.5.4.2}%
-\contentsline {paragraph}{\numberline {2.1.5.4.3}Forma $\mathbf {Z}$}{18}{paragraph.2.1.5.4.3}%
-\contentsline {paragraph}{\numberline {2.1.5.4.4}Tripla elica}{18}{paragraph.2.1.5.4.4}%
+\contentsline {subsubsection}{\numberline {2.1.5.4}Conformazioni particolari}{19}{subsubsection.2.1.5.4}%
+\contentsline {paragraph}{\numberline {2.1.5.4.1}Forma $\mathbf {A}$}{19}{paragraph.2.1.5.4.1}%
+\contentsline {paragraph}{\numberline {2.1.5.4.2}Forma $\mathbf {B}$}{19}{paragraph.2.1.5.4.2}%
+\contentsline {paragraph}{\numberline {2.1.5.4.3}Forma $\mathbf {Z}$}{19}{paragraph.2.1.5.4.3}%
+\contentsline {paragraph}{\numberline {2.1.5.4.4}Tripla elica}{19}{paragraph.2.1.5.4.4}%
 \contentsline {paragraph}{\numberline {2.1.5.4.5}Struttura cruciforme}{19}{paragraph.2.1.5.4.5}%
 \contentsline {paragraph}{\numberline {2.1.5.4.6}Struttura a forcina}{19}{paragraph.2.1.5.4.6}%
 \contentsline {paragraph}{\numberline {2.1.5.4.7}DNA curvo}{19}{paragraph.2.1.5.4.7}%
 \contentsline {subsection}{\numberline {2.1.6}Stabilizzazione della doppia elica}{19}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Sintesi}{19}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}DNA superavvolto o struttura terziaria}{19}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.7}Sintesi}{20}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}DNA superavvolto o struttura terziaria}{20}{subsection.2.1.8}%
 \contentsline {subsubsection}{\numberline {2.1.8.1}Topoisomerasi}{20}{subsubsection.2.1.8.1}%
 \contentsline {paragraph}{\numberline {2.1.8.1.1}Topoisomerasi di tipo I}{20}{paragraph.2.1.8.1.1}%
 \contentsline {paragraph}{\numberline {2.1.8.1.2}Topoisomerasi di tipo II}{20}{paragraph.2.1.8.1.2}%
