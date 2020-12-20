@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.16)  19 DEC 2020 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.16)  20 DEC 2020 19:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,7 +755,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 ...line {2.3.2}Istoni}{22}{subsection.2.3.2}
+l.119 ...e {2.3.1}Cromatina}{20}{subsection.2.3.1}
                                                   % [1
 
 ] [2] [3])
@@ -766,37 +766,37 @@ Capitolo 1.
 [5
 
 ] [6] [7] [8] [9] [10] [11] [12] [13] [14]) (./Chapters/02_DNARNA.tex
-[15]
+[15] [16]
 Capitolo 2.
-[16
+[17
 
-] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26])
-(./Chapters/03_Replicazione.tex [27]
+] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27])
+(./Chapters/03_Replicazione.tex [28]
 Capitolo 3.
-[28
+[29
 
-] [29] [30] [31] [32] [33]) (./Chapters/04_Trascrizione.tex [34]
+] [30] [31] [32] [33] [34]) (./Chapters/04_Trascrizione.tex [35]
 Capitolo 4.
-[35
+[36
 
-] [36] [37] [38] [39]) (./Chapters/05_Splicing.tex [40] [41]
+] [37] [38] [39] [40]) (./Chapters/05_Splicing.tex [41] [42]
 Capitolo 5.
-[42
+[43
 
-] [43] [44] [45] [46] [47] [48])
-(./Chapters/06_TrasportoLocalizzazioneRNA.tex [49] [50]
+] [44] [45] [46] [47] [48] [49])
+(./Chapters/06_TrasportoLocalizzazioneRNA.tex [50] [51]
 Capitolo 6.
-) (./Chapters/07_Traduzione.tex [51
+) (./Chapters/07_Traduzione.tex [52
 
-] [52] [53] [54]
+] [53] [54] [55]
 Capitolo 7.
-[55
+[56
 
-]) (./Chapters/08_SegnalazioneCellulare.tex [56] [57] [58] [59]
+]) (./Chapters/08_SegnalazioneCellulare.tex [57] [58] [59] [60]
 Capitolo 8.
-[60
+[61
 
-] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70])
+] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71])
 (./Chapters/09_Membrana.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -804,35 +804,35 @@ Make it at least 12.1638pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[71] [72]
+[72] [73]
 Capitolo 9.
-) (./Chapters/10_Organelli.tex [73
+) (./Chapters/10_Organelli.tex [74
 
-] [74]
+] [75]
 Capitolo 10.
-[75
+[76
 
-] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
-[90] [91] [92] [93] [94]) (./Chapters/11_Citoscheletro.tex [95]
+] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90]
+[91] [92] [93] [94] [95]) (./Chapters/11_Citoscheletro.tex [96]
 Capitolo 11.
-[96
+[97
 
-] [97] [98] [99] [100] [101] [102]) (./Chapters/12_Laboratorio.tex [103]
-[104]
+] [98] [99] [100] [101] [102] [103]) (./Chapters/12_Laboratorio.tex [104]
+[105]
 Capitolo 12.
-[105
+[106
 
-] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116]
-[117] [118] [119] [120] [121] [122] [123] [124] [125]) [126]
+] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117]
+[118] [119] [120] [121] [122] [123] [124] [125] [126]) [127]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: E890127BC3CD19E85580037A35CC7524;10009.
+(rerunfilecheck)             Checksum: D070930CDF43DDE928223AEE044D2F95;10162.
  ) 
 Here is how much of TeX's memory you used:
- 16641 strings out of 479383
- 289295 string characters out of 5875829
- 735762 words of memory out of 5000000
- 32920 multiletter control sequences out of 15000+600000
+ 16661 strings out of 479383
+ 289676 string characters out of 5875829
+ 735763 words of memory out of 5000000
+ 32922 multiletter control sequences out of 15000+600000
  426486 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,371b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -854,10 +854,10 @@ exmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts
 /type1/public/cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/c
 m-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm120
 0.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (127 pages, 717931 bytes).
+Output written on ./build/Principal.pdf (128 pages, 719466 bytes).
 PDF statistics:
- 1720 PDF objects out of 1728 (max. 8388607)
- 1555 compressed objects within 16 object streams
- 534 named destinations out of 1000 (max. 500000)
- 1121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1753 PDF objects out of 2073 (max. 8388607)
+ 1587 compressed objects within 16 object streams
+ 552 named destinations out of 1000 (max. 500000)
+ 1137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
