@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  24 DEC 2020 02:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  24 DEC 2020 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -758,10 +758,10 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
 l.119 ...rutture secondarie}{23}{subsection.2.2.3}
                                                   % [1
 
-] [2] [3] [4])
+] [2] [3])
 \tf@toc=\write4
 
-(./Chapters/01_Introduzione.tex [5]
+(./Chapters/01_Introduzione.tex [4] [5]
 Capitolo 1.
 [6
 
@@ -790,29 +790,33 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 259.
 
-[40] [41] [42] [43] [44] [45] [46] [47] [48] [49])
-(./Chapters/04_Trascrizione.tex [50] [51]
+[40] [41] [42] [43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 467--468
+[]\T1/cmr/m/n/10 Il mi-to-con-drio con-tie-ne DNA extra-
+ []
+
+[45]) (./Chapters/04_Trascrizione.tex [46]
 Capitolo 4.
-[52
+[47
 
-] [53] [54] [55] [56]) (./Chapters/05_Splicing.tex [57] [58]
+] [48] [49] [50] [51]) (./Chapters/05_Splicing.tex [52] [53]
 Capitolo 5.
-[59
+[54
 
-] [60] [61] [62] [63] [64] [65])
-(./Chapters/06_TrasportoLocalizzazioneRNA.tex [66] [67]
+] [55] [56] [57] [58] [59] [60])
+(./Chapters/06_TrasportoLocalizzazioneRNA.tex [61] [62]
 Capitolo 6.
-) (./Chapters/07_Traduzione.tex [68
+) (./Chapters/07_Traduzione.tex [63
 
-] [69] [70] [71]
+] [64] [65] [66]
 Capitolo 7.
+[67
+
+]) (./Chapters/08_SegnalazioneCellulare.tex [68] [69] [70] [71]
+Capitolo 8.
 [72
 
-]) (./Chapters/08_SegnalazioneCellulare.tex [73] [74] [75] [76]
-Capitolo 8.
-[77
-
-] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87])
+] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82])
 (./Chapters/09_Membrana.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -820,38 +824,38 @@ Make it at least 12.1638pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[88] [89]
+[83] [84]
 Capitolo 9.
-) (./Chapters/10_Organelli.tex [90
+) (./Chapters/10_Organelli.tex [85
 
-] [91]
+] [86]
 Capitolo 10.
-[92
+[87
 
-] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
-[106] [107] [108] [109] [110] [111]) (./Chapters/11_Citoscheletro.tex [112]
+] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
+[102] [103] [104] [105] [106]) (./Chapters/11_Citoscheletro.tex [107]
 Capitolo 11.
-[113
+[108
 
-] [114] [115] [116] [117] [118] [119]) (./Chapters/12_Laboratorio.tex
-[120] [121]
+] [109] [110] [111] [112] [113] [114]) (./Chapters/12_Laboratorio.tex
+[115] [116]
 Capitolo 12.
-[122
+[117
 
-] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
-[134] [135] [136] [137] [138] [139] [140] [141] [142]) [143]
+] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
+[129] [130] [131] [132] [133] [134] [135] [136] [137]) [138]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 50C86B1D570A9D1C3FC7DC8D469E3E62;13237.
+(rerunfilecheck)             Checksum: AB0B2BA98A25EEEAE8BE7CA4C541A8EF;12437.
  ) 
 Here is how much of TeX's memory you used:
- 16846 strings out of 479383
- 292880 string characters out of 5875829
- 735814 words of memory out of 5000000
- 32966 multiletter control sequences out of 15000+600000
+ 16827 strings out of 479383
+ 292658 string characters out of 5875829
+ 735800 words of memory out of 5000000
+ 32955 multiletter control sequences out of 15000+600000
  427414 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,87p,371b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 84i,16n,87p,371b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -871,10 +875,10 @@ s/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/
 cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (144 pages, 786154 bytes).
+Output written on ./build/Principal.pdf (139 pages, 764253 bytes).
 PDF statistics:
- 2141 PDF objects out of 2487 (max. 8388607)
- 1954 compressed objects within 20 object streams
- 690 named destinations out of 1000 (max. 500000)
- 1465 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2071 PDF objects out of 2073 (max. 8388607)
+ 1890 compressed objects within 19 object streams
+ 682 named destinations out of 1000 (max. 500000)
+ 1377 words of extra memory for PDF output out of 10000 (max. 10000000)
 
