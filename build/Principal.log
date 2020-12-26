@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  24 DEC 2020 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  26 DEC 2020 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -755,13 +755,13 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119 ...rutture secondarie}{23}{subsection.2.2.3}
+l.119 ...rutture secondarie}{19}{subsection.2.2.3}
                                                   % [1
 
-] [2] [3])
+] [2] [3] [4])
 \tf@toc=\write4
 
-(./Chapters/01_Introduzione.tex [4] [5]
+(./Chapters/01_Introduzione.tex [5]
 Capitolo 1.
 [6
 
@@ -799,60 +799,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 467--468
 Capitolo 4.
 [47
 
-] [48] [49] [50] [51]) (./Chapters/05_Splicing.tex [52] [53]
-Capitolo 5.
-[54
-
-] [55] [56] [57] [58] [59] [60])
-(./Chapters/06_TrasportoLocalizzazioneRNA.tex [61] [62]
-Capitolo 6.
-) (./Chapters/07_Traduzione.tex [63
-
-] [64] [65] [66]
-Capitolo 7.
-[67
-
-]) (./Chapters/08_SegnalazioneCellulare.tex [68] [69] [70] [71]
-Capitolo 8.
-[72
-
-] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82])
-(./Chapters/09_Membrana.tex
+] [48] [49] [50] [51] [52] [53] [54]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 12.1638pt.
+Make it at least 22.48724pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[83] [84]
+[55] [56]
+Overfull \hbox (7.3667pt too wide) in paragraph at lines 467--469
+\T1/cmr/m/n/10 Il ri-co-no-sci-men-to del-la ba-se me-ti-la-ta av-vie-ne gra-zi
+e al cap-binding com-plex for-ma-to da \T1/cmr/m/it/10 CBP20+CBP80
+ []
+
+[57] [58] [59] [60] [61] [62] [63]) (./Chapters/05_Splicing.tex [64]
+Capitolo 5.
+[65
+
+] [66] [67] [68] [69] [70] [71])
+(./Chapters/06_TrasportoLocalizzazioneRNA.tex [72] [73]
+Capitolo 6.
+) (./Chapters/07_Traduzione.tex [74
+
+] [75] [76] [77]
+Capitolo 7.
+[78
+
+]) (./Chapters/08_SegnalazioneCellulare.tex [79] [80] [81] [82]
+Capitolo 8.
+[83
+
+] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93])
+(./Chapters/09_Membrana.tex [94] [95]
 Capitolo 9.
-) (./Chapters/10_Organelli.tex [85
+) (./Chapters/10_Organelli.tex [96
 
-] [86]
+] [97]
 Capitolo 10.
-[87
+[98
 
-] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
-[102] [103] [104] [105] [106]) (./Chapters/11_Citoscheletro.tex [107]
+] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110]
+[111] [112] [113] [114] [115] [116] [117]) (./Chapters/11_Citoscheletro.tex
+[118]
 Capitolo 11.
-[108
+[119
 
-] [109] [110] [111] [112] [113] [114]) (./Chapters/12_Laboratorio.tex
-[115] [116]
+] [120] [121] [122] [123] [124] [125]) (./Chapters/12_Laboratorio.tex
+[126] [127]
 Capitolo 12.
-[117
+[128
 
-] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128]
-[129] [130] [131] [132] [133] [134] [135] [136] [137]) [138]
+] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]
+[140] [141] [142] [143] [144] [145] [146] [147] [148]) [149]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: AB0B2BA98A25EEEAE8BE7CA4C541A8EF;12437.
+(rerunfilecheck)             Checksum: D43143632268E797BB364AC074EED2FE;14171.
  ) 
 Here is how much of TeX's memory you used:
- 16827 strings out of 479383
- 292658 string characters out of 5875829
- 735800 words of memory out of 5000000
- 32955 multiletter control sequences out of 15000+600000
+ 16985 strings out of 479383
+ 295426 string characters out of 5875829
+ 735828 words of memory out of 5000000
+ 32979 multiletter control sequences out of 15000+600000
  427414 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,371b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -875,10 +882,10 @@ s/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/
 cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (139 pages, 764253 bytes).
+Output written on ./build/Principal.pdf (150 pages, 801668 bytes).
 PDF statistics:
- 2071 PDF objects out of 2073 (max. 8388607)
- 1890 compressed objects within 19 object streams
- 682 named destinations out of 1000 (max. 500000)
- 1377 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2365 PDF objects out of 2487 (max. 8388607)
+ 2170 compressed objects within 22 object streams
+ 816 named destinations out of 1000 (max. 500000)
+ 1569 words of extra memory for PDF output out of 10000 (max. 10000000)
 
