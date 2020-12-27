@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  27 DEC 2020 17:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  27 DEC 2020 17:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -806,70 +806,64 @@ Make it at least 22.48724pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[55] [56]
-Overfull \hbox (7.3667pt too wide) in paragraph at lines 467--469
+[55] [56] [57]
+Overfull \hbox (7.3667pt too wide) in paragraph at lines 466--468
 \T1/cmr/m/n/10 Il ri-co-no-sci-men-to del-la ba-se me-ti-la-ta av-vie-ne gra-zi
 e al cap-binding com-plex for-ma-to da \T1/cmr/m/it/10 CBP20+CBP80
  []
 
-[57] [58] [59]
-Underfull \hbox (badness 6725) in paragraph at lines 646--647
+[58] [59] [60]
+Underfull \hbox (badness 6725) in paragraph at lines 645--646
 []\T1/cmr/m/it/10 U2AF35\T1/cmr/m/n/10 : ri-co-no-sce la zo-na di
  []
 
-[60] [61]
-Underfull \hbox (badness 5119) in paragraph at lines 716--717
+[61] [62]
+Underfull \hbox (badness 5119) in paragraph at lines 715--716
 []\T1/cmr/m/n/10 Aumenta la va-rai-bi-li-tà del-l'e-spres-sio-ne
  []
 
-[62] [63] [64] [65] [66] [67] [68]) (./Chapters/05_Splicing.tex [69]
+[63]) (./Chapters/05_TrasportoLocalizzazioneRNA.tex [64]
 Capitolo 5.
-[70
+) (./Chapters/06_Traduzione.tex [65
 
-] [71] [72] [73] [74] [75] [76])
-(./Chapters/06_TrasportoLocalizzazioneRNA.tex [77] [78]
+] [66] [67] [68]
 Capitolo 6.
-) (./Chapters/07_Traduzione.tex [79
+[69
 
-] [80] [81] [82]
+]) (./Chapters/07_SegnalazioneCellulare.tex [70] [71] [72] [73]
 Capitolo 7.
-[83
+[74
 
-]) (./Chapters/08_SegnalazioneCellulare.tex [84] [85] [86] [87]
+] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84])
+(./Chapters/08_Membrana.tex [85] [86]
 Capitolo 8.
-[88
+) (./Chapters/09_Organelli.tex [87
 
-] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98])
-(./Chapters/09_Membrana.tex [99] [100]
+] [88]
 Capitolo 9.
-) (./Chapters/10_Organelli.tex [101
+[89
 
-] [102]
+] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] [108]) (./Chapters/10_Citoscheletro.tex [109]
 Capitolo 10.
-[103
+[110
 
-] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115] [116] [117] [118] [119] [120] [121] [122])
-(./Chapters/11_Citoscheletro.tex [123]
+] [111] [112] [113] [114] [115] [116]) (./Chapters/11_Laboratorio.tex
+[117] [118]
 Capitolo 11.
-[124
+[119
 
-] [125] [126] [127] [128] [129] [130]) (./Chapters/12_Laboratorio.tex
-[131] [132]
-Capitolo 12.
-[133
-
-] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143] [144]
-[145] [146] [147] [148] [149] [150] [151] [152] [153]) [154]
+] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+[131] [132] [133] [134] [135] [136] [137] [138] [139]) [140]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: BB21A3F73DC4B0E48F2F39E948BAC908;14316.
+(rerunfilecheck)             Checksum: 13871583F45A199CC6D438BEE8E5E280;12968.
  ) 
 Here is how much of TeX's memory you used:
- 17043 strings out of 479383
- 296387 string characters out of 5875829
- 735795 words of memory out of 5000000
- 32981 multiletter control sequences out of 15000+600000
+ 16985 strings out of 479383
+ 295646 string characters out of 5875829
+ 735703 words of memory out of 5000000
+ 32960 multiletter control sequences out of 15000+600000
  427414 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,371b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -892,10 +886,10 @@ s/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/
 cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (155 pages, 817962 bytes).
+Output written on ./build/Principal.pdf (141 pages, 763667 bytes).
 PDF statistics:
- 2459 PDF objects out of 2487 (max. 8388607)
- 2258 compressed objects within 23 object streams
- 872 named destinations out of 1000 (max. 500000)
- 1585 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2291 PDF objects out of 2487 (max. 8388607)
+ 2105 compressed objects within 22 object streams
+ 838 named destinations out of 1000 (max. 500000)
+ 1425 words of extra memory for PDF output out of 10000 (max. 10000000)
 
