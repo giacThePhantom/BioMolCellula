@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  27 DEC 2020 22:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  28 DEC 2020 23:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,40 +835,46 @@ Underfull \hbox (badness 6775) in paragraph at lines 29--30
 Capitolo 6.
 [68
 
-]) (./Chapters/07_SegnalazioneCellulare.tex [69] [70] [71] [72]
+] [69] [70]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+[]\T1/cmr/m/n/10 Si for-ma il com-ples-so $\OT1/cmr/m/n/10 43\OML/cmm/m/it/10 S
+$ \T1/cmr/m/n/10 con
+ []
+
+[71] [72]) (./Chapters/07_SegnalazioneCellulare.tex [73] [74] [75] [76]
 Capitolo 7.
-[73
+[77
 
-] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83])
-(./Chapters/08_Membrana.tex [84] [85]
+] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87])
+(./Chapters/08_Membrana.tex [88] [89]
 Capitolo 8.
-) (./Chapters/09_Organelli.tex [86
+) (./Chapters/09_Organelli.tex [90
 
-] [87]
+] [91]
 Capitolo 9.
-[88
+[92
 
-] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101]
-[102] [103] [104] [105] [106] [107]) (./Chapters/10_Citoscheletro.tex [108]
+] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105]
+[106] [107] [108] [109] [110] [111]) (./Chapters/10_Citoscheletro.tex [112]
 Capitolo 10.
-[109
+[113
 
-] [110] [111] [112] [113] [114] [115]) (./Chapters/11_Laboratorio.tex
-[116] [117]
+] [114] [115] [116] [117] [118] [119]) (./Chapters/11_Laboratorio.tex
+[120] [121]
 Capitolo 11.
-[118
+[122
 
-] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129]
-[130] [131] [132] [133] [134] [135] [136] [137] [138]) [139]
+] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
+[134] [135] [136] [137] [138] [139] [140] [141] [142]) [143]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 958B80CC980CB50BE15EA7B3EA63A7D7;13633.
+(rerunfilecheck)             Checksum: 95187E05E2707AFCCE0C7F8041242A2B;14359.
  ) 
 Here is how much of TeX's memory you used:
- 17015 strings out of 479383
- 296194 string characters out of 5875829
- 735754 words of memory out of 5000000
- 32969 multiletter control sequences out of 15000+600000
+ 17081 strings out of 479383
+ 297193 string characters out of 5875829
+ 735815 words of memory out of 5000000
+ 32980 multiletter control sequences out of 15000+600000
  427414 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,371b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -891,10 +897,10 @@ s/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/
 cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (140 pages, 757378 bytes).
+Output written on ./build/Principal.pdf (144 pages, 770819 bytes).
 PDF statistics:
- 2349 PDF objects out of 2487 (max. 8388607)
- 2164 compressed objects within 22 object streams
- 859 named destinations out of 1000 (max. 500000)
- 1497 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2473 PDF objects out of 2487 (max. 8388607)
+ 2283 compressed objects within 23 object streams
+ 914 named destinations out of 1000 (max. 500000)
+ 1585 words of extra memory for PDF output out of 10000 (max. 10000000)
 
