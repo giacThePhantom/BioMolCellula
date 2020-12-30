@@ -1,742 +1,812 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione}{4}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Microscopia}{4}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Tipi di microscopi}{4}{subsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1.1}Microscopi ottici}{4}{subsubsection.1.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1.1.1.1}Risoluzione}{4}{paragraph.1.1.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1.2}Microscopi elettronici}{5}{subsubsection.1.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia}{5}{subsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.1.2.1}Microscopia in campo chiaro}{5}{subsubsection.1.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.1.2.2}Immunoistochimica}{5}{subsubsection.1.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.1.2.3}Fret}{5}{subsubsection.1.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.1.2.4}Biomolecular fluorescent complementation}{5}{subsubsection.1.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.1.2.5}Photobleach}{5}{subsubsection.1.1.2.5}%
-\contentsline {subsubsection}{\numberline {1.1.2.6}Fotoattivazione}{5}{subsubsection.1.1.2.6}%
-\contentsline {section}{\numberline {1.2}Tecniche di laboratorio}{5}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Reazione a catena della polimerasi PCR}{5}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Elettroforesi}{6}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}Blots}{6}{subsection.1.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.3.1}Southern blot}{6}{subsubsection.1.2.3.1}%
-\contentsline {subsubsection}{\numberline {1.2.3.2}Western blot}{7}{subsubsection.1.2.3.2}%
-\contentsline {subsubsection}{\numberline {1.2.3.3}Northern blot}{7}{subsubsection.1.2.3.3}%
-\contentsline {subsection}{\numberline {1.2.4}Tecniche di manipolazione del DNA}{7}{subsection.1.2.4}%
-\contentsline {subsubsection}{\numberline {1.2.4.1}Sequenziamento del DNA}{7}{subsubsection.1.2.4.1}%
-\contentsline {subsubsection}{\numberline {1.2.4.2}Clonaggio del DNA}{7}{subsubsection.1.2.4.2}%
-\contentsline {subsubsection}{\numberline {1.2.4.3}Transfezione}{7}{subsubsection.1.2.4.3}%
-\contentsline {paragraph}{\numberline {1.2.4.3.1}Vettori di clonaggio}{7}{paragraph.1.2.4.3.1}%
-\contentsline {paragraph}{\numberline {1.2.4.3.2}Plasmidi}{7}{paragraph.1.2.4.3.2}%
-\contentsline {paragraph}{\numberline {1.2.4.3.3}Elettroporazione}{8}{paragraph.1.2.4.3.3}%
-\contentsline {paragraph}{\numberline {1.2.4.3.4}Microprecipitati}{8}{paragraph.1.2.4.3.4}%
-\contentsline {paragraph}{\numberline {1.2.4.3.5}Microiniezione}{8}{paragraph.1.2.4.3.5}%
-\contentsline {paragraph}{\numberline {1.2.4.3.6}Biolistics}{8}{paragraph.1.2.4.3.6}%
-\contentsline {paragraph}{\numberline {1.2.4.3.7}Liposomi}{8}{paragraph.1.2.4.3.7}%
-\contentsline {paragraph}{\numberline {1.2.4.3.8}Virus}{8}{paragraph.1.2.4.3.8}%
-\contentsline {subsubsection}{\numberline {1.2.4.4}Immunoprecipitazione}{8}{subsubsection.1.2.4.4}%
-\contentsline {subsection}{\numberline {1.2.5}Cristallografia a raggi X}{8}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.2.6}Altre che non so????}{8}{subsection.1.2.6}%
-\contentsline {section}{\numberline {1.3}Figure importanti e loro lavori}{8}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Miescher}{8}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Mendel}{9}{subsection.1.3.2}%
-\contentsline {subsection}{\numberline {1.3.3}Morgan}{9}{subsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.3.4}Griffith e Avery}{9}{subsection.1.3.4}%
-\contentsline {subsection}{\numberline {1.3.5}Hershey e Chase}{9}{subsection.1.3.5}%
-\contentsline {subsection}{\numberline {1.3.6}Watson e Crick}{9}{subsection.1.3.6}%
-\contentsline {subsection}{\numberline {1.3.7}Mello e Fire}{9}{subsection.1.3.7}%
-\contentsline {section}{\numberline {1.4}Cellula e genomi}{9}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Caratteristiche universali delle cellule}{10}{subsection.1.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.1.1}Dinamicit\`a}{10}{subsubsection.1.4.1.1}%
-\contentsline {subsubsection}{\numberline {1.4.1.2}Informazione}{10}{subsubsection.1.4.1.2}%
-\contentsline {paragraph}{\numberline {1.4.1.2.1}Densit\`a genica}{10}{paragraph.1.4.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.4.1.3}Riproduzione}{10}{subsubsection.1.4.1.3}%
-\contentsline {subsubsection}{\numberline {1.4.1.4}Struttura}{10}{subsubsection.1.4.1.4}%
-\contentsline {paragraph}{\numberline {1.4.1.4.1}Membrana}{10}{paragraph.1.4.1.4.1}%
-\contentsline {paragraph}{\numberline {1.4.1.4.2}Struttura della cellula eucariote}{10}{paragraph.1.4.1.4.2}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.1}Nucleo}{10}{subparagraph.1.4.1.4.2.1}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.2}Reticolo endoplasmatico}{11}{subparagraph.1.4.1.4.2.2}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.3}Apparato di Golgi}{11}{subparagraph.1.4.1.4.2.3}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.4}Mitocondri}{11}{subparagraph.1.4.1.4.2.4}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.5}Lisosomi}{11}{subparagraph.1.4.1.4.2.5}%
-\contentsline {subparagraph}{\numberline {1.4.1.4.2.6}Citoscheletro}{11}{subparagraph.1.4.1.4.2.6}%
-\contentsline {subsubsection}{\numberline {1.4.1.5}Funzione}{11}{subsubsection.1.4.1.5}%
-\contentsline {subsection}{\numberline {1.4.2}Differenze principali tra le forme di vita}{11}{subsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.2.1}Mutazioni}{11}{subsubsection.1.4.2.1}%
-\contentsline {paragraph}{\numberline {1.4.2.1.1}Geni ortologhi}{12}{paragraph.1.4.2.1.1}%
-\contentsline {paragraph}{\numberline {1.4.2.1.2}Geni paraloghi}{12}{paragraph.1.4.2.1.2}%
-\contentsline {paragraph}{\numberline {1.4.2.1.3}Campo di interesse delle mutazioni}{12}{paragraph.1.4.2.1.3}%
-\contentsline {paragraph}{\numberline {1.4.2.1.4}Tipologia di mutazioni}{12}{paragraph.1.4.2.1.4}%
-\contentsline {subsection}{\numberline {1.4.3}Complessit\`a di un organismo}{12}{subsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.3.1}Sequenze correlate ai geni}{12}{subsubsection.1.4.3.1}%
-\contentsline {paragraph}{\numberline {1.4.3.1.1}Pseudogeni}{12}{paragraph.1.4.3.1.1}%
-\contentsline {subsubsection}{\numberline {1.4.3.2}DNA intergenico}{12}{subsubsection.1.4.3.2}%
-\contentsline {paragraph}{\numberline {1.4.3.2.1}Centromero}{12}{paragraph.1.4.3.2.1}%
-\contentsline {subsubsection}{\numberline {1.4.3.3}Cromosoma}{13}{subsubsection.1.4.3.3}%
-\contentsline {paragraph}{\numberline {1.4.3.3.1}Cariotipo}{13}{paragraph.1.4.3.3.1}%
-\contentsline {chapter}{\numberline {2}DNA e RNA}{14}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Struttura del DNA}{14}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Componenti}{14}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}Monomeri}{14}{subsubsection.2.1.1.1}%
-\contentsline {paragraph}{\numberline {2.1.1.1.1}Nucleosidi}{14}{paragraph.2.1.1.1.1}%
-\contentsline {subparagraph}{\numberline {2.1.1.1.1.1}Orientamento del legame}{14}{subparagraph.2.1.1.1.1.1}%
-\contentsline {paragraph}{\numberline {2.1.1.1.2}Nucleotidi}{14}{paragraph.2.1.1.1.2}%
-\contentsline {subparagraph}{\numberline {2.1.1.1.2.1}Funzioni}{14}{subparagraph.2.1.1.1.2.1}%
-\contentsline {subparagraph}{\numberline {2.1.1.1.2.2}Gruppo idrossile}{14}{subparagraph.2.1.1.1.2.2}%
-\contentsline {subparagraph}{\numberline {2.1.1.1.2.3}Base azotata}{14}{subparagraph.2.1.1.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.1.1.2}Polimerizzazione}{14}{subsubsection.2.1.1.2}%
-\contentsline {subsection}{\numberline {2.1.2}Polarit\`a}{14}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Interazioni tra basi}{15}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.1}Movimento tra basi appaiate}{15}{subsubsection.2.1.3.1}%
-\contentsline {paragraph}{\numberline {2.1.3.1.1}Twist}{15}{paragraph.2.1.3.1.1}%
-\contentsline {paragraph}{\numberline {2.1.3.1.2}Roll}{15}{paragraph.2.1.3.1.2}%
-\contentsline {paragraph}{\numberline {2.1.3.1.3}Tilt}{15}{paragraph.2.1.3.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.3.2}Chargaff}{15}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.1.3.3}Temperatura di melting}{15}{subsubsection.2.1.3.3}%
-\contentsline {subsection}{\numberline {2.1.4}Caratteristiche}{15}{subsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.4.1}Lettura del codice genetico}{15}{subsubsection.2.1.4.1}%
-\contentsline {subsection}{\numberline {2.1.5}Tipologie di strutture}{15}{subsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.5.1}Struttura primaria}{15}{subsubsection.2.1.5.1}%
-\contentsline {subsubsection}{\numberline {2.1.5.2}Struttura secondaria}{15}{subsubsection.2.1.5.2}%
-\contentsline {paragraph}{\numberline {2.1.5.2.1}Impalamento delle basi}{16}{paragraph.2.1.5.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.5.3}Basi di Hoogsteen}{16}{subsubsection.2.1.5.3}%
-\contentsline {subsubsection}{\numberline {2.1.5.4}Conformazioni particolari}{16}{subsubsection.2.1.5.4}%
-\contentsline {paragraph}{\numberline {2.1.5.4.1}Forma $\mathbf {A}$}{16}{paragraph.2.1.5.4.1}%
-\contentsline {paragraph}{\numberline {2.1.5.4.2}Forma $\mathbf {B}$}{16}{paragraph.2.1.5.4.2}%
-\contentsline {paragraph}{\numberline {2.1.5.4.3}Forma $\mathbf {Z}$}{16}{paragraph.2.1.5.4.3}%
-\contentsline {paragraph}{\numberline {2.1.5.4.4}Tripla elica}{16}{paragraph.2.1.5.4.4}%
-\contentsline {paragraph}{\numberline {2.1.5.4.5}Struttura cruciforme}{16}{paragraph.2.1.5.4.5}%
-\contentsline {paragraph}{\numberline {2.1.5.4.6}Struttura a forcina}{16}{paragraph.2.1.5.4.6}%
-\contentsline {paragraph}{\numberline {2.1.5.4.7}DNA curvo}{16}{paragraph.2.1.5.4.7}%
-\contentsline {subsection}{\numberline {2.1.6}Stabilizzazione della doppia elica}{16}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Sintesi}{16}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}DNA superavvolto o struttura terziaria}{17}{subsection.2.1.8}%
-\contentsline {subsubsection}{\numberline {2.1.8.1}Topoisomerasi}{17}{subsubsection.2.1.8.1}%
-\contentsline {paragraph}{\numberline {2.1.8.1.1}Topoisomerasi di tipo I}{17}{paragraph.2.1.8.1.1}%
-\contentsline {paragraph}{\numberline {2.1.8.1.2}Topoisomerasi di tipo II}{17}{paragraph.2.1.8.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.8.2}Compattazione della struttura del DNA}{17}{subsubsection.2.1.8.2}%
-\contentsline {section}{\numberline {2.2}Struttura del RNA}{18}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Funzioni del RNA}{18}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Struttura}{18}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Strutture secondarie}{18}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Modifiche dell'RNA}{18}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.3}Organizzazione del DNA nel nucleo}{18}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Procarioti}{19}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Eucarioti}{19}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Cromatina}{19}{subsection.2.3.3}%
-\contentsline {subsubsection}{\numberline {2.3.3.1}Tipologie di cromatina}{19}{subsubsection.2.3.3.1}%
-\contentsline {paragraph}{\numberline {2.3.3.1.1}Eucromatina}{19}{paragraph.2.3.3.1.1}%
-\contentsline {paragraph}{\numberline {2.3.3.1.2}Eterocromatina}{19}{paragraph.2.3.3.1.2}%
-\contentsline {paragraph}{\numberline {2.3.3.1.3}Nucleolo}{19}{paragraph.2.3.3.1.3}%
-\contentsline {subsubsection}{\numberline {2.3.3.2}Nucleosomi}{19}{subsubsection.2.3.3.2}%
-\contentsline {paragraph}{\numberline {2.3.3.2.1}Non core proteins}{19}{paragraph.2.3.3.2.1}%
-\contentsline {paragraph}{\numberline {2.3.3.2.2}Core proteins}{19}{paragraph.2.3.3.2.2}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.1}Legame con il DNA}{20}{subparagraph.2.3.3.2.2.1}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.2}Struttura}{20}{subparagraph.2.3.3.2.2.2}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.3}Sintesi}{20}{subparagraph.2.3.3.2.2.3}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.4}Assemblaggio degli istoni}{20}{subparagraph.2.3.3.2.2.4}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.5}Code istoniche}{20}{subparagraph.2.3.3.2.2.5}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.6}Ereditariet\`a}{20}{subparagraph.2.3.3.2.2.6}%
-\contentsline {subparagraph}{\numberline {2.3.3.2.2.7}Dinamicit\`a}{20}{subparagraph.2.3.3.2.2.7}%
-\contentsline {subsubsection}{\numberline {2.3.3.3}Ulteriori livelli di impacchettamento}{20}{subsubsection.2.3.3.3}%
-\contentsline {paragraph}{\numberline {2.3.3.3.1}Gradi di impacchettamento}{20}{paragraph.2.3.3.3.1}%
-\contentsline {paragraph}{\numberline {2.3.3.3.2}Anse radiali}{20}{paragraph.2.3.3.3.2}%
-\contentsline {subsubsection}{\numberline {2.3.3.4}Collegamenti tra nuclesomi}{20}{subsubsection.2.3.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.3.5}Effetto di posizione}{21}{subsubsection.2.3.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.3.6}Effetto della compattazione}{21}{subsubsection.2.3.3.6}%
-\contentsline {subsection}{\numberline {2.3.4}Regolazione della struttura cromatinica}{21}{subsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.4.1}Complessi di rimodellamento della cromatina}{21}{subsubsection.2.3.4.1}%
-\contentsline {paragraph}{\numberline {2.3.4.1.1}Attivit\`a}{21}{paragraph.2.3.4.1.1}%
-\contentsline {paragraph}{\numberline {2.3.4.1.2}Facilitates chromatine transcription}{21}{paragraph.2.3.4.1.2}%
-\contentsline {paragraph}{\numberline {2.3.4.1.3}Chaperonine}{21}{paragraph.2.3.4.1.3}%
-\contentsline {paragraph}{\numberline {2.3.4.1.4}Subunit\`a di idrolisi}{21}{paragraph.2.3.4.1.4}%
-\contentsline {subsubsection}{\numberline {2.3.4.2}Modifiche covalenti degli istoni}{21}{subsubsection.2.3.4.2}%
-\contentsline {paragraph}{\numberline {2.3.4.2.1}Gruppi acetile}{21}{paragraph.2.3.4.2.1}%
-\contentsline {paragraph}{\numberline {2.3.4.2.2}Gruppi metile}{21}{paragraph.2.3.4.2.2}%
-\contentsline {subsubsection}{\numberline {2.3.4.3}Varianti istoniche}{21}{subsubsection.2.3.4.3}%
-\contentsline {subsubsection}{\numberline {2.3.4.4}Sequenze barriera}{22}{subsubsection.2.3.4.4}%
-\contentsline {subsection}{\numberline {2.3.5}Epigenetica}{22}{subsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.5.1}Modifiche delle code istoniche}{22}{subsubsection.2.3.5.1}%
-\contentsline {subsubsection}{\numberline {2.3.5.2}Effetti delle modifiche delle code istoniche}{22}{subsubsection.2.3.5.2}%
-\contentsline {paragraph}{\numberline {2.3.5.2.1}Code metilate}{22}{paragraph.2.3.5.2.1}%
-\contentsline {paragraph}{\numberline {2.3.5.2.2}Code acetilate}{22}{paragraph.2.3.5.2.2}%
-\contentsline {subsection}{\numberline {2.3.6}Cromatina dei centromeri}{22}{subsection.2.3.6}%
-\contentsline {subsubsection}{\numberline {2.3.6.1}\emph {Saccharomyces cerevisiae}}{22}{subsubsection.2.3.6.1}%
-\contentsline {subsubsection}{\numberline {2.3.6.2}Umano}{22}{subsubsection.2.3.6.2}%
-\contentsline {subsubsection}{\numberline {2.3.6.3}Formazione del centromero}{23}{subsubsection.2.3.6.3}%
-\contentsline {subsubsection}{\numberline {2.3.6.4}Proteine centromeriche}{23}{subsubsection.2.3.6.4}%
-\contentsline {paragraph}{\numberline {2.3.6.4.1}\emph {CENP-A}}{23}{paragraph.2.3.6.4.1}%
-\contentsline {paragraph}{\numberline {2.3.6.4.2}\emph {Cse4}}{23}{paragraph.2.3.6.4.2}%
-\contentsline {paragraph}{\numberline {2.3.6.4.3}\emph {HCP3}}{23}{paragraph.2.3.6.4.3}%
-\contentsline {paragraph}{\numberline {2.3.6.4.4}\emph {Cid}}{23}{paragraph.2.3.6.4.4}%
-\contentsline {paragraph}{\numberline {2.3.6.4.5}\emph {CEN-H3}}{23}{paragraph.2.3.6.4.5}%
-\contentsline {paragraph}{\numberline {2.3.6.4.6}\emph {CENP-B}}{23}{paragraph.2.3.6.4.6}%
-\contentsline {paragraph}{\numberline {2.3.6.4.7}\emph {CENP-C}}{23}{paragraph.2.3.6.4.7}%
-\contentsline {paragraph}{\numberline {2.3.6.4.8}\emph {CENP-H}}{23}{paragraph.2.3.6.4.8}%
-\contentsline {subsection}{\numberline {2.3.7}Sindrome di Rett}{23}{subsection.2.3.7}%
-\contentsline {subsubsection}{\numberline {2.3.7.1}Caratteristiche cliniche}{23}{subsubsection.2.3.7.1}%
-\contentsline {subsubsection}{\numberline {2.3.7.2}Motivazioni biologiche}{23}{subsubsection.2.3.7.2}%
-\contentsline {section}{\numberline {2.4}Modifiche post-traduzionali}{23}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Fosforilazione}{23}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Acetilazione}{24}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}Metilazione}{24}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Glicosilazione}{24}{subsection.2.4.4}%
-\contentsline {subsubsection}{\numberline {2.4.4.1}N-glicosilazione}{24}{subsubsection.2.4.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.4.2}O-glicosilazione}{24}{subsubsection.2.4.4.2}%
-\contentsline {subsection}{\numberline {2.4.5}Ubiquitinazione}{24}{subsection.2.4.5}%
-\contentsline {subsubsection}{\numberline {2.4.5.1}Proteosoma}{24}{subsubsection.2.4.5.1}%
-\contentsline {subsubsection}{\numberline {2.4.5.2}Poliubiquitina}{24}{subsubsection.2.4.5.2}%
-\contentsline {subsection}{\numberline {2.4.6}Sumoilazione}{24}{subsection.2.4.6}%
-\contentsline {subsubsection}{\numberline {2.4.6.1}Sumoilazione bilanciata}{24}{subsubsection.2.4.6.1}%
-\contentsline {subsubsection}{\numberline {2.4.6.2}Sumoilazione deregolata}{24}{subsubsection.2.4.6.2}%
-\contentsline {section}{\numberline {2.5}Metabolismo del ferro}{25}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Introduzione del ferro nella cellula}{25}{subsection.2.5.1}%
-\contentsline {subsubsection}{\numberline {2.5.1.1}Il ferro nella cellula}{25}{subsubsection.2.5.1.1}%
-\contentsline {subsection}{\numberline {2.5.2}Meccanismo di regolazione}{25}{subsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2.5.2.1}Aconitasi}{25}{subsubsection.2.5.2.1}%
-\contentsline {subsubsection}{\numberline {2.5.2.2}Carenza di ferro}{25}{subsubsection.2.5.2.2}%
-\contentsline {subsubsection}{\numberline {2.5.2.3}Eccesso di ferro}{25}{subsubsection.2.5.2.3}%
-\contentsline {subsection}{\numberline {2.5.3}Metodo di osservazione}{25}{subsection.2.5.3}%
-\contentsline {chapter}{\numberline {3}Replicazione e riparazione del DNA}{26}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Modello di replicazione}{26}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Esperimento Meselson-Stahl}{26}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Processo}{26}{subsubsection.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.2}Risultati}{26}{subsubsection.3.1.1.2}%
-\contentsline {section}{\numberline {3.2}Panoramica}{26}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Reazione di polimerizzazione}{26}{subsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.1.1}Substrati}{26}{subsubsection.3.2.1.1}%
-\contentsline {paragraph}{\numberline {3.2.1.1.1}Deossiribonucleotidi trifosfato}{26}{paragraph.3.2.1.1.1}%
-\contentsline {paragraph}{\numberline {3.2.1.1.2}Giunzione innesco}{27}{paragraph.3.2.1.1.2}%
-\contentsline {subsubsection}{\numberline {3.2.1.2}Crescita del filamento}{27}{subsubsection.3.2.1.2}%
-\contentsline {subsubsection}{\numberline {3.2.1.3}Energia}{27}{subsubsection.3.2.1.3}%
-\contentsline {subsection}{\numberline {3.2.2}Mutazioni}{27}{subsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.2.1}Tasso di mutazione}{27}{subsubsection.3.2.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2.2}Tipologie di mutazioni}{27}{subsubsection.3.2.2.2}%
-\contentsline {paragraph}{\numberline {3.2.2.2.1}Geniche}{27}{paragraph.3.2.2.2.1}%
-\contentsline {paragraph}{\numberline {3.2.2.2.2}Cromosomiche}{27}{paragraph.3.2.2.2.2}%
-\contentsline {paragraph}{\numberline {3.2.2.2.3}Genomiche}{27}{paragraph.3.2.2.2.3}%
-\contentsline {subsection}{\numberline {3.2.3}DNA polimerasi}{27}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Meccanismi di correzione}{27}{subsection.3.2.4}%
-\contentsline {subsubsection}{\numberline {3.2.4.1}DNA polimerasi}{27}{subsubsection.3.2.4.1}%
-\contentsline {subsubsection}{\numberline {3.2.4.2}Attivit\`a esonucleotidica}{28}{subsubsection.3.2.4.2}%
-\contentsline {subsection}{\numberline {3.2.5}Sintesi sul filamento discontinuo}{28}{subsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.5.1}DNA primasi}{28}{subsubsection.3.2.5.1}%
-\contentsline {subsubsection}{\numberline {3.2.5.2}Terminazione del frammento}{28}{subsubsection.3.2.5.2}%
-\contentsline {subsection}{\numberline {3.2.6}Apertura della doppia elica}{28}{subsection.3.2.6}%
-\contentsline {subsection}{\numberline {3.2.7}Mantenimento di una DNA polimerasi in movimento sul DNA}{28}{subsection.3.2.7}%
-\contentsline {subsubsection}{\numberline {3.2.7.1}Morsetto scorrevole}{28}{subsubsection.3.2.7.1}%
-\contentsline {subsection}{\numberline {3.2.8}Modello a trombone}{29}{subsection.3.2.8}%
-\contentsline {subsection}{\numberline {3.2.9}DNA topoisomerasi}{29}{subsection.3.2.9}%
-\contentsline {section}{\numberline {3.3}Complesso di pre-replicazione}{29}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Formazione}{29}{subsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.1}Origine di replicazione}{29}{subsubsection.3.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.2}Processo di formazione}{29}{subsubsection.3.3.1.2}%
-\contentsline {subsection}{\numberline {3.3.2}Attivazione}{29}{subsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.2.1}Chinasi ciclina dipendente}{29}{subsubsection.3.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.3.2.2}Processo di attivazione}{30}{subsubsection.3.3.2.2}%
-\contentsline {section}{\numberline {3.4}Replisoma}{30}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Composizione}{30}{subsection.3.4.1}%
-\contentsline {subsubsection}{\numberline {3.4.1.1}\emph {MCM-7}}{30}{subsubsection.3.4.1.1}%
-\contentsline {subsubsection}{\numberline {3.4.1.2}DNA ligasi}{30}{subsubsection.3.4.1.2}%
-\contentsline {subsubsection}{\numberline {3.4.1.3}Elicasi}{30}{subsubsection.3.4.1.3}%
-\contentsline {subsubsection}{\numberline {3.4.1.4}Single strand binding protein}{30}{subsubsection.3.4.1.4}%
-\contentsline {subsubsection}{\numberline {3.4.1.5}DNA primasi}{30}{subsubsection.3.4.1.5}%
-\contentsline {subsubsection}{\numberline {3.4.1.6}DNA polimerasi}{30}{subsubsection.3.4.1.6}%
-\contentsline {paragraph}{\numberline {3.4.1.6.1}Tipologie}{30}{paragraph.3.4.1.6.1}%
-\contentsline {subsection}{\numberline {3.4.2}Tipo $\mathbf {I}$}{30}{subsection.3.4.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.1}Esonucleasi}{31}{subsubsection.3.4.2.1}%
-\contentsline {subsubsection}{\numberline {3.4.2.2}Complesso $\mathbf {\beta }$ o pinza scorrevole}{31}{subsubsection.3.4.2.2}%
-\contentsline {subsubsection}{\numberline {3.4.2.3}\emph {CDK}}{31}{subsubsection.3.4.2.3}%
-\contentsline {subsubsection}{\numberline {3.4.2.4}\emph {TBP/TUS}}{31}{subsubsection.3.4.2.4}%
-\contentsline {subsubsection}{\numberline {3.4.2.5}Complesso di pre-replicazione}{31}{subsubsection.3.4.2.5}%
-\contentsline {subsubsection}{\numberline {3.4.2.6}DNA topoisomerasi}{31}{subsubsection.3.4.2.6}%
-\contentsline {section}{\numberline {3.5}Processo di replicazione}{31}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Inizio della replicazione}{31}{subsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.1.1}Procarioti}{31}{subsubsection.3.5.1.1}%
-\contentsline {paragraph}{\numberline {3.5.1.1.1}Regolazione}{31}{paragraph.3.5.1.1.1}%
-\contentsline {paragraph}{\numberline {3.5.1.1.2}\emph {Ori}}{31}{paragraph.3.5.1.1.2}%
-\contentsline {subsubsection}{\numberline {3.5.1.2}Eucarioti}{31}{subsubsection.3.5.1.2}%
-\contentsline {subsubsection}{\numberline {3.5.1.3}Identificazione della regione contente un \emph {Ori}}{31}{subsubsection.3.5.1.3}%
-\contentsline {subsection}{\numberline {3.5.2}Velocit\`a di replicazione}{32}{subsection.3.5.2}%
-\contentsline {subsection}{\numberline {3.5.3}Organizzazione temporale}{32}{subsection.3.5.3}%
-\contentsline {subsubsection}{\numberline {3.5.3.1}Temporizzazione delle \emph {Ori}}{32}{subsubsection.3.5.3.1}%
-\contentsline {subsection}{\numberline {3.5.4}Assemblaggio dei nucleosomi}{32}{subsection.3.5.4}%
-\contentsline {subsection}{\numberline {3.5.5}Terminazione della replicazione}{32}{subsection.3.5.5}%
-\contentsline {subsubsection}{\numberline {3.5.5.1}Procarioti}{32}{subsubsection.3.5.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.5.2}Eucarioti}{32}{subsubsection.3.5.5.2}%
-\contentsline {paragraph}{\numberline {3.5.5.2.1}Telomeri}{32}{paragraph.3.5.5.2.1}%
-\contentsline {subparagraph}{\numberline {3.5.5.2.1.1}Telomerasi}{32}{subparagraph.3.5.5.2.1.1}%
-\contentsline {subparagraph}{\numberline {3.5.5.2.1.2}Funzionamento della telomerasi}{32}{subparagraph.3.5.5.2.1.2}%
-\contentsline {subparagraph}{\numberline {3.5.5.2.1.3}T-loop}{33}{subparagraph.3.5.5.2.1.3}%
-\contentsline {subparagraph}{\numberline {3.5.5.2.1.4}Lunghezza dei telomeri}{33}{subparagraph.3.5.5.2.1.4}%
-\contentsline {subparagraph}{\numberline {3.5.5.2.1.5}Discheratosi congenita}{33}{subparagraph.3.5.5.2.1.5}%
-\contentsline {section}{\numberline {3.6}Riparazione del DNA}{33}{section.3.6}%
-\contentsline {subsection}{\numberline {3.6.1}Motivi biologici della riparazione}{33}{subsection.3.6.1}%
-\contentsline {subsection}{\numberline {3.6.2}Processi di riparazione}{33}{subsection.3.6.2}%
-\contentsline {subsubsection}{\numberline {3.6.2.1}Riparazione tramite asportazione della base}{33}{subsubsection.3.6.2.1}%
-\contentsline {subsubsection}{\numberline {3.6.2.2}Asportazione del nucleotide}{33}{subsubsection.3.6.2.2}%
-\contentsline {subsection}{\numberline {3.6.3}DNA polimerasi specializzate}{34}{subsection.3.6.3}%
-\contentsline {subsection}{\numberline {3.6.4}Rotture a doppio filamento}{34}{subsection.3.6.4}%
-\contentsline {subsection}{\numberline {3.6.5}Effetti del danno al DNA}{34}{subsection.3.6.5}%
-\contentsline {subsection}{\numberline {3.6.6}Riparazione omologa}{34}{subsection.3.6.6}%
-\contentsline {subsubsection}{\numberline {3.6.6.1}Meccanismo di guida}{34}{subsubsection.3.6.6.1}%
-\contentsline {subsubsection}{\numberline {3.6.6.2}Capacit\`a della riparazione omologa}{34}{subsubsection.3.6.6.2}%
-\contentsline {subsubsection}{\numberline {3.6.6.3}Cambio di filamenti}{34}{subsubsection.3.6.6.3}%
-\contentsline {section}{\numberline {3.7}Mitocondrio}{34}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Teoria endosimbiontica}{34}{subsection.3.7.1}%
-\contentsline {subsubsection}{\numberline {3.7.1.1}Evidenze}{34}{subsubsection.3.7.1.1}%
-\contentsline {subsection}{\numberline {3.7.2}Numero e morfologia}{35}{subsection.3.7.2}%
-\contentsline {subsubsection}{\numberline {3.7.2.1}Membrana esterna}{35}{subsubsection.3.7.2.1}%
-\contentsline {subsubsection}{\numberline {3.7.2.2}Spazio intermembrana}{35}{subsubsection.3.7.2.2}%
-\contentsline {subsubsection}{\numberline {3.7.2.3}Membrana interna}{35}{subsubsection.3.7.2.3}%
-\contentsline {subsubsection}{\numberline {3.7.2.4}Matrice}{35}{subsubsection.3.7.2.4}%
-\contentsline {subsubsection}{\numberline {3.7.2.5}Variazioni morfologiche}{35}{subsubsection.3.7.2.5}%
-\contentsline {paragraph}{\numberline {3.7.2.5.1}Cellule normali}{35}{paragraph.3.7.2.5.1}%
-\contentsline {paragraph}{\numberline {3.7.2.5.2}Cellule muscolari}{35}{paragraph.3.7.2.5.2}%
-\contentsline {subsection}{\numberline {3.7.3}DNA mitocondriale}{35}{subsection.3.7.3}%
-\contentsline {chapter}{\numberline {4}Trascrizione}{36}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Panoramica}{36}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Produzione di RNA}{36}{subsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.1.1}Lettura di DNA}{36}{subsubsection.4.1.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.1.2}Polimerizzazione}{36}{subsubsection.4.1.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.1.3}Separazione del RNA}{36}{subsubsection.4.1.1.3}%
-\contentsline {subsection}{\numberline {4.1.2}RNA polimerasi}{36}{subsection.4.1.2}%
-\contentsline {subsubsection}{\numberline {4.1.2.1}Substrati}{36}{subsubsection.4.1.2.1}%
-\contentsline {subsubsection}{\numberline {4.1.2.2}Temporizzazione}{36}{subsubsection.4.1.2.2}%
-\contentsline {subsubsection}{\numberline {4.1.2.3}Tasso di errore}{36}{subsubsection.4.1.2.3}%
-\contentsline {subsubsection}{\numberline {4.1.2.4}Proof-reading}{36}{subsubsection.4.1.2.4}%
-\contentsline {subsubsection}{\numberline {4.1.2.5}Struttura}{36}{subsubsection.4.1.2.5}%
-\contentsline {paragraph}{\numberline {4.1.2.5.1}Core}{36}{paragraph.4.1.2.5.1}%
-\contentsline {subparagraph}{\numberline {4.1.2.5.1.1}Subunit\`a $\mathbf {\beta \ \beta '}$}{37}{subparagraph.4.1.2.5.1.1}%
-\contentsline {subparagraph}{\numberline {4.1.2.5.1.2}Subunit\`a $\mathbf {\alpha '\ \alpha ''}$}{37}{subparagraph.4.1.2.5.1.2}%
-\contentsline {subparagraph}{\numberline {4.1.2.5.1.3}Subunit\`a $\mathbf {\omega }$}{37}{subparagraph.4.1.2.5.1.3}%
-\contentsline {paragraph}{\numberline {4.1.2.5.2}Polimerasi eucariote}{37}{paragraph.4.1.2.5.2}%
-\contentsline {paragraph}{\numberline {4.1.2.5.3}Solco centrale attivo}{37}{paragraph.4.1.2.5.3}%
-\contentsline {subsection}{\numberline {4.1.3}Inibitori di RNA polimerasi}{37}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Categorie di RNA prodotto}{37}{subsection.4.1.4}%
-\contentsline {section}{\numberline {4.2}Trascrittosoma}{37}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Composizione}{37}{subsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.1}Elicasi}{37}{subsubsection.4.2.1.1}%
-\contentsline {subsubsection}{\numberline {4.2.1.2}Fattori di trascrizione}{37}{subsubsection.4.2.1.2}%
-\contentsline {subsubsection}{\numberline {4.2.1.3}RNA polimerasi}{37}{subsubsection.4.2.1.3}%
-\contentsline {paragraph}{\numberline {4.2.1.3.1}RNA polimerasi $\mathbf {I}$}{37}{paragraph.4.2.1.3.1}%
-\contentsline {subparagraph}{\numberline {4.2.1.3.1.1}Reclutamento di fattori}{38}{subparagraph.4.2.1.3.1.1}%
-\contentsline {paragraph}{\numberline {4.2.1.3.2}RNA polimerasi $\mathbf {II}$}{38}{paragraph.4.2.1.3.2}%
-\contentsline {subparagraph}{\numberline {4.2.1.3.2.1}Reclutamento di fattori}{38}{subparagraph.4.2.1.3.2.1}%
-\contentsline {paragraph}{\numberline {4.2.1.3.3}RNA polimerasi $\mathbf {III}$}{38}{paragraph.4.2.1.3.3}%
-\contentsline {subparagraph}{\numberline {4.2.1.3.3.1}Reclutamento di fattori}{38}{subparagraph.4.2.1.3.3.1}%
-\contentsline {section}{\numberline {4.3}Processo della trascrizione}{38}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}inizio}{38}{subsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.1}Fattori sigma}{39}{subsubsection.4.3.1.1}%
-\contentsline {paragraph}{\numberline {4.3.1.1.1}Fattori basali}{39}{paragraph.4.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {4.3.1.2}Bolla di trascrizione}{39}{subsubsection.4.3.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.1.3}Modelli di inizio}{39}{subsubsection.4.3.1.3}%
-\contentsline {paragraph}{\numberline {4.3.1.3.1}Passaggio transiente}{39}{paragraph.4.3.1.3.1}%
-\contentsline {paragraph}{\numberline {4.3.1.3.2}A bruco}{39}{paragraph.4.3.1.3.2}%
-\contentsline {paragraph}{\numberline {4.3.1.3.3}Scrunching}{39}{paragraph.4.3.1.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.1.4}Iniziazione per la RNA polimerasi $\mathbf {II}$}{39}{subsubsection.4.3.1.4}%
-\contentsline {paragraph}{\numberline {4.3.1.4.1}Processo di assemblaggio}{39}{paragraph.4.3.1.4.1}%
-\contentsline {paragraph}{\numberline {4.3.1.4.2}Regolazione}{40}{paragraph.4.3.1.4.2}%
-\contentsline {subparagraph}{\numberline {4.3.1.4.2.1}Enhancers}{40}{subparagraph.4.3.1.4.2.1}%
-\contentsline {subparagraph}{\numberline {4.3.1.4.2.2}Mediatore}{40}{subparagraph.4.3.1.4.2.2}%
-\contentsline {subparagraph}{\numberline {4.3.1.4.2.3}Modifica della cromatina}{40}{subparagraph.4.3.1.4.2.3}%
-\contentsline {subsubsection}{\numberline {4.3.1.5}Fattori di trascrizione}{40}{subsubsection.4.3.1.5}%
-\contentsline {subsubsection}{\numberline {4.3.1.6}Attivatori, mediatori e proteine per la modifica della cromatina}{40}{subsubsection.4.3.1.6}%
-\contentsline {subsection}{\numberline {4.3.2}Allungamento}{40}{subsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.2.1}Meccanismi di correzione}{40}{subsubsection.4.3.2.1}%
-\contentsline {paragraph}{\numberline {4.3.2.1.1}Editing pirofosforico}{40}{paragraph.4.3.2.1.1}%
-\contentsline {paragraph}{\numberline {4.3.2.1.2}Editing idrolitico}{40}{paragraph.4.3.2.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.2.2}Andamento dell'allungamento}{40}{subsubsection.4.3.2.2}%
-\contentsline {paragraph}{\numberline {4.3.2.2.1}Fattori di allungamento}{40}{paragraph.4.3.2.2.1}%
-\contentsline {paragraph}{\numberline {4.3.2.2.2}Tensione superelicale}{40}{paragraph.4.3.2.2.2}%
-\contentsline {subsubsection}{\numberline {4.3.2.3}Processamento del RNA}{40}{subsubsection.4.3.2.3}%
-\contentsline {paragraph}{\numberline {4.3.2.3.1}Terminazioni}{40}{paragraph.4.3.2.3.1}%
-\contentsline {paragraph}{\numberline {4.3.2.3.2}RNA splicing}{40}{paragraph.4.3.2.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Terminazione}{40}{subsection.4.3.3}%
-\contentsline {subsubsection}{\numberline {4.3.3.1}Procarioti}{40}{subsubsection.4.3.3.1}%
-\contentsline {paragraph}{\numberline {4.3.3.1.1}Rho indipendente}{40}{paragraph.4.3.3.1.1}%
-\contentsline {paragraph}{\numberline {4.3.3.1.2}Rho dipendente}{41}{paragraph.4.3.3.1.2}%
-\contentsline {subsubsection}{\numberline {4.3.3.2}Eucarioti}{41}{subsubsection.4.3.3.2}%
-\contentsline {paragraph}{\numberline {4.3.3.2.1}Modello a torpedo}{41}{paragraph.4.3.3.2.1}%
-\contentsline {paragraph}{\numberline {4.3.3.2.2}Modello allosterico}{41}{paragraph.4.3.3.2.2}%
-\contentsline {section}{\numberline {4.4}Trasporto tra nucleo e citoplasma}{41}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Complessi coinvolti}{41}{subsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.1.1}Complesso di importazione}{41}{subsubsection.4.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.4.1.2}Complesso di esportazione}{41}{subsubsection.4.4.1.2}%
-\contentsline {subsection}{\numberline {4.4.2}Verificare la localizzazione}{41}{subsection.4.4.2}%
-\contentsline {subsubsection}{\numberline {4.4.2.1}Eterocaryon essay}{41}{subsubsection.4.4.2.1}%
-\contentsline {subsection}{\numberline {4.4.3}Processo di importo ed esporto}{41}{subsection.4.4.3}%
-\contentsline {subsubsection}{\numberline {4.4.3.1}Importazione}{41}{subsubsection.4.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.4.3.2}Esportazione}{41}{subsubsection.4.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.4.3.3}Leptomicina $\mathbf {B}$}{42}{subsubsection.4.4.3.3}%
-\contentsline {section}{\numberline {4.5}Meccanismi di regolazione della trascrizione e dell'espressione genica}{42}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Operoni}{42}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Induzione}{42}{subsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.2.1}Induzione a controllo negativo}{42}{subsubsection.4.5.2.1}%
-\contentsline {subsubsection}{\numberline {4.5.2.2}Induzione a controllo positivo}{42}{subsubsection.4.5.2.2}%
-\contentsline {subsection}{\numberline {4.5.3}Repressione}{42}{subsection.4.5.3}%
-\contentsline {subsubsection}{\numberline {4.5.3.1}Repressione a controllo negativo}{42}{subsubsection.4.5.3.1}%
-\contentsline {subsubsection}{\numberline {4.5.3.2}Repressione a controllo positivo}{42}{subsubsection.4.5.3.2}%
-\contentsline {subsection}{\numberline {4.5.4}Enhancer}{42}{subsection.4.5.4}%
-\contentsline {subsubsection}{\numberline {4.5.4.1}Caratteristiche}{42}{subsubsection.4.5.4.1}%
-\contentsline {subsubsection}{\numberline {4.5.4.2}Domini caratteristici}{42}{subsubsection.4.5.4.2}%
-\contentsline {paragraph}{\numberline {4.5.4.2.1}Helix-Turn-Helix}{42}{paragraph.4.5.4.2.1}%
-\contentsline {paragraph}{\numberline {4.5.4.2.2}Domini zinc-finger}{42}{paragraph.4.5.4.2.2}%
-\contentsline {paragraph}{\numberline {4.5.4.2.3}Leucine zipper}{42}{paragraph.4.5.4.2.3}%
-\contentsline {subsection}{\numberline {4.5.5}Esempi}{42}{subsection.4.5.5}%
-\contentsline {subsubsection}{\numberline {4.5.5.1}Operone \emph {lac}}{42}{subsubsection.4.5.5.1}%
-\contentsline {paragraph}{\numberline {4.5.5.1.1}Repressione da catabolita}{43}{paragraph.4.5.5.1.1}%
-\contentsline {subparagraph}{\numberline {4.5.5.1.1.1}Assenza di glucosio e lattosio}{43}{subparagraph.4.5.5.1.1.1}%
-\contentsline {subparagraph}{\numberline {4.5.5.1.1.2}Assenza di lattosio e presenza di glucosio}{43}{subparagraph.4.5.5.1.1.2}%
-\contentsline {subparagraph}{\numberline {4.5.5.1.1.3}Presenza di glucosio e lattosio}{43}{subparagraph.4.5.5.1.1.3}%
-\contentsline {subparagraph}{\numberline {4.5.5.1.1.4}Presenza di lattosio e assenza di glucosio}{43}{subparagraph.4.5.5.1.1.4}%
-\contentsline {subsubsection}{\numberline {4.5.5.2}Operone triptofano}{43}{subsubsection.4.5.5.2}%
-\contentsline {paragraph}{\numberline {4.5.5.2.1}Struttura}{43}{paragraph.4.5.5.2.1}%
-\contentsline {paragraph}{\numberline {4.5.5.2.2}Meccanismo di regolazione}{43}{paragraph.4.5.5.2.2}%
-\contentsline {subparagraph}{\numberline {4.5.5.2.2.1}Assenza di triptofano}{43}{subparagraph.4.5.5.2.2.1}%
-\contentsline {subparagraph}{\numberline {4.5.5.2.2.2}Presenza di triptofano}{43}{subparagraph.4.5.5.2.2.2}%
-\contentsline {section}{\numberline {4.6}Modifiche post-trascrizionali}{43}{section.4.6}%
-\contentsline {subsection}{\numberline {4.6.1}Capping}{43}{subsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.1.1}Funzione}{43}{subsubsection.4.6.1.1}%
-\contentsline {subsubsection}{\numberline {4.6.1.2}Processo}{44}{subsubsection.4.6.1.2}%
-\contentsline {subsubsection}{\numberline {4.6.1.3}Riconoscimento}{44}{subsubsection.4.6.1.3}%
-\contentsline {subsubsection}{\numberline {4.6.1.4}Assenza del cappuccio}{44}{subsubsection.4.6.1.4}%
-\contentsline {subsection}{\numberline {4.6.2}Poliadenilazione}{44}{subsection.4.6.2}%
-\contentsline {subsubsection}{\numberline {4.6.2.1}Funzione}{44}{subsubsection.4.6.2.1}%
-\contentsline {subsubsection}{\numberline {4.6.2.2}Riconoscimento}{44}{subsubsection.4.6.2.2}%
-\contentsline {subsubsection}{\numberline {4.6.2.3}Processamento del RNA}{44}{subsubsection.4.6.2.3}%
-\contentsline {subsubsection}{\numberline {4.6.2.4}Lunghezza della coda}{44}{subsubsection.4.6.2.4}%
-\contentsline {paragraph}{\numberline {4.6.2.4.1}PCR poliA test \emph {PAT}}{44}{paragraph.4.6.2.4.1}%
-\contentsline {subsubsection}{\numberline {4.6.2.5}Distrofia muscolare oculo-faringe}{44}{subsubsection.4.6.2.5}%
-\contentsline {paragraph}{\numberline {4.6.2.5.1}Analisi clinica}{44}{paragraph.4.6.2.5.1}%
-\contentsline {paragraph}{\numberline {4.6.2.5.2}Analisi molecolare}{44}{paragraph.4.6.2.5.2}%
-\contentsline {subsection}{\numberline {4.6.3}Splicing}{45}{subsection.4.6.3}%
-\contentsline {subsubsection}{\numberline {4.6.3.1}Caratterizzazione RNA}{45}{subsubsection.4.6.3.1}%
-\contentsline {paragraph}{\numberline {4.6.3.1.1}Esoni}{45}{paragraph.4.6.3.1.1}%
-\contentsline {paragraph}{\numberline {4.6.3.1.2}Introni}{45}{paragraph.4.6.3.1.2}%
-\contentsline {paragraph}{\numberline {4.6.3.1.3}Confini}{45}{paragraph.4.6.3.1.3}%
-\contentsline {subsubsection}{\numberline {4.6.3.2}Nuclear speckles}{45}{subsubsection.4.6.3.2}%
-\contentsline {subsubsection}{\numberline {4.6.3.3}Tipologie di introni}{45}{subsubsection.4.6.3.3}%
-\contentsline {paragraph}{\numberline {4.6.3.3.1}Introni auto-catalitici di gruppo $\mathbf {I}$}{45}{paragraph.4.6.3.3.1}%
-\contentsline {subparagraph}{\numberline {4.6.3.3.1.1}Homing}{45}{subparagraph.4.6.3.3.1.1}%
-\contentsline {paragraph}{\numberline {4.6.3.3.2}Introni del gruppo $mathbf{II}$}{45}{paragraph.4.6.3.3.2}%
-\contentsline {subparagraph}{\numberline {4.6.3.3.2.1}Retro-homing}{45}{subparagraph.4.6.3.3.2.1}%
-\contentsline {subsubsection}{\numberline {4.6.3.4}Trans-splicing}{45}{subsubsection.4.6.3.4}%
-\contentsline {subsubsection}{\numberline {4.6.3.5}Splicing del tRNA}{45}{subsubsection.4.6.3.5}%
-\contentsline {subsubsection}{\numberline {4.6.3.6}Spliceosomi}{46}{subsubsection.4.6.3.6}%
-\contentsline {paragraph}{\numberline {4.6.3.6.1}Struttura}{46}{paragraph.4.6.3.6.1}%
-\contentsline {paragraph}{\numberline {4.6.3.6.2}Funzioni}{46}{paragraph.4.6.3.6.2}%
-\contentsline {paragraph}{\numberline {4.6.3.6.3}Siti di splicing}{46}{paragraph.4.6.3.6.3}%
-\contentsline {paragraph}{\numberline {4.6.3.6.4}Fattori coinvolti}{46}{paragraph.4.6.3.6.4}%
-\contentsline {paragraph}{\numberline {4.6.3.6.5}Meccanismo di splicing}{46}{paragraph.4.6.3.6.5}%
-\contentsline {paragraph}{\numberline {4.6.3.6.6}Exon junction complex \emph {EJC}}{47}{paragraph.4.6.3.6.6}%
-\contentsline {paragraph}{\numberline {4.6.3.6.7}Struttura cromatinica}{47}{paragraph.4.6.3.6.7}%
-\contentsline {subparagraph}{\numberline {4.6.3.6.7.1}Tasso di movimento}{47}{subparagraph.4.6.3.6.7.1}%
-\contentsline {subparagraph}{\numberline {4.6.3.6.7.2}Modifiche agli istoni}{47}{subparagraph.4.6.3.6.7.2}%
-\contentsline {subsubsection}{\numberline {4.6.3.7}Splicing alternativo}{47}{subsubsection.4.6.3.7}%
-\contentsline {paragraph}{\numberline {4.6.3.7.1}Esempi}{47}{paragraph.4.6.3.7.1}%
-\contentsline {subparagraph}{\numberline {4.6.3.7.1.1}\emph {caMK2}}{47}{subparagraph.4.6.3.7.1.1}%
-\contentsline {subparagraph}{\numberline {4.6.3.7.1.2}Gene fruitless}{47}{subparagraph.4.6.3.7.1.2}%
-\contentsline {subsubsection}{\numberline {4.6.3.8}Minigeni}{47}{subsubsection.4.6.3.8}%
-\contentsline {subsubsection}{\numberline {4.6.3.9}Determinazione del sesso in Drosophila melanogaster}{48}{subsubsection.4.6.3.9}%
-\contentsline {subsection}{\numberline {4.6.4}RNA editing}{48}{subsection.4.6.4}%
-\contentsline {subsubsection}{\numberline {4.6.4.1}Effetti}{48}{subsubsection.4.6.4.1}%
-\contentsline {subsubsection}{\numberline {4.6.4.2}Tipologie di editing}{48}{subsubsection.4.6.4.2}%
-\contentsline {subsubsection}{\numberline {4.6.4.3}Processo}{48}{subsubsection.4.6.4.3}%
-\contentsline {subsubsection}{\numberline {4.6.4.4}Editing da citosina a uracile}{48}{subsubsection.4.6.4.4}%
-\contentsline {paragraph}{\numberline {4.6.4.4.1}Esempi}{48}{paragraph.4.6.4.4.1}%
-\contentsline {subparagraph}{\numberline {4.6.4.4.1.1}\emph {apoB}}{48}{subparagraph.4.6.4.4.1.1}%
-\contentsline {paragraph}{\numberline {4.6.4.4.2}Neurofibromatosi}{48}{paragraph.4.6.4.4.2}%
-\contentsline {subsubsection}{\numberline {4.6.4.5}Editing da adenosina a iosina}{48}{subsubsection.4.6.4.5}%
-\contentsline {paragraph}{\numberline {4.6.4.5.1}Esempi}{48}{paragraph.4.6.4.5.1}%
-\contentsline {subparagraph}{\numberline {4.6.4.5.1.1}ADAR}{49}{subparagraph.4.6.4.5.1.1}%
-\contentsline {subsubsection}{\numberline {4.6.4.6}MicroRNA editing}{49}{subsubsection.4.6.4.6}%
-\contentsline {subsection}{\numberline {4.6.5}Funzioni delle modifiche}{49}{subsection.4.6.5}%
-\contentsline {chapter}{\numberline {5}Trasporto e localizzazione di RNA}{50}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Motivi del trasporto di RNA}{50}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Efficienza}{50}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Sicurezza}{50}{subsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.2.1}Velocit\`a}{50}{subsubsection.5.1.2.1}%
-\contentsline {subsubsection}{\numberline {5.1.2.2}Controllo della degradazione}{50}{subsubsection.5.1.2.2}%
-\contentsline {section}{\numberline {5.2}RNA trasportati}{50}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}RNA localizzati nel compartimento dendridico}{50}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}RNA localizzati nell'oocita di Drosophila}{51}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Lievito}{51}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Meccanismo di trasporto}{51}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Fattori coinvolti}{51}{subsection.5.3.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.1}Cis-acting elements}{51}{subsubsection.5.3.1.1}%
-\contentsline {paragraph}{\numberline {5.3.1.1.1}Esempi}{51}{paragraph.5.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {5.3.1.2}Trans-acting factors}{51}{subsubsection.5.3.1.2}%
-\contentsline {paragraph}{\numberline {5.3.1.2.1}Esempi}{51}{paragraph.5.3.1.2.1}%
-\contentsline {paragraph}{\numberline {5.3.1.2.2}Staufen}{51}{paragraph.5.3.1.2.2}%
-\contentsline {subparagraph}{\numberline {5.3.1.2.2.1}\emph {mStaufen1}}{51}{subparagraph.5.3.1.2.2.1}%
-\contentsline {subparagraph}{\numberline {5.3.1.2.2.2}\emph {mStaufen2}}{51}{subparagraph.5.3.1.2.2.2}%
-\contentsline {paragraph}{\numberline {5.3.1.2.3}Pumulio}{51}{paragraph.5.3.1.2.3}%
-\contentsline {subparagraph}{\numberline {5.3.1.2.3.1}\emph {Pum2}}{51}{subparagraph.5.3.1.2.3.1}%
-\contentsline {subparagraph}{\numberline {5.3.1.2.3.2}Granuli di stress}{51}{subparagraph.5.3.1.2.3.2}%
-\contentsline {subparagraph}{\numberline {5.3.1.2.3.3}Processing bodies}{51}{subparagraph.5.3.1.2.3.3}%
-\contentsline {chapter}{\numberline {6}Traduzione}{53}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Ribosomi}{53}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Struttura}{53}{subsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.1.1}Subunit\`a minore}{53}{subsubsection.6.1.1.1}%
-\contentsline {paragraph}{\numberline {6.1.1.1.1}Procarioti}{53}{paragraph.6.1.1.1.1}%
-\contentsline {paragraph}{\numberline {6.1.1.1.2}Eucarioti}{53}{paragraph.6.1.1.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.1.2}Subunit\`a maggiore}{53}{subsubsection.6.1.1.2}%
-\contentsline {paragraph}{\numberline {6.1.1.2.1}Procarioti}{53}{paragraph.6.1.1.2.1}%
-\contentsline {paragraph}{\numberline {6.1.1.2.2}Eucarioti}{53}{paragraph.6.1.1.2.2}%
-\contentsline {subsubsection}{\numberline {6.1.1.3}Subunit\`a assemblate}{53}{subsubsection.6.1.1.3}%
-\contentsline {subsection}{\numberline {6.1.2}Assemblaggio}{53}{subsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.2.1}Processo}{54}{subsubsection.6.1.2.1}%
-\contentsline {subsection}{\numberline {6.1.3}rRNA}{54}{subsection.6.1.3}%
-\contentsline {subsubsection}{\numberline {6.1.3.1}Funzioni}{54}{subsubsection.6.1.3.1}%
-\contentsline {subsubsection}{\numberline {6.1.3.2}Struttura}{54}{subsubsection.6.1.3.2}%
-\contentsline {subsubsection}{\numberline {6.1.3.3}Sintesi}{54}{subsubsection.6.1.3.3}%
-\contentsline {subsection}{\numberline {6.1.4}tRNA}{54}{subsection.6.1.4}%
-\contentsline {subsubsection}{\numberline {6.1.4.1}Struttura}{54}{subsubsection.6.1.4.1}%
-\contentsline {subsubsection}{\numberline {6.1.4.2}Notazione}{54}{subsubsection.6.1.4.2}%
-\contentsline {paragraph}{\numberline {6.1.4.2.1}tRNA scarico}{54}{paragraph.6.1.4.2.1}%
-\contentsline {paragraph}{\numberline {6.1.4.2.2}tRNA carico}{54}{paragraph.6.1.4.2.2}%
-\contentsline {subsubsection}{\numberline {6.1.4.3}Caricamento}{54}{subsubsection.6.1.4.3}%
-\contentsline {paragraph}{\numberline {6.1.4.3.1}Controllo del caricamento}{55}{paragraph.6.1.4.3.1}%
-\contentsline {section}{\numberline {6.2}Fasi della traduzione}{55}{section.6.2}%
-\contentsline {subsection}{\numberline {6.2.1}Inizio}{55}{subsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.1}Proacarioti}{55}{subsubsection.6.2.1.1}%
-\contentsline {paragraph}{\numberline {6.2.1.1.1}Fattori coinvolti}{55}{paragraph.6.2.1.1.1}%
-\contentsline {paragraph}{\numberline {6.2.1.1.2}Processo}{55}{paragraph.6.2.1.1.2}%
-\contentsline {subsubsection}{\numberline {6.2.1.2}Eucarioti}{55}{subsubsection.6.2.1.2}%
-\contentsline {paragraph}{\numberline {6.2.1.2.1}Fattori coinvolti}{55}{paragraph.6.2.1.2.1}%
-\contentsline {paragraph}{\numberline {6.2.1.2.2}Processo}{56}{paragraph.6.2.1.2.2}%
-\contentsline {paragraph}{\numberline {6.2.1.2.3}Processamento del mRNA}{56}{paragraph.6.2.1.2.3}%
-\contentsline {subparagraph}{\numberline {6.2.1.2.3.1}Cap}{56}{subparagraph.6.2.1.2.3.1}%
-\contentsline {subsubsection}{\numberline {6.2.1.3}\emph {IRES}}{56}{subsubsection.6.2.1.3}%
-\contentsline {subsection}{\numberline {6.2.2}Allungamento}{56}{subsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.2.1}Condizione di partenza}{56}{subsubsection.6.2.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2.2}Arrivo di un tRNA}{56}{subsubsection.6.2.2.2}%
-\contentsline {paragraph}{\numberline {6.2.2.2.1}Riconoscimento del tRNA}{56}{paragraph.6.2.2.2.1}%
-\contentsline {subparagraph}{\numberline {6.2.2.2.1.1}Appaiamento corretto}{56}{subparagraph.6.2.2.2.1.1}%
-\contentsline {subparagraph}{\numberline {6.2.2.2.1.2}Appaiamento scorretto}{56}{subparagraph.6.2.2.2.1.2}%
-\contentsline {paragraph}{\numberline {6.2.2.2.2}Formazione del legame peptidico}{56}{paragraph.6.2.2.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.2.3}Dopo la formazione del legame peptidico}{57}{subsubsection.6.2.2.3}%
-\contentsline {subsubsection}{\numberline {6.2.2.4}Proteina nascente}{57}{subsubsection.6.2.2.4}%
-\contentsline {subsection}{\numberline {6.2.3}Terminazione}{57}{subsection.6.2.3}%
-\contentsline {section}{\numberline {6.3}Inibitori della sintesi proteica}{57}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Segnalazione cellulare: trasduzione del segnale}{58}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Panoramica}{58}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Tipologie di risposte}{58}{subsection.7.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.1.1}Risposta lenta}{58}{subsubsection.7.1.1.1}%
-\contentsline {subsubsection}{\numberline {7.1.1.2}Risposta veloce}{58}{subsubsection.7.1.1.2}%
-\contentsline {section}{\numberline {7.2}Modelli di comunicazione delle cellule}{58}{section.7.2}%
-\contentsline {subsection}{\numberline {7.2.1}Comunicazione contatto dipendente}{58}{subsection.7.2.1}%
-\contentsline {subsection}{\numberline {7.2.2}Comunicazione paracrina}{58}{subsection.7.2.2}%
-\contentsline {subsection}{\numberline {7.2.3}Comunicazione sinaptica}{58}{subsection.7.2.3}%
-\contentsline {subsection}{\numberline {7.2.4}Comunicazione endocrina}{58}{subsection.7.2.4}%
-\contentsline {subsubsection}{\numberline {7.2.4.1}Confronto con comunicazione sinaptica}{59}{subsubsection.7.2.4.1}%
-\contentsline {subsection}{\numberline {7.2.5}Comunicazione tramite gap-junction}{59}{subsection.7.2.5}%
-\contentsline {subsubsection}{\numberline {7.2.5.1}Connessine}{59}{subsubsection.7.2.5.1}%
-\contentsline {paragraph}{\numberline {7.2.5.1.1}Canali}{59}{paragraph.7.2.5.1.1}%
-\contentsline {subsubsection}{\numberline {7.2.5.2}Chiusura del canale}{59}{subsubsection.7.2.5.2}%
-\contentsline {section}{\numberline {7.3}Trasmissione sinaptica}{59}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}Acetilcolina}{59}{subsection.7.3.1}%
-\contentsline {subsubsection}{\numberline {7.3.1.1}Processo di segnalazione}{59}{subsubsection.7.3.1.1}%
-\contentsline {subsubsection}{\numberline {7.3.1.2}Miastenia gravis}{59}{subsubsection.7.3.1.2}%
-\contentsline {section}{\numberline {7.4}Recettori}{60}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Canali ionici}{60}{subsection.7.4.1}%
-\contentsline {subsubsection}{\numberline {7.4.1.1}Esempi}{60}{subsubsection.7.4.1.1}%
-\contentsline {paragraph}{\numberline {7.4.1.1.1}Cervello}{60}{paragraph.7.4.1.1.1}%
-\contentsline {paragraph}{\numberline {7.4.1.1.2}Muscoli}{60}{paragraph.7.4.1.1.2}%
-\contentsline {subsubsection}{\numberline {7.4.1.2}Recettore nicotinico}{60}{subsubsection.7.4.1.2}%
-\contentsline {subsection}{\numberline {7.4.2}Recettori di superficie collegati a proteina \emph {G}}{60}{subsection.7.4.2}%
-\contentsline {subsubsection}{\numberline {7.4.2.1}Recettore muscarinico}{60}{subsubsection.7.4.2.1}%
-\contentsline {subsection}{\numberline {7.4.3}Recettori di superficie collegati ad enzimi}{60}{subsection.7.4.3}%
-\contentsline {section}{\numberline {7.5}Messaggeri}{60}{section.7.5}%
-\contentsline {subsection}{\numberline {7.5.1}Ossido di azoto}{60}{subsection.7.5.1}%
-\contentsline {subsubsection}{\numberline {7.5.1.1}Effetto sulla muscolatura}{60}{subsubsection.7.5.1.1}%
-\contentsline {paragraph}{\numberline {7.5.1.1.1}Processo}{61}{paragraph.7.5.1.1.1}%
-\contentsline {paragraph}{\numberline {7.5.1.1.2}Viagra}{61}{paragraph.7.5.1.1.2}%
-\contentsline {subsection}{\numberline {7.5.2}Ormoni steroidei}{61}{subsection.7.5.2}%
-\contentsline {subsection}{\numberline {7.5.3}Messaggeri secondari}{61}{subsection.7.5.3}%
-\contentsline {subsubsection}{\numberline {7.5.3.1}Esempi}{61}{subsubsection.7.5.3.1}%
-\contentsline {section}{\numberline {7.6}Molecular switches}{61}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}proteine leganti \emph {GTP}}{61}{subsection.7.6.1}%
-\contentsline {subsubsection}{\numberline {7.6.1.1}Proteine \emph {Rho}}{61}{subsubsection.7.6.1.1}%
-\contentsline {paragraph}{\numberline {7.6.1.1.1}Domini di interazione}{61}{paragraph.7.6.1.1.1}%
-\contentsline {subsubsection}{\numberline {7.6.1.2}Proteine \emph {Ras}}{61}{subsubsection.7.6.1.2}%
-\contentsline {subsubsection}{\numberline {7.6.1.3}Proteine \emph {G} trimeriche}{61}{subsubsection.7.6.1.3}%
-\contentsline {paragraph}{\numberline {7.6.1.3.1}Struttura}{61}{paragraph.7.6.1.3.1}%
-\contentsline {paragraph}{\numberline {7.6.1.3.2}Recettori associati}{61}{paragraph.7.6.1.3.2}%
-\contentsline {paragraph}{\numberline {7.6.1.3.3}Recettore muscarinico}{61}{paragraph.7.6.1.3.3}%
-\contentsline {paragraph}{\numberline {7.6.1.3.4}Attivazione}{61}{paragraph.7.6.1.3.4}%
-\contentsline {paragraph}{\numberline {7.6.1.3.5}Disattivazione}{61}{paragraph.7.6.1.3.5}%
-\contentsline {paragraph}{\numberline {7.6.1.3.6}Effettori}{61}{paragraph.7.6.1.3.6}%
-\contentsline {section}{\numberline {7.7}Regolazione di un recettore}{61}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Esempi}{62}{section.7.8}%
-\contentsline {subsection}{\numberline {7.8.1}\emph {GLI3}}{62}{subsection.7.8.1}%
-\contentsline {section}{\numberline {7.9}OLD}{62}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Effetto dell'acetilcolina sul cuore}{68}{section.7.10}%
-\contentsline {section}{\numberline {7.11}Recettori del sistema olfattivo}{69}{section.7.11}%
-\contentsline {section}{\numberline {7.12}Trasduzione visiva}{69}{section.7.12}%
-\contentsline {section}{\numberline {7.13}Lezione 16}{70}{section.7.13}%
-\contentsline {section}{\numberline {7.14}Recettori ad attivit\`a enzimatica intrinseca}{73}{section.7.14}%
-\contentsline {subsection}{\numberline {7.14.1}recettori associati a tirosina chinasi}{73}{subsection.7.14.1}%
-\contentsline {chapter}{\numberline {8}Membrana}{75}{chapter.8}%
-\contentsline {chapter}{\numberline {9}Organelli}{77}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Trafficking tra nucleo e citoplasma}{79}{section.9.1}%
-\contentsline {subsection}{\numberline {9.1.1}Trasporto in mitocondri e plastidi}{81}{subsection.9.1.1}%
-\contentsline {section}{\numberline {9.2}Perossisomi}{83}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Reticolo endoplasmatico}{84}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Traffico intracellulare di vescicole}{89}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Apparato del Golgi}{92}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Lisosomi}{93}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Endosomi}{94}{section.9.7}%
-\contentsline {chapter}{\numberline {10}Citoscheletro}{98}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Actina}{98}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Microtubuli}{102}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Filamenti intermedi}{104}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Movimento cellulare}{105}{section.10.4}%
-\contentsline {chapter}{\numberline {11}Esperienza di laboratorio}{107}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Giorno 1 - esame di uno striscio di sangue}{107}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}Descrizione}{107}{subsection.11.1.1}%
-\contentsline {subsubsection}{\numberline {11.1.1.1}Dati raccolti}{107}{subsubsection.11.1.1.1}%
-\contentsline {subsubsection}{\numberline {11.1.1.2}Risvolti clinici}{107}{subsubsection.11.1.1.2}%
-\contentsline {subsection}{\numberline {11.1.2}Allestimento di uno striscio}{107}{subsection.11.1.2}%
-\contentsline {subsection}{\numberline {11.1.3}Qualit\`a dello striscio}{107}{subsection.11.1.3}%
-\contentsline {subsection}{\numberline {11.1.4}Colorazione dello striscio}{107}{subsection.11.1.4}%
-\contentsline {subsubsection}{\numberline {11.1.4.1}Eosina}{108}{subsubsection.11.1.4.1}%
-\contentsline {subsubsection}{\numberline {11.1.4.2}Coloranti tiazinici}{108}{subsubsection.11.1.4.2}%
-\contentsline {subsubsection}{\numberline {11.1.4.3}Procedimento}{108}{subsubsection.11.1.4.3}%
-\contentsline {paragraph}{\numberline {11.1.4.3.1}Montare il vetrino}{108}{paragraph.11.1.4.3.1}%
-\contentsline {subsection}{\numberline {11.1.5}Esame dei vetrini}{108}{subsection.11.1.5}%
-\contentsline {subsubsection}{\numberline {11.1.5.1}Globuli rossi}{108}{subsubsection.11.1.5.1}%
-\contentsline {paragraph}{\numberline {11.1.5.1.1}Tipologie di globuli rossi}{108}{paragraph.11.1.5.1.1}%
-\contentsline {paragraph}{\numberline {11.1.5.1.2}Anemia falciforme}{108}{paragraph.11.1.5.1.2}%
-\contentsline {subparagraph}{\numberline {11.1.5.1.2.1}Sintomi}{108}{subparagraph.11.1.5.1.2.1}%
-\contentsline {subsubsection}{\numberline {11.1.5.2}Piastrine}{109}{subsubsection.11.1.5.2}%
-\contentsline {paragraph}{\numberline {11.1.5.2.1}Trombocitopenia}{109}{paragraph.11.1.5.2.1}%
-\contentsline {subsubsection}{\numberline {11.1.5.3}Globuli bianchi}{109}{subsubsection.11.1.5.3}%
-\contentsline {paragraph}{\numberline {11.1.5.3.1}Conta differenziale}{109}{paragraph.11.1.5.3.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.1.1}Formula leucocitaria}{109}{subparagraph.11.1.5.3.1.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.1.2}Informazioni ottenibili}{109}{subparagraph.11.1.5.3.1.2}%
-\contentsline {paragraph}{\numberline {11.1.5.3.2}Agranulociti - linfociti}{109}{paragraph.11.1.5.3.2}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.2.1}Linfocitopenia}{109}{subparagraph.11.1.5.3.2.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.2.2}Leucocitosi linfocitica}{110}{subparagraph.11.1.5.3.2.2}%
-\contentsline {paragraph}{\numberline {11.1.5.3.3}Agranulociti - monociti}{110}{paragraph.11.1.5.3.3}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.3.1}Monocitosi}{110}{subparagraph.11.1.5.3.3.1}%
-\contentsline {paragraph}{\numberline {11.1.5.3.4}Granulociti - neutrofili}{110}{paragraph.11.1.5.3.4}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.4.1}Formula leucocitaria invertita}{110}{subparagraph.11.1.5.3.4.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.4.2}Leucocitosi neutrofila}{110}{subparagraph.11.1.5.3.4.2}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.4.3}Neutropenia}{110}{subparagraph.11.1.5.3.4.3}%
-\contentsline {paragraph}{\numberline {11.1.5.3.5}Granulociti: basofili}{111}{paragraph.11.1.5.3.5}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.5.1}Basofilia}{111}{subparagraph.11.1.5.3.5.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.5.2}Basopenia}{111}{subparagraph.11.1.5.3.5.2}%
-\contentsline {paragraph}{\numberline {11.1.5.3.6}Granulociti: eosinofili}{111}{paragraph.11.1.5.3.6}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.6.1}Eosinopenia}{111}{subparagraph.11.1.5.3.6.1}%
-\contentsline {subparagraph}{\numberline {11.1.5.3.6.2}Eosinofilia}{111}{subparagraph.11.1.5.3.6.2}%
-\contentsline {subsubsection}{\numberline {11.1.5.4}Distinguere le cellule presenti nel sangue}{111}{subsubsection.11.1.5.4}%
-\contentsline {section}{\numberline {11.2}Giorno 2 - estrazione di proteine e DNA}{111}{section.11.2}%
-\contentsline {subsection}{\numberline {11.2.1}Cellule \emph {Hela}}{111}{subsection.11.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.1.1}Cellule immortalizzate}{111}{subsubsection.11.2.1.1}%
-\contentsline {subsubsection}{\numberline {11.2.1.2}Stato di salute delle cellule}{111}{subsubsection.11.2.1.2}%
-\contentsline {subsubsection}{\numberline {11.2.1.3}Confluenza}{112}{subsubsection.11.2.1.3}%
-\contentsline {subsection}{\numberline {11.2.2}Estrazione di proteine}{112}{subsection.11.2.2}%
-\contentsline {subsubsection}{\numberline {11.2.2.1}Protocollo}{112}{subsubsection.11.2.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.2.2}Tampone di lisi - \emph {RIPA buffer}}{112}{subsubsection.11.2.2.2}%
-\contentsline {paragraph}{\numberline {11.2.2.2.1}Composizione}{112}{paragraph.11.2.2.2.1}%
-\contentsline {subsubsection}{\numberline {11.2.2.3}Cell scraping}{112}{subsubsection.11.2.2.3}%
-\contentsline {subsubsection}{\numberline {11.2.2.4}Protocollo di quantificazione}{112}{subsubsection.11.2.2.4}%
-\contentsline {paragraph}{\numberline {11.2.2.4.1}Bradford - metodi colorimetrici}{113}{paragraph.11.2.2.4.1}%
-\contentsline {subparagraph}{\numberline {11.2.2.4.1.1}Colorante libero}{113}{subparagraph.11.2.2.4.1.1}%
-\contentsline {subparagraph}{\numberline {11.2.2.4.1.2}Legato a proteine}{113}{subparagraph.11.2.2.4.1.2}%
-\contentsline {subparagraph}{\numberline {11.2.2.4.1.3}Vantaggi e svantaggi}{113}{subparagraph.11.2.2.4.1.3}%
-\contentsline {paragraph}{\numberline {11.2.2.4.2}Curva standard}{113}{paragraph.11.2.2.4.2}%
-\contentsline {subparagraph}{\numberline {11.2.2.4.2.1}Creazione}{113}{subparagraph.11.2.2.4.2.1}%
-\contentsline {paragraph}{\numberline {11.2.2.4.3}Retta di taratura}{114}{paragraph.11.2.2.4.3}%
-\contentsline {paragraph}{\numberline {11.2.2.4.4}Quantificazione}{114}{paragraph.11.2.2.4.4}%
-\contentsline {paragraph}{\numberline {11.2.2.4.5}Range di lettura}{114}{paragraph.11.2.2.4.5}%
-\contentsline {subsection}{\numberline {11.2.3}Estrazione di DNA}{114}{subsection.11.2.3}%
-\contentsline {subsubsection}{\numberline {11.2.3.1}Protocollo}{114}{subsubsection.11.2.3.1}%
-\contentsline {subsubsection}{\numberline {11.2.3.2}Tampone di lisi \emph {DNA}}{114}{subsubsection.11.2.3.2}%
-\contentsline {subsubsection}{\numberline {11.2.3.3}Precipitazione o floculazione del \emph {DNA}}{114}{subsubsection.11.2.3.3}%
-\contentsline {paragraph}{\numberline {11.2.3.3.1}Metodo di precipitazione}{114}{paragraph.11.2.3.3.1}%
-\contentsline {subparagraph}{\numberline {11.2.3.3.1.1}Sali}{115}{subparagraph.11.2.3.3.1.1}%
-\contentsline {subparagraph}{\numberline {11.2.3.3.1.2}Alcol}{115}{subparagraph.11.2.3.3.1.2}%
-\contentsline {paragraph}{\numberline {11.2.3.3.2}Visualizzare il DNA}{115}{paragraph.11.2.3.3.2}%
-\contentsline {subparagraph}{\numberline {11.2.3.3.2.1}Contaminazioni}{115}{subparagraph.11.2.3.3.2.1}%
-\contentsline {paragraph}{\numberline {11.2.3.3.3}Altre molecole}{115}{paragraph.11.2.3.3.3}%
-\contentsline {section}{\numberline {11.3}Giorno 3 - Colture cellulari}{115}{section.11.3}%
-\contentsline {subsection}{\numberline {11.3.1}Disgregazione del tessuto}{115}{subsection.11.3.1}%
-\contentsline {subsection}{\numberline {11.3.2}Coltura primaria}{115}{subsection.11.3.2}%
-\contentsline {subsection}{\numberline {11.3.3}Linea cellulare}{115}{subsection.11.3.3}%
-\contentsline {subsubsection}{\numberline {11.3.3.1}Finita}{115}{subsubsection.11.3.3.1}%
-\contentsline {subsubsection}{\numberline {11.3.3.2}Continua}{115}{subsubsection.11.3.3.2}%
-\contentsline {subsection}{\numberline {11.3.4}Morfologia della coltura cellulare}{116}{subsection.11.3.4}%
-\contentsline {subsubsection}{\numberline {11.3.4.1}Colture in sospensione}{116}{subsubsection.11.3.4.1}%
-\contentsline {subsubsection}{\numberline {11.3.4.2}Colture in adesione}{116}{subsubsection.11.3.4.2}%
-\contentsline {subsubsection}{\numberline {11.3.4.3}Forma}{116}{subsubsection.11.3.4.3}%
-\contentsline {subsection}{\numberline {11.3.5}Et\`a delle colture}{116}{subsection.11.3.5}%
-\contentsline {subsubsection}{\numberline {11.3.5.1}Passaggi}{116}{subsubsection.11.3.5.1}%
-\contentsline {subsubsection}{\numberline {11.3.5.2}Livello di raddoppio}{116}{subsubsection.11.3.5.2}%
-\contentsline {subsection}{\numberline {11.3.6}Ottenere una coltura cellulare}{116}{subsection.11.3.6}%
-\contentsline {subsection}{\numberline {11.3.7}Applicazioni della coltura cellulare}{116}{subsection.11.3.7}%
-\contentsline {subsection}{\numberline {11.3.8}Ambiente cellulare - terreno di coltura}{116}{subsection.11.3.8}%
-\contentsline {subsubsection}{\numberline {11.3.8.1}Costituenti base}{116}{subsubsection.11.3.8.1}%
-\contentsline {paragraph}{\numberline {11.3.8.1.1}Siero}{117}{paragraph.11.3.8.1.1}%
-\contentsline {subsubsection}{\numberline {11.3.8.2}Mantenimento del $\mathbf {pH}$}{117}{subsubsection.11.3.8.2}%
-\contentsline {paragraph}{\numberline {11.3.8.2.1}Tamponamento naturale}{117}{paragraph.11.3.8.2.1}%
-\contentsline {paragraph}{\numberline {11.3.8.2.2}Tamponamento chimico}{117}{paragraph.11.3.8.2.2}%
-\contentsline {paragraph}{\numberline {11.3.8.2.3}Rosso fenolo}{117}{paragraph.11.3.8.2.3}%
-\contentsline {subsection}{\numberline {11.3.9}Contenitori e strumenti per le colture cellulari}{117}{subsection.11.3.9}%
-\contentsline {subsubsection}{\numberline {11.3.9.1}Contenitori per cellule}{117}{subsubsection.11.3.9.1}%
-\contentsline {subsubsection}{\numberline {11.3.9.2}Altri strumenti}{117}{subsubsection.11.3.9.2}%
-\contentsline {subsection}{\numberline {11.3.10}Area di lavoro}{117}{subsection.11.3.10}%
-\contentsline {subsubsection}{\numberline {11.3.10.1}Cappa biologica}{117}{subsubsection.11.3.10.1}%
-\contentsline {paragraph}{\numberline {11.3.10.1.1}Utilizzo}{118}{paragraph.11.3.10.1.1}%
-\contentsline {subsubsection}{\numberline {11.3.10.2}Incubatore}{118}{subsubsection.11.3.10.2}%
-\contentsline {subsubsection}{\numberline {11.3.10.3}Contaminazioni}{118}{subsubsection.11.3.10.3}%
-\contentsline {paragraph}{\numberline {11.3.10.3.1}Contaminazioni chimiche}{118}{paragraph.11.3.10.3.1}%
-\contentsline {paragraph}{\numberline {11.3.10.3.2}Contaminazioni biologiche}{118}{paragraph.11.3.10.3.2}%
-\contentsline {paragraph}{\numberline {11.3.10.3.3}Evitare contaminazioni}{118}{paragraph.11.3.10.3.3}%
-\contentsline {subsubsection}{\numberline {11.3.10.4}Norme di sicurezza}{118}{subsubsection.11.3.10.4}%
-\contentsline {subsection}{\numberline {11.3.11}Mantenimento delle cellule}{119}{subsection.11.3.11}%
-\contentsline {subsubsection}{\numberline {11.3.11.1}Controllo delle cellule}{119}{subsubsection.11.3.11.1}%
-\contentsline {subsubsection}{\numberline {11.3.11.2}Rimozione delle cellule - harvesting}{119}{subsubsection.11.3.11.2}%
-\contentsline {paragraph}{\numberline {11.3.11.2.1}Rimozione meccanica}{119}{paragraph.11.3.11.2.1}%
-\contentsline {paragraph}{\numberline {11.3.11.2.2}Rimozione con enzimi proteolitici}{119}{paragraph.11.3.11.2.2}%
-\contentsline {subsection}{\numberline {11.3.12}Esercitazione}{119}{subsection.11.3.12}%
-\contentsline {subsubsection}{\numberline {11.3.12.1}Conta cellulare}{119}{subsubsection.11.3.12.1}%
-\contentsline {paragraph}{\numberline {11.3.12.1.1}Camera di Buerker}{119}{paragraph.11.3.12.1.1}%
-\contentsline {paragraph}{\numberline {11.3.12.1.2}Trypan blue}{119}{paragraph.11.3.12.1.2}%
-\contentsline {subsubsection}{\numberline {11.3.12.2}Preparazione delle colture}{120}{subsubsection.11.3.12.2}%
-\contentsline {section}{\numberline {11.4}Giorno 4 - Colorazione di organelli citoplasmatici}{120}{section.11.4}%
-\contentsline {subsection}{\numberline {11.4.1}Fluorescenza}{120}{subsection.11.4.1}%
-\contentsline {subsubsection}{\numberline {11.4.1.1}Fluorocromi}{120}{subsubsection.11.4.1.1}%
-\contentsline {paragraph}{\numberline {11.4.1.1.1}Struttura}{120}{paragraph.11.4.1.1.1}%
-\contentsline {paragraph}{\numberline {11.4.1.1.2}Vantaggi}{120}{paragraph.11.4.1.1.2}%
-\contentsline {paragraph}{\numberline {11.4.1.1.3}Svantaggi}{120}{paragraph.11.4.1.1.3}%
-\contentsline {paragraph}{\numberline {11.4.1.1.4}Photobleaching}{120}{paragraph.11.4.1.1.4}%
-\contentsline {subparagraph}{\numberline {11.4.1.1.4.1}Ridurre il photobleaching}{120}{subparagraph.11.4.1.1.4.1}%
-\contentsline {subsubsection}{\numberline {11.4.1.2}Microscopia a fluorescenza}{120}{subsubsection.11.4.1.2}%
-\contentsline {paragraph}{\numberline {11.4.1.2.1}Struttura del microscopio}{120}{paragraph.11.4.1.2.1}%
-\contentsline {subsection}{\numberline {11.4.2}Scopo dell'esercitazione}{121}{subsection.11.4.2}%
-\contentsline {subsection}{\numberline {11.4.3}Reticolo endoplasmatico}{121}{subsection.11.4.3}%
-\contentsline {subsubsection}{\numberline {11.4.3.1}Composizione}{121}{subsubsection.11.4.3.1}%
-\contentsline {subsubsection}{\numberline {11.4.3.2}Funzioni}{121}{subsubsection.11.4.3.2}%
-\contentsline {subsubsection}{\numberline {11.4.3.3}ERTracker}{121}{subsubsection.11.4.3.3}%
-\contentsline {subsection}{\numberline {11.4.4}Mitocondri}{121}{subsection.11.4.4}%
-\contentsline {subsubsection}{\numberline {11.4.4.1}Composizione}{121}{subsubsection.11.4.4.1}%
-\contentsline {subsubsection}{\numberline {11.4.4.2}Funzione}{121}{subsubsection.11.4.4.2}%
-\contentsline {subsubsection}{\numberline {11.4.4.3}MitoTracker}{121}{subsubsection.11.4.4.3}%
-\contentsline {subsection}{\numberline {11.4.5}Membrana citoplasmatica}{121}{subsection.11.4.5}%
-\contentsline {subsubsection}{\numberline {11.4.5.1}Wheat germ agglutinin \emph {WGA}}{121}{subsubsection.11.4.5.1}%
-\contentsline {paragraph}{\numberline {11.4.5.1.1}Lectine}{122}{paragraph.11.4.5.1.1}%
-\contentsline {subsection}{\numberline {11.4.6}Citoscheletro}{122}{subsection.11.4.6}%
-\contentsline {subsubsection}{\numberline {11.4.6.1}Composizione}{122}{subsubsection.11.4.6.1}%
-\contentsline {subsubsection}{\numberline {11.4.6.2}Funzioni}{122}{subsubsection.11.4.6.2}%
-\contentsline {subsubsection}{\numberline {11.4.6.3}Falloidina}{122}{subsubsection.11.4.6.3}%
-\contentsline {subsection}{\numberline {11.4.7}Nucleo}{122}{subsection.11.4.7}%
-\contentsline {subsubsection}{\numberline {11.4.7.1}Composizione}{122}{subsubsection.11.4.7.1}%
-\contentsline {subsubsection}{\numberline {11.4.7.2}\emph {DAPI}}{122}{subsubsection.11.4.7.2}%
-\contentsline {subsection}{\numberline {11.4.8}Colorazione vitale}{122}{subsection.11.4.8}%
-\contentsline {subsubsection}{\numberline {11.4.8.1}Fissaggio delle cellule}{122}{subsubsection.11.4.8.1}%
-\contentsline {subsubsection}{\numberline {11.4.8.2}Protocollo}{122}{subsubsection.11.4.8.2}%
-\contentsline {subsubsection}{\numberline {11.4.8.3}Prime colorazioni}{122}{subsubsection.11.4.8.3}%
-\contentsline {subsubsection}{\numberline {11.4.8.4}Permeabilizzazione}{122}{subsubsection.11.4.8.4}%
-\contentsline {subsubsection}{\numberline {11.4.8.5}Colorazioni}{122}{subsubsection.11.4.8.5}%
-\contentsline {subsubsection}{\numberline {11.4.8.6}Sincronizzare le cellule}{123}{subsubsection.11.4.8.6}%
+\contentsline {chapter}{\numberline {1}Introduzione}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Microscopia}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Tipi di microscopi}{7}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}Microscopi ottici}{7}{subsubsection.1.1.1.1}%
+\contentsline {paragraph}{\numberline {1.1.1.1.1}Risoluzione}{8}{paragraph.1.1.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1.2}Microscopi elettronici}{8}{subsubsection.1.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.2}Tecniche di microscopia}{8}{subsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}Microscopia in campo chiaro}{8}{subsubsection.1.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}Immunoistochimica}{8}{subsubsection.1.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.1.2.3}Fret}{9}{subsubsection.1.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.1.2.4}Biomolecular fluorescent complementation}{9}{subsubsection.1.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.1.2.5}Photobleach}{9}{subsubsection.1.1.2.5}%
+\contentsline {subsubsection}{\numberline {1.1.2.6}Fotoattivazione}{9}{subsubsection.1.1.2.6}%
+\contentsline {section}{\numberline {1.2}Tecniche di laboratorio}{9}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Reazione a catena della polimerasi PCR}{9}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Elettroforesi}{10}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Blots}{10}{subsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.3.1}Southern blot}{10}{subsubsection.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {1.2.3.2}Western blot}{10}{subsubsection.1.2.3.2}%
+\contentsline {subsubsection}{\numberline {1.2.3.3}Northern blot}{10}{subsubsection.1.2.3.3}%
+\contentsline {subsection}{\numberline {1.2.4}Tecniche di manipolazione del DNA}{11}{subsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.4.1}Sequenziamento del DNA}{11}{subsubsection.1.2.4.1}%
+\contentsline {subsubsection}{\numberline {1.2.4.2}Clonaggio del DNA}{11}{subsubsection.1.2.4.2}%
+\contentsline {subsubsection}{\numberline {1.2.4.3}Transfezione}{11}{subsubsection.1.2.4.3}%
+\contentsline {paragraph}{\numberline {1.2.4.3.1}Vettori di clonaggio}{11}{paragraph.1.2.4.3.1}%
+\contentsline {paragraph}{\numberline {1.2.4.3.2}Plasmidi}{11}{paragraph.1.2.4.3.2}%
+\contentsline {paragraph}{\numberline {1.2.4.3.3}Elettroporazione}{11}{paragraph.1.2.4.3.3}%
+\contentsline {paragraph}{\numberline {1.2.4.3.4}Microprecipitati}{12}{paragraph.1.2.4.3.4}%
+\contentsline {paragraph}{\numberline {1.2.4.3.5}Microiniezione}{12}{paragraph.1.2.4.3.5}%
+\contentsline {paragraph}{\numberline {1.2.4.3.6}Biolistics}{12}{paragraph.1.2.4.3.6}%
+\contentsline {paragraph}{\numberline {1.2.4.3.7}Liposomi}{12}{paragraph.1.2.4.3.7}%
+\contentsline {paragraph}{\numberline {1.2.4.3.8}Virus}{12}{paragraph.1.2.4.3.8}%
+\contentsline {subsubsection}{\numberline {1.2.4.4}Immunoprecipitazione}{12}{subsubsection.1.2.4.4}%
+\contentsline {subsection}{\numberline {1.2.5}Cristallografia a raggi X}{12}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Altre che non so????}{13}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}Figure importanti e loro lavori}{13}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Miescher}{13}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Mendel}{13}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Morgan}{13}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Griffith e Avery}{13}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Hershey e Chase}{13}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}Watson e Crick}{14}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Mello e Fire}{14}{subsection.1.3.7}%
+\contentsline {section}{\numberline {1.4}Cellula e genomi}{14}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Caratteristiche universali delle cellule}{14}{subsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.1.1}Dinamicit\`a}{14}{subsubsection.1.4.1.1}%
+\contentsline {subsubsection}{\numberline {1.4.1.2}Informazione}{14}{subsubsection.1.4.1.2}%
+\contentsline {paragraph}{\numberline {1.4.1.2.1}Densit\`a genica}{15}{paragraph.1.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.4.1.3}Riproduzione}{15}{subsubsection.1.4.1.3}%
+\contentsline {subsubsection}{\numberline {1.4.1.4}Struttura}{15}{subsubsection.1.4.1.4}%
+\contentsline {paragraph}{\numberline {1.4.1.4.1}Membrana}{15}{paragraph.1.4.1.4.1}%
+\contentsline {paragraph}{\numberline {1.4.1.4.2}Struttura della cellula eucariote}{15}{paragraph.1.4.1.4.2}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.1}Nucleo}{15}{subparagraph.1.4.1.4.2.1}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.2}Reticolo endoplasmatico}{15}{subparagraph.1.4.1.4.2.2}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.3}Apparato di Golgi}{15}{subparagraph.1.4.1.4.2.3}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.4}Mitocondri}{15}{subparagraph.1.4.1.4.2.4}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.5}Lisosomi}{16}{subparagraph.1.4.1.4.2.5}%
+\contentsline {subparagraph}{\numberline {1.4.1.4.2.6}Citoscheletro}{16}{subparagraph.1.4.1.4.2.6}%
+\contentsline {subsubsection}{\numberline {1.4.1.5}Funzione}{16}{subsubsection.1.4.1.5}%
+\contentsline {subsection}{\numberline {1.4.2}Differenze principali tra le forme di vita}{16}{subsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.2.1}Mutazioni}{16}{subsubsection.1.4.2.1}%
+\contentsline {paragraph}{\numberline {1.4.2.1.1}Geni ortologhi}{16}{paragraph.1.4.2.1.1}%
+\contentsline {paragraph}{\numberline {1.4.2.1.2}Geni paraloghi}{17}{paragraph.1.4.2.1.2}%
+\contentsline {paragraph}{\numberline {1.4.2.1.3}Campo di interesse delle mutazioni}{17}{paragraph.1.4.2.1.3}%
+\contentsline {paragraph}{\numberline {1.4.2.1.4}Tipologia di mutazioni}{17}{paragraph.1.4.2.1.4}%
+\contentsline {subsection}{\numberline {1.4.3}Complessit\`a di un organismo}{17}{subsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.3.1}Sequenze correlate ai geni}{17}{subsubsection.1.4.3.1}%
+\contentsline {paragraph}{\numberline {1.4.3.1.1}Pseudogeni}{17}{paragraph.1.4.3.1.1}%
+\contentsline {subsubsection}{\numberline {1.4.3.2}DNA intergenico}{17}{subsubsection.1.4.3.2}%
+\contentsline {paragraph}{\numberline {1.4.3.2.1}Centromero}{17}{paragraph.1.4.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.4.3.3}Cromosoma}{17}{subsubsection.1.4.3.3}%
+\contentsline {paragraph}{\numberline {1.4.3.3.1}Cariotipo}{18}{paragraph.1.4.3.3.1}%
+\contentsline {chapter}{\numberline {2}DNA e RNA}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Struttura del DNA}{19}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Componenti}{19}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Monomeri}{19}{subsubsection.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1.1}Nucleosidi}{19}{paragraph.2.1.1.1.1}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.1.1}Orientamento del legame}{19}{subparagraph.2.1.1.1.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1.2}Nucleotidi}{19}{paragraph.2.1.1.1.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.2.1}Funzioni}{19}{subparagraph.2.1.1.1.2.1}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.2.2}Gruppo idrossile}{19}{subparagraph.2.1.1.1.2.2}%
+\contentsline {subparagraph}{\numberline {2.1.1.1.2.3}Base azotata}{19}{subparagraph.2.1.1.1.2.3}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Polimerizzazione}{20}{subsubsection.2.1.1.2}%
+\contentsline {subsection}{\numberline {2.1.2}Polarit\`a}{20}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Interazioni tra basi}{20}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Movimento tra basi appaiate}{20}{subsubsection.2.1.3.1}%
+\contentsline {paragraph}{\numberline {2.1.3.1.1}Twist}{20}{paragraph.2.1.3.1.1}%
+\contentsline {paragraph}{\numberline {2.1.3.1.2}Roll}{20}{paragraph.2.1.3.1.2}%
+\contentsline {paragraph}{\numberline {2.1.3.1.3}Tilt}{20}{paragraph.2.1.3.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Chargaff}{20}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Temperatura di melting}{21}{subsubsection.2.1.3.3}%
+\contentsline {subsection}{\numberline {2.1.4}Caratteristiche}{21}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Lettura del codice genetico}{21}{subsubsection.2.1.4.1}%
+\contentsline {subsection}{\numberline {2.1.5}Tipologie di strutture}{21}{subsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.5.1}Struttura primaria}{21}{subsubsection.2.1.5.1}%
+\contentsline {subsubsection}{\numberline {2.1.5.2}Struttura secondaria}{21}{subsubsection.2.1.5.2}%
+\contentsline {paragraph}{\numberline {2.1.5.2.1}Impalamento delle basi}{21}{paragraph.2.1.5.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.5.3}Basi di Hoogsteen}{21}{subsubsection.2.1.5.3}%
+\contentsline {subsubsection}{\numberline {2.1.5.4}Conformazioni particolari}{22}{subsubsection.2.1.5.4}%
+\contentsline {paragraph}{\numberline {2.1.5.4.1}Forma $\mathbf {A}$}{22}{paragraph.2.1.5.4.1}%
+\contentsline {paragraph}{\numberline {2.1.5.4.2}Forma $\mathbf {B}$}{22}{paragraph.2.1.5.4.2}%
+\contentsline {paragraph}{\numberline {2.1.5.4.3}Forma $\mathbf {Z}$}{22}{paragraph.2.1.5.4.3}%
+\contentsline {paragraph}{\numberline {2.1.5.4.4}Tripla elica}{22}{paragraph.2.1.5.4.4}%
+\contentsline {paragraph}{\numberline {2.1.5.4.5}Struttura cruciforme}{22}{paragraph.2.1.5.4.5}%
+\contentsline {paragraph}{\numberline {2.1.5.4.6}Struttura a forcina}{22}{paragraph.2.1.5.4.6}%
+\contentsline {paragraph}{\numberline {2.1.5.4.7}DNA curvo}{22}{paragraph.2.1.5.4.7}%
+\contentsline {subsection}{\numberline {2.1.6}Stabilizzazione della doppia elica}{22}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Sintesi}{23}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}DNA superavvolto o struttura terziaria}{23}{subsection.2.1.8}%
+\contentsline {subsubsection}{\numberline {2.1.8.1}Topoisomerasi}{23}{subsubsection.2.1.8.1}%
+\contentsline {paragraph}{\numberline {2.1.8.1.1}Topoisomerasi di tipo I}{23}{paragraph.2.1.8.1.1}%
+\contentsline {paragraph}{\numberline {2.1.8.1.2}Topoisomerasi di tipo II}{23}{paragraph.2.1.8.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.8.2}Compattazione della struttura del DNA}{24}{subsubsection.2.1.8.2}%
+\contentsline {section}{\numberline {2.2}Struttura del RNA}{24}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Funzioni del RNA}{24}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Struttura}{24}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Strutture secondarie}{24}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Modifiche dell'RNA}{25}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Organizzazione del DNA nel nucleo}{25}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Procarioti}{25}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Eucarioti}{25}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Cromatina}{25}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.1}Tipologie di cromatina}{25}{subsubsection.2.3.3.1}%
+\contentsline {paragraph}{\numberline {2.3.3.1.1}Eucromatina}{25}{paragraph.2.3.3.1.1}%
+\contentsline {paragraph}{\numberline {2.3.3.1.2}Eterocromatina}{26}{paragraph.2.3.3.1.2}%
+\contentsline {paragraph}{\numberline {2.3.3.1.3}Nucleolo}{26}{paragraph.2.3.3.1.3}%
+\contentsline {subsubsection}{\numberline {2.3.3.2}Nucleosomi}{26}{subsubsection.2.3.3.2}%
+\contentsline {paragraph}{\numberline {2.3.3.2.1}Non core proteins}{26}{paragraph.2.3.3.2.1}%
+\contentsline {paragraph}{\numberline {2.3.3.2.2}Core proteins}{26}{paragraph.2.3.3.2.2}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.1}Legame con il DNA}{26}{subparagraph.2.3.3.2.2.1}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.2}Struttura}{26}{subparagraph.2.3.3.2.2.2}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.3}Sintesi}{26}{subparagraph.2.3.3.2.2.3}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.4}Assemblaggio degli istoni}{27}{subparagraph.2.3.3.2.2.4}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.5}Code istoniche}{27}{subparagraph.2.3.3.2.2.5}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.6}Ereditariet\`a}{27}{subparagraph.2.3.3.2.2.6}%
+\contentsline {subparagraph}{\numberline {2.3.3.2.2.7}Dinamicit\`a}{27}{subparagraph.2.3.3.2.2.7}%
+\contentsline {subsubsection}{\numberline {2.3.3.3}Ulteriori livelli di impacchettamento}{27}{subsubsection.2.3.3.3}%
+\contentsline {paragraph}{\numberline {2.3.3.3.1}Gradi di impacchettamento}{27}{paragraph.2.3.3.3.1}%
+\contentsline {paragraph}{\numberline {2.3.3.3.2}Anse radiali}{27}{paragraph.2.3.3.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3.4}Collegamenti tra nuclesomi}{27}{subsubsection.2.3.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.3.5}Effetto di posizione}{27}{subsubsection.2.3.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.3.6}Effetto della compattazione}{28}{subsubsection.2.3.3.6}%
+\contentsline {subsection}{\numberline {2.3.4}Regolazione della struttura cromatinica}{28}{subsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.1}Complessi di rimodellamento della cromatina}{28}{subsubsection.2.3.4.1}%
+\contentsline {paragraph}{\numberline {2.3.4.1.1}Attivit\`a}{28}{paragraph.2.3.4.1.1}%
+\contentsline {paragraph}{\numberline {2.3.4.1.2}Facilitates chromatine transcription}{28}{paragraph.2.3.4.1.2}%
+\contentsline {paragraph}{\numberline {2.3.4.1.3}Chaperonine}{28}{paragraph.2.3.4.1.3}%
+\contentsline {paragraph}{\numberline {2.3.4.1.4}Subunit\`a di idrolisi}{28}{paragraph.2.3.4.1.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.2}Modifiche covalenti degli istoni}{28}{subsubsection.2.3.4.2}%
+\contentsline {paragraph}{\numberline {2.3.4.2.1}Gruppi acetile}{28}{paragraph.2.3.4.2.1}%
+\contentsline {paragraph}{\numberline {2.3.4.2.2}Gruppi metile}{28}{paragraph.2.3.4.2.2}%
+\contentsline {subsubsection}{\numberline {2.3.4.3}Varianti istoniche}{29}{subsubsection.2.3.4.3}%
+\contentsline {subsubsection}{\numberline {2.3.4.4}Sequenze barriera}{29}{subsubsection.2.3.4.4}%
+\contentsline {subsection}{\numberline {2.3.5}Epigenetica}{29}{subsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.5.1}Modifiche delle code istoniche}{29}{subsubsection.2.3.5.1}%
+\contentsline {subsubsection}{\numberline {2.3.5.2}Effetti delle modifiche delle code istoniche}{29}{subsubsection.2.3.5.2}%
+\contentsline {paragraph}{\numberline {2.3.5.2.1}Code metilate}{29}{paragraph.2.3.5.2.1}%
+\contentsline {paragraph}{\numberline {2.3.5.2.2}Code acetilate}{29}{paragraph.2.3.5.2.2}%
+\contentsline {subsection}{\numberline {2.3.6}Cromatina dei centromeri}{30}{subsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.6.1}\emph {Saccharomyces cerevisiae}}{30}{subsubsection.2.3.6.1}%
+\contentsline {subsubsection}{\numberline {2.3.6.2}Umano}{30}{subsubsection.2.3.6.2}%
+\contentsline {subsubsection}{\numberline {2.3.6.3}Formazione del centromero}{30}{subsubsection.2.3.6.3}%
+\contentsline {subsubsection}{\numberline {2.3.6.4}Proteine centromeriche}{30}{subsubsection.2.3.6.4}%
+\contentsline {paragraph}{\numberline {2.3.6.4.1}\emph {CENP-A}}{30}{paragraph.2.3.6.4.1}%
+\contentsline {paragraph}{\numberline {2.3.6.4.2}\emph {Cse4}}{30}{paragraph.2.3.6.4.2}%
+\contentsline {paragraph}{\numberline {2.3.6.4.3}\emph {HCP3}}{30}{paragraph.2.3.6.4.3}%
+\contentsline {paragraph}{\numberline {2.3.6.4.4}\emph {Cid}}{30}{paragraph.2.3.6.4.4}%
+\contentsline {paragraph}{\numberline {2.3.6.4.5}\emph {CEN-H3}}{30}{paragraph.2.3.6.4.5}%
+\contentsline {paragraph}{\numberline {2.3.6.4.6}\emph {CENP-B}}{30}{paragraph.2.3.6.4.6}%
+\contentsline {paragraph}{\numberline {2.3.6.4.7}\emph {CENP-C}}{30}{paragraph.2.3.6.4.7}%
+\contentsline {paragraph}{\numberline {2.3.6.4.8}\emph {CENP-H}}{31}{paragraph.2.3.6.4.8}%
+\contentsline {subsection}{\numberline {2.3.7}Sindrome di Rett}{31}{subsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.7.1}Caratteristiche cliniche}{31}{subsubsection.2.3.7.1}%
+\contentsline {subsubsection}{\numberline {2.3.7.2}Motivazioni biologiche}{31}{subsubsection.2.3.7.2}%
+\contentsline {section}{\numberline {2.4}Modifiche post-traduzionali}{31}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Fosforilazione}{31}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Acetilazione}{31}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Metilazione}{31}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Glicosilazione}{32}{subsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.4.1}N-glicosilazione}{32}{subsubsection.2.4.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.4.2}O-glicosilazione}{32}{subsubsection.2.4.4.2}%
+\contentsline {subsection}{\numberline {2.4.5}Ubiquitinazione}{32}{subsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.5.1}Proteosoma}{32}{subsubsection.2.4.5.1}%
+\contentsline {subsubsection}{\numberline {2.4.5.2}Poliubiquitina}{32}{subsubsection.2.4.5.2}%
+\contentsline {subsection}{\numberline {2.4.6}Sumoilazione}{32}{subsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.6.1}Sumoilazione bilanciata}{32}{subsubsection.2.4.6.1}%
+\contentsline {subsubsection}{\numberline {2.4.6.2}Sumoilazione deregolata}{32}{subsubsection.2.4.6.2}%
+\contentsline {section}{\numberline {2.5}Metabolismo del ferro}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Introduzione del ferro nella cellula}{33}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Il ferro nella cellula}{33}{subsubsection.2.5.1.1}%
+\contentsline {subsection}{\numberline {2.5.2}Meccanismo di regolazione}{33}{subsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.2.1}Aconitasi}{33}{subsubsection.2.5.2.1}%
+\contentsline {subsubsection}{\numberline {2.5.2.2}Carenza di ferro}{33}{subsubsection.2.5.2.2}%
+\contentsline {subsubsection}{\numberline {2.5.2.3}Eccesso di ferro}{33}{subsubsection.2.5.2.3}%
+\contentsline {subsection}{\numberline {2.5.3}Metodo di osservazione}{34}{subsection.2.5.3}%
+\contentsline {chapter}{\numberline {3}Replicazione e riparazione del DNA}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Modello di replicazione}{35}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Esperimento Meselson-Stahl}{35}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Processo}{35}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Risultati}{35}{subsubsection.3.1.1.2}%
+\contentsline {section}{\numberline {3.2}Panoramica}{36}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Reazione di polimerizzazione}{36}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Substrati}{36}{subsubsection.3.2.1.1}%
+\contentsline {paragraph}{\numberline {3.2.1.1.1}Deossiribonucleotidi trifosfato}{36}{paragraph.3.2.1.1.1}%
+\contentsline {paragraph}{\numberline {3.2.1.1.2}Giunzione innesco}{36}{paragraph.3.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Crescita del filamento}{36}{subsubsection.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {3.2.1.3}Energia}{36}{subsubsection.3.2.1.3}%
+\contentsline {subsection}{\numberline {3.2.2}Mutazioni}{36}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Tasso di mutazione}{36}{subsubsection.3.2.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2.2}Tipologie di mutazioni}{36}{subsubsection.3.2.2.2}%
+\contentsline {paragraph}{\numberline {3.2.2.2.1}Geniche}{36}{paragraph.3.2.2.2.1}%
+\contentsline {paragraph}{\numberline {3.2.2.2.2}Cromosomiche}{37}{paragraph.3.2.2.2.2}%
+\contentsline {paragraph}{\numberline {3.2.2.2.3}Genomiche}{37}{paragraph.3.2.2.2.3}%
+\contentsline {subsection}{\numberline {3.2.3}DNA polimerasi}{37}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Meccanismi di correzione}{37}{subsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.4.1}DNA polimerasi}{37}{subsubsection.3.2.4.1}%
+\contentsline {subsubsection}{\numberline {3.2.4.2}Attivit\`a esonucleotidica}{37}{subsubsection.3.2.4.2}%
+\contentsline {subsection}{\numberline {3.2.5}Sintesi sul filamento discontinuo}{37}{subsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.5.1}DNA primasi}{38}{subsubsection.3.2.5.1}%
+\contentsline {subsubsection}{\numberline {3.2.5.2}Terminazione del frammento}{38}{subsubsection.3.2.5.2}%
+\contentsline {subsection}{\numberline {3.2.6}Apertura della doppia elica}{38}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Mantenimento di una DNA polimerasi in movimento sul DNA}{38}{subsection.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.2.7.1}Morsetto scorrevole}{38}{subsubsection.3.2.7.1}%
+\contentsline {subsection}{\numberline {3.2.8}Modello a trombone}{38}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}DNA topoisomerasi}{39}{subsection.3.2.9}%
+\contentsline {section}{\numberline {3.3}Complesso di pre-replicazione}{39}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Formazione}{39}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Origine di replicazione}{39}{subsubsection.3.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.2}Processo di formazione}{39}{subsubsection.3.3.1.2}%
+\contentsline {subsection}{\numberline {3.3.2}Attivazione}{39}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Chinasi ciclina dipendente}{39}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}Processo di attivazione}{39}{subsubsection.3.3.2.2}%
+\contentsline {section}{\numberline {3.4}Replisoma}{40}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Composizione}{40}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}\emph {MCM-7}}{40}{subsubsection.3.4.1.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.2}DNA ligasi}{40}{subsubsection.3.4.1.2}%
+\contentsline {subsubsection}{\numberline {3.4.1.3}Elicasi}{40}{subsubsection.3.4.1.3}%
+\contentsline {subsubsection}{\numberline {3.4.1.4}Single strand binding protein}{40}{subsubsection.3.4.1.4}%
+\contentsline {subsubsection}{\numberline {3.4.1.5}DNA primasi}{40}{subsubsection.3.4.1.5}%
+\contentsline {subsubsection}{\numberline {3.4.1.6}DNA polimerasi}{40}{subsubsection.3.4.1.6}%
+\contentsline {paragraph}{\numberline {3.4.1.6.1}Tipologie}{41}{paragraph.3.4.1.6.1}%
+\contentsline {subsection}{\numberline {3.4.2}Tipo $\mathbf {I}$}{41}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Esonucleasi}{41}{subsubsection.3.4.2.1}%
+\contentsline {subsubsection}{\numberline {3.4.2.2}Complesso $\mathbf {\beta }$ o pinza scorrevole}{41}{subsubsection.3.4.2.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.3}\emph {CDK}}{41}{subsubsection.3.4.2.3}%
+\contentsline {subsubsection}{\numberline {3.4.2.4}\emph {TBP/TUS}}{41}{subsubsection.3.4.2.4}%
+\contentsline {subsubsection}{\numberline {3.4.2.5}Complesso di pre-replicazione}{41}{subsubsection.3.4.2.5}%
+\contentsline {subsubsection}{\numberline {3.4.2.6}DNA topoisomerasi}{41}{subsubsection.3.4.2.6}%
+\contentsline {section}{\numberline {3.5}Processo di replicazione}{41}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Inizio della replicazione}{41}{subsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.1.1}Procarioti}{41}{subsubsection.3.5.1.1}%
+\contentsline {paragraph}{\numberline {3.5.1.1.1}Regolazione}{42}{paragraph.3.5.1.1.1}%
+\contentsline {paragraph}{\numberline {3.5.1.1.2}\emph {Ori}}{42}{paragraph.3.5.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.5.1.2}Eucarioti}{42}{subsubsection.3.5.1.2}%
+\contentsline {subsubsection}{\numberline {3.5.1.3}Identificazione della regione contente un \emph {Ori}}{42}{subsubsection.3.5.1.3}%
+\contentsline {subsection}{\numberline {3.5.2}Velocit\`a di replicazione}{42}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Organizzazione temporale}{42}{subsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.3.1}Temporizzazione delle \emph {Ori}}{42}{subsubsection.3.5.3.1}%
+\contentsline {subsection}{\numberline {3.5.4}Assemblaggio dei nucleosomi}{42}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Terminazione della replicazione}{43}{subsection.3.5.5}%
+\contentsline {subsubsection}{\numberline {3.5.5.1}Procarioti}{43}{subsubsection.3.5.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.5.2}Eucarioti}{43}{subsubsection.3.5.5.2}%
+\contentsline {paragraph}{\numberline {3.5.5.2.1}Telomeri}{43}{paragraph.3.5.5.2.1}%
+\contentsline {subparagraph}{\numberline {3.5.5.2.1.1}Telomerasi}{43}{subparagraph.3.5.5.2.1.1}%
+\contentsline {subparagraph}{\numberline {3.5.5.2.1.2}Funzionamento della telomerasi}{43}{subparagraph.3.5.5.2.1.2}%
+\contentsline {subparagraph}{\numberline {3.5.5.2.1.3}T-loop}{43}{subparagraph.3.5.5.2.1.3}%
+\contentsline {subparagraph}{\numberline {3.5.5.2.1.4}Lunghezza dei telomeri}{43}{subparagraph.3.5.5.2.1.4}%
+\contentsline {subparagraph}{\numberline {3.5.5.2.1.5}Discheratosi congenita}{44}{subparagraph.3.5.5.2.1.5}%
+\contentsline {section}{\numberline {3.6}Riparazione del DNA}{44}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Motivi biologici della riparazione}{44}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Processi di riparazione}{44}{subsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.2.1}Riparazione tramite asportazione della base}{44}{subsubsection.3.6.2.1}%
+\contentsline {subsubsection}{\numberline {3.6.2.2}Asportazione del nucleotide}{44}{subsubsection.3.6.2.2}%
+\contentsline {subsection}{\numberline {3.6.3}DNA polimerasi specializzate}{45}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.6.4}Rotture a doppio filamento}{45}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Effetti del danno al DNA}{45}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}Riparazione omologa}{45}{subsection.3.6.6}%
+\contentsline {subsubsection}{\numberline {3.6.6.1}Meccanismo di guida}{45}{subsubsection.3.6.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.6.2}Capacit\`a della riparazione omologa}{45}{subsubsection.3.6.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.6.3}Cambio di filamenti}{45}{subsubsection.3.6.6.3}%
+\contentsline {section}{\numberline {3.7}Mitocondrio}{45}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Teoria endosimbiontica}{46}{subsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.1.1}Evidenze}{46}{subsubsection.3.7.1.1}%
+\contentsline {subsection}{\numberline {3.7.2}Numero e morfologia}{46}{subsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.2.1}Membrana esterna}{46}{subsubsection.3.7.2.1}%
+\contentsline {subsubsection}{\numberline {3.7.2.2}Spazio intermembrana}{46}{subsubsection.3.7.2.2}%
+\contentsline {subsubsection}{\numberline {3.7.2.3}Membrana interna}{46}{subsubsection.3.7.2.3}%
+\contentsline {subsubsection}{\numberline {3.7.2.4}Matrice}{46}{subsubsection.3.7.2.4}%
+\contentsline {subsubsection}{\numberline {3.7.2.5}Variazioni morfologiche}{46}{subsubsection.3.7.2.5}%
+\contentsline {paragraph}{\numberline {3.7.2.5.1}Cellule normali}{46}{paragraph.3.7.2.5.1}%
+\contentsline {paragraph}{\numberline {3.7.2.5.2}Cellule muscolari}{47}{paragraph.3.7.2.5.2}%
+\contentsline {subsection}{\numberline {3.7.3}DNA mitocondriale}{47}{subsection.3.7.3}%
+\contentsline {chapter}{\numberline {4}Trascrizione}{48}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Panoramica}{48}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Produzione di RNA}{48}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Lettura di DNA}{48}{subsubsection.4.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.2}Polimerizzazione}{48}{subsubsection.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.1.3}Separazione del RNA}{48}{subsubsection.4.1.1.3}%
+\contentsline {subsection}{\numberline {4.1.2}RNA polimerasi}{48}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Substrati}{48}{subsubsection.4.1.2.1}%
+\contentsline {subsubsection}{\numberline {4.1.2.2}Temporizzazione}{49}{subsubsection.4.1.2.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.3}Tasso di errore}{49}{subsubsection.4.1.2.3}%
+\contentsline {subsubsection}{\numberline {4.1.2.4}Proof-reading}{49}{subsubsection.4.1.2.4}%
+\contentsline {subsubsection}{\numberline {4.1.2.5}Struttura}{49}{subsubsection.4.1.2.5}%
+\contentsline {paragraph}{\numberline {4.1.2.5.1}Core}{49}{paragraph.4.1.2.5.1}%
+\contentsline {subparagraph}{\numberline {4.1.2.5.1.1}Subunit\`a $\mathbf {\beta \ \beta '}$}{49}{subparagraph.4.1.2.5.1.1}%
+\contentsline {subparagraph}{\numberline {4.1.2.5.1.2}Subunit\`a $\mathbf {\alpha '\ \alpha ''}$}{49}{subparagraph.4.1.2.5.1.2}%
+\contentsline {subparagraph}{\numberline {4.1.2.5.1.3}Subunit\`a $\mathbf {\omega }$}{49}{subparagraph.4.1.2.5.1.3}%
+\contentsline {paragraph}{\numberline {4.1.2.5.2}Polimerasi eucariote}{49}{paragraph.4.1.2.5.2}%
+\contentsline {paragraph}{\numberline {4.1.2.5.3}Solco centrale attivo}{49}{paragraph.4.1.2.5.3}%
+\contentsline {subsection}{\numberline {4.1.3}Inibitori di RNA polimerasi}{50}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Categorie di RNA prodotto}{50}{subsection.4.1.4}%
+\contentsline {section}{\numberline {4.2}Trascrittosoma}{50}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Composizione}{50}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Elicasi}{50}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Fattori di trascrizione}{50}{subsubsection.4.2.1.2}%
+\contentsline {subsubsection}{\numberline {4.2.1.3}RNA polimerasi}{50}{subsubsection.4.2.1.3}%
+\contentsline {paragraph}{\numberline {4.2.1.3.1}RNA polimerasi $\mathbf {I}$}{50}{paragraph.4.2.1.3.1}%
+\contentsline {subparagraph}{\numberline {4.2.1.3.1.1}Reclutamento di fattori}{50}{subparagraph.4.2.1.3.1.1}%
+\contentsline {paragraph}{\numberline {4.2.1.3.2}RNA polimerasi $\mathbf {II}$}{51}{paragraph.4.2.1.3.2}%
+\contentsline {subparagraph}{\numberline {4.2.1.3.2.1}Reclutamento di fattori}{51}{subparagraph.4.2.1.3.2.1}%
+\contentsline {paragraph}{\numberline {4.2.1.3.3}RNA polimerasi $\mathbf {III}$}{51}{paragraph.4.2.1.3.3}%
+\contentsline {subparagraph}{\numberline {4.2.1.3.3.1}Reclutamento di fattori}{51}{subparagraph.4.2.1.3.3.1}%
+\contentsline {section}{\numberline {4.3}Processo della trascrizione}{51}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}inizio}{51}{subsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.1}Fattori sigma}{52}{subsubsection.4.3.1.1}%
+\contentsline {paragraph}{\numberline {4.3.1.1.1}Fattori basali}{52}{paragraph.4.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {4.3.1.2}Bolla di trascrizione}{52}{subsubsection.4.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.1.3}Modelli di inizio}{52}{subsubsection.4.3.1.3}%
+\contentsline {paragraph}{\numberline {4.3.1.3.1}Passaggio transiente}{52}{paragraph.4.3.1.3.1}%
+\contentsline {paragraph}{\numberline {4.3.1.3.2}A bruco}{52}{paragraph.4.3.1.3.2}%
+\contentsline {paragraph}{\numberline {4.3.1.3.3}Scrunching}{52}{paragraph.4.3.1.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.1.4}Iniziazione per la RNA polimerasi $\mathbf {II}$}{52}{subsubsection.4.3.1.4}%
+\contentsline {paragraph}{\numberline {4.3.1.4.1}Processo di assemblaggio}{52}{paragraph.4.3.1.4.1}%
+\contentsline {paragraph}{\numberline {4.3.1.4.2}Regolazione}{53}{paragraph.4.3.1.4.2}%
+\contentsline {subparagraph}{\numberline {4.3.1.4.2.1}Enhancers}{53}{subparagraph.4.3.1.4.2.1}%
+\contentsline {subparagraph}{\numberline {4.3.1.4.2.2}Mediatore}{53}{subparagraph.4.3.1.4.2.2}%
+\contentsline {subparagraph}{\numberline {4.3.1.4.2.3}Modifica della cromatina}{53}{subparagraph.4.3.1.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.3.1.5}Fattori di trascrizione}{53}{subsubsection.4.3.1.5}%
+\contentsline {subsubsection}{\numberline {4.3.1.6}Attivatori, mediatori e proteine per la modifica della cromatina}{53}{subsubsection.4.3.1.6}%
+\contentsline {subsection}{\numberline {4.3.2}Allungamento}{53}{subsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.1}Meccanismi di correzione}{53}{subsubsection.4.3.2.1}%
+\contentsline {paragraph}{\numberline {4.3.2.1.1}Editing pirofosforico}{53}{paragraph.4.3.2.1.1}%
+\contentsline {paragraph}{\numberline {4.3.2.1.2}Editing idrolitico}{53}{paragraph.4.3.2.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.2}Andamento dell'allungamento}{53}{subsubsection.4.3.2.2}%
+\contentsline {paragraph}{\numberline {4.3.2.2.1}Fattori di allungamento}{53}{paragraph.4.3.2.2.1}%
+\contentsline {paragraph}{\numberline {4.3.2.2.2}Tensione superelicale}{54}{paragraph.4.3.2.2.2}%
+\contentsline {subsubsection}{\numberline {4.3.2.3}Processamento del RNA}{54}{subsubsection.4.3.2.3}%
+\contentsline {paragraph}{\numberline {4.3.2.3.1}Terminazioni}{54}{paragraph.4.3.2.3.1}%
+\contentsline {paragraph}{\numberline {4.3.2.3.2}RNA splicing}{54}{paragraph.4.3.2.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Terminazione}{54}{subsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.3.1}Procarioti}{54}{subsubsection.4.3.3.1}%
+\contentsline {paragraph}{\numberline {4.3.3.1.1}Rho indipendente}{54}{paragraph.4.3.3.1.1}%
+\contentsline {paragraph}{\numberline {4.3.3.1.2}Rho dipendente}{54}{paragraph.4.3.3.1.2}%
+\contentsline {subsubsection}{\numberline {4.3.3.2}Eucarioti}{54}{subsubsection.4.3.3.2}%
+\contentsline {paragraph}{\numberline {4.3.3.2.1}Modello a torpedo}{54}{paragraph.4.3.3.2.1}%
+\contentsline {paragraph}{\numberline {4.3.3.2.2}Modello allosterico}{54}{paragraph.4.3.3.2.2}%
+\contentsline {section}{\numberline {4.4}Trasporto tra nucleo e citoplasma}{54}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Complessi coinvolti}{55}{subsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.1}Complesso di importazione}{55}{subsubsection.4.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.4.1.2}Complesso di esportazione}{55}{subsubsection.4.4.1.2}%
+\contentsline {subsection}{\numberline {4.4.2}Verificare la localizzazione}{55}{subsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.2.1}Eterocaryon essay}{55}{subsubsection.4.4.2.1}%
+\contentsline {subsection}{\numberline {4.4.3}Processo di importo ed esporto}{55}{subsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.3.1}Importazione}{55}{subsubsection.4.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.4.3.2}Esportazione}{55}{subsubsection.4.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.4.3.3}Leptomicina $\mathbf {B}$}{55}{subsubsection.4.4.3.3}%
+\contentsline {section}{\numberline {4.5}Meccanismi di regolazione della trascrizione e dell'espressione genica}{56}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Operoni}{56}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Induzione}{56}{subsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.2.1}Induzione a controllo negativo}{56}{subsubsection.4.5.2.1}%
+\contentsline {subsubsection}{\numberline {4.5.2.2}Induzione a controllo positivo}{56}{subsubsection.4.5.2.2}%
+\contentsline {subsection}{\numberline {4.5.3}Repressione}{56}{subsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.3.1}Repressione a controllo negativo}{56}{subsubsection.4.5.3.1}%
+\contentsline {subsubsection}{\numberline {4.5.3.2}Repressione a controllo positivo}{56}{subsubsection.4.5.3.2}%
+\contentsline {subsection}{\numberline {4.5.4}Enhancer}{56}{subsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.4.1}Caratteristiche}{56}{subsubsection.4.5.4.1}%
+\contentsline {subsubsection}{\numberline {4.5.4.2}Domini caratteristici}{57}{subsubsection.4.5.4.2}%
+\contentsline {paragraph}{\numberline {4.5.4.2.1}Helix-Turn-Helix}{57}{paragraph.4.5.4.2.1}%
+\contentsline {paragraph}{\numberline {4.5.4.2.2}Domini zinc-finger}{57}{paragraph.4.5.4.2.2}%
+\contentsline {paragraph}{\numberline {4.5.4.2.3}Leucine zipper}{57}{paragraph.4.5.4.2.3}%
+\contentsline {subsection}{\numberline {4.5.5}Esempi}{57}{subsection.4.5.5}%
+\contentsline {subsubsection}{\numberline {4.5.5.1}Operone \emph {lac}}{57}{subsubsection.4.5.5.1}%
+\contentsline {paragraph}{\numberline {4.5.5.1.1}Repressione da catabolita}{57}{paragraph.4.5.5.1.1}%
+\contentsline {subparagraph}{\numberline {4.5.5.1.1.1}Assenza di glucosio e lattosio}{57}{subparagraph.4.5.5.1.1.1}%
+\contentsline {subparagraph}{\numberline {4.5.5.1.1.2}Assenza di lattosio e presenza di glucosio}{57}{subparagraph.4.5.5.1.1.2}%
+\contentsline {subparagraph}{\numberline {4.5.5.1.1.3}Presenza di glucosio e lattosio}{57}{subparagraph.4.5.5.1.1.3}%
+\contentsline {subparagraph}{\numberline {4.5.5.1.1.4}Presenza di lattosio e assenza di glucosio}{57}{subparagraph.4.5.5.1.1.4}%
+\contentsline {subsubsection}{\numberline {4.5.5.2}Operone triptofano}{57}{subsubsection.4.5.5.2}%
+\contentsline {paragraph}{\numberline {4.5.5.2.1}Struttura}{57}{paragraph.4.5.5.2.1}%
+\contentsline {paragraph}{\numberline {4.5.5.2.2}Meccanismo di regolazione}{58}{paragraph.4.5.5.2.2}%
+\contentsline {subparagraph}{\numberline {4.5.5.2.2.1}Assenza di triptofano}{58}{subparagraph.4.5.5.2.2.1}%
+\contentsline {subparagraph}{\numberline {4.5.5.2.2.2}Presenza di triptofano}{58}{subparagraph.4.5.5.2.2.2}%
+\contentsline {section}{\numberline {4.6}Modifiche post-trascrizionali}{58}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Capping}{58}{subsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.1}Funzione}{58}{subsubsection.4.6.1.1}%
+\contentsline {subsubsection}{\numberline {4.6.1.2}Processo}{58}{subsubsection.4.6.1.2}%
+\contentsline {subsubsection}{\numberline {4.6.1.3}Riconoscimento}{58}{subsubsection.4.6.1.3}%
+\contentsline {subsubsection}{\numberline {4.6.1.4}Assenza del cappuccio}{58}{subsubsection.4.6.1.4}%
+\contentsline {subsection}{\numberline {4.6.2}Poliadenilazione}{59}{subsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.1}Funzione}{59}{subsubsection.4.6.2.1}%
+\contentsline {subsubsection}{\numberline {4.6.2.2}Riconoscimento}{59}{subsubsection.4.6.2.2}%
+\contentsline {subsubsection}{\numberline {4.6.2.3}Processamento del RNA}{59}{subsubsection.4.6.2.3}%
+\contentsline {subsubsection}{\numberline {4.6.2.4}Lunghezza della coda}{59}{subsubsection.4.6.2.4}%
+\contentsline {paragraph}{\numberline {4.6.2.4.1}PCR poliA test \emph {PAT}}{59}{paragraph.4.6.2.4.1}%
+\contentsline {subsubsection}{\numberline {4.6.2.5}Distrofia muscolare oculo-faringe}{59}{subsubsection.4.6.2.5}%
+\contentsline {paragraph}{\numberline {4.6.2.5.1}Analisi clinica}{59}{paragraph.4.6.2.5.1}%
+\contentsline {paragraph}{\numberline {4.6.2.5.2}Analisi molecolare}{60}{paragraph.4.6.2.5.2}%
+\contentsline {subsection}{\numberline {4.6.3}Splicing}{60}{subsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.1}Caratterizzazione RNA}{60}{subsubsection.4.6.3.1}%
+\contentsline {paragraph}{\numberline {4.6.3.1.1}Esoni}{60}{paragraph.4.6.3.1.1}%
+\contentsline {paragraph}{\numberline {4.6.3.1.2}Introni}{60}{paragraph.4.6.3.1.2}%
+\contentsline {paragraph}{\numberline {4.6.3.1.3}Confini}{60}{paragraph.4.6.3.1.3}%
+\contentsline {subsubsection}{\numberline {4.6.3.2}Nuclear speckles}{60}{subsubsection.4.6.3.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.3}Tipologie di introni}{60}{subsubsection.4.6.3.3}%
+\contentsline {paragraph}{\numberline {4.6.3.3.1}Introni auto-catalitici di gruppo $\mathbf {I}$}{60}{paragraph.4.6.3.3.1}%
+\contentsline {subparagraph}{\numberline {4.6.3.3.1.1}Homing}{60}{subparagraph.4.6.3.3.1.1}%
+\contentsline {paragraph}{\numberline {4.6.3.3.2}Introni del gruppo $mathbf{II}$}{60}{paragraph.4.6.3.3.2}%
+\contentsline {subparagraph}{\numberline {4.6.3.3.2.1}Retro-homing}{60}{subparagraph.4.6.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {4.6.3.4}Trans-splicing}{61}{subsubsection.4.6.3.4}%
+\contentsline {subsubsection}{\numberline {4.6.3.5}Splicing del tRNA}{61}{subsubsection.4.6.3.5}%
+\contentsline {subsubsection}{\numberline {4.6.3.6}Spliceosomi}{61}{subsubsection.4.6.3.6}%
+\contentsline {paragraph}{\numberline {4.6.3.6.1}Struttura}{61}{paragraph.4.6.3.6.1}%
+\contentsline {paragraph}{\numberline {4.6.3.6.2}Funzioni}{61}{paragraph.4.6.3.6.2}%
+\contentsline {paragraph}{\numberline {4.6.3.6.3}Siti di splicing}{61}{paragraph.4.6.3.6.3}%
+\contentsline {paragraph}{\numberline {4.6.3.6.4}Fattori coinvolti}{61}{paragraph.4.6.3.6.4}%
+\contentsline {paragraph}{\numberline {4.6.3.6.5}Meccanismo di splicing}{62}{paragraph.4.6.3.6.5}%
+\contentsline {paragraph}{\numberline {4.6.3.6.6}Exon junction complex \emph {EJC}}{62}{paragraph.4.6.3.6.6}%
+\contentsline {paragraph}{\numberline {4.6.3.6.7}Struttura cromatinica}{62}{paragraph.4.6.3.6.7}%
+\contentsline {subparagraph}{\numberline {4.6.3.6.7.1}Tasso di movimento}{62}{subparagraph.4.6.3.6.7.1}%
+\contentsline {subparagraph}{\numberline {4.6.3.6.7.2}Modifiche agli istoni}{62}{subparagraph.4.6.3.6.7.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.7}Splicing alternativo}{62}{subsubsection.4.6.3.7}%
+\contentsline {paragraph}{\numberline {4.6.3.7.1}Esempi}{62}{paragraph.4.6.3.7.1}%
+\contentsline {subparagraph}{\numberline {4.6.3.7.1.1}\emph {caMK2}}{62}{subparagraph.4.6.3.7.1.1}%
+\contentsline {subparagraph}{\numberline {4.6.3.7.1.2}Gene fruitless}{63}{subparagraph.4.6.3.7.1.2}%
+\contentsline {subsubsection}{\numberline {4.6.3.8}Minigeni}{63}{subsubsection.4.6.3.8}%
+\contentsline {subsubsection}{\numberline {4.6.3.9}Determinazione del sesso in Drosophila melanogaster}{63}{subsubsection.4.6.3.9}%
+\contentsline {subsection}{\numberline {4.6.4}RNA editing}{63}{subsection.4.6.4}%
+\contentsline {subsubsection}{\numberline {4.6.4.1}Effetti}{63}{subsubsection.4.6.4.1}%
+\contentsline {subsubsection}{\numberline {4.6.4.2}Tipologie di editing}{63}{subsubsection.4.6.4.2}%
+\contentsline {subsubsection}{\numberline {4.6.4.3}Processo}{63}{subsubsection.4.6.4.3}%
+\contentsline {subsubsection}{\numberline {4.6.4.4}Editing da citosina a uracile}{64}{subsubsection.4.6.4.4}%
+\contentsline {paragraph}{\numberline {4.6.4.4.1}Esempi}{64}{paragraph.4.6.4.4.1}%
+\contentsline {subparagraph}{\numberline {4.6.4.4.1.1}\emph {apoB}}{64}{subparagraph.4.6.4.4.1.1}%
+\contentsline {paragraph}{\numberline {4.6.4.4.2}Neurofibromatosi}{64}{paragraph.4.6.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.6.4.5}Editing da adenosina a iosina}{64}{subsubsection.4.6.4.5}%
+\contentsline {paragraph}{\numberline {4.6.4.5.1}Esempi}{64}{paragraph.4.6.4.5.1}%
+\contentsline {subparagraph}{\numberline {4.6.4.5.1.1}ADAR}{64}{subparagraph.4.6.4.5.1.1}%
+\contentsline {subsubsection}{\numberline {4.6.4.6}MicroRNA editing}{64}{subsubsection.4.6.4.6}%
+\contentsline {subsection}{\numberline {4.6.5}Funzioni delle modifiche}{64}{subsection.4.6.5}%
+\contentsline {chapter}{\numberline {5}Trasporto e localizzazione di RNA}{65}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Motivi del trasporto di RNA}{65}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Efficienza}{65}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Sicurezza}{65}{subsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.2.1}Velocit\`a}{65}{subsubsection.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {5.1.2.2}Controllo della degradazione}{65}{subsubsection.5.1.2.2}%
+\contentsline {section}{\numberline {5.2}RNA trasportati}{65}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}RNA localizzati nel compartimento dendridico}{65}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}RNA localizzati nell'oocita di Drosophila}{66}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Lievito}{66}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Meccanismo di trasporto}{66}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Fattori coinvolti}{66}{subsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.1}Cis-acting elements}{66}{subsubsection.5.3.1.1}%
+\contentsline {paragraph}{\numberline {5.3.1.1.1}Esempi}{66}{paragraph.5.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {5.3.1.2}Trans-acting factors}{66}{subsubsection.5.3.1.2}%
+\contentsline {paragraph}{\numberline {5.3.1.2.1}Esempi}{66}{paragraph.5.3.1.2.1}%
+\contentsline {paragraph}{\numberline {5.3.1.2.2}Staufen}{66}{paragraph.5.3.1.2.2}%
+\contentsline {subparagraph}{\numberline {5.3.1.2.2.1}\emph {mStaufen1}}{67}{subparagraph.5.3.1.2.2.1}%
+\contentsline {subparagraph}{\numberline {5.3.1.2.2.2}\emph {mStaufen2}}{67}{subparagraph.5.3.1.2.2.2}%
+\contentsline {paragraph}{\numberline {5.3.1.2.3}Pumulio}{67}{paragraph.5.3.1.2.3}%
+\contentsline {subparagraph}{\numberline {5.3.1.2.3.1}\emph {Pum2}}{67}{subparagraph.5.3.1.2.3.1}%
+\contentsline {subparagraph}{\numberline {5.3.1.2.3.2}Granuli di stress}{67}{subparagraph.5.3.1.2.3.2}%
+\contentsline {subparagraph}{\numberline {5.3.1.2.3.3}Processing bodies}{67}{subparagraph.5.3.1.2.3.3}%
+\contentsline {chapter}{\numberline {6}Traduzione}{68}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Ribosomi}{68}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Struttura}{68}{subsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.1.1}Subunit\`a minore}{68}{subsubsection.6.1.1.1}%
+\contentsline {paragraph}{\numberline {6.1.1.1.1}Procarioti}{68}{paragraph.6.1.1.1.1}%
+\contentsline {paragraph}{\numberline {6.1.1.1.2}Eucarioti}{68}{paragraph.6.1.1.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.1.2}Subunit\`a maggiore}{68}{subsubsection.6.1.1.2}%
+\contentsline {paragraph}{\numberline {6.1.1.2.1}Procarioti}{68}{paragraph.6.1.1.2.1}%
+\contentsline {paragraph}{\numberline {6.1.1.2.2}Eucarioti}{69}{paragraph.6.1.1.2.2}%
+\contentsline {subsubsection}{\numberline {6.1.1.3}Subunit\`a assemblate}{69}{subsubsection.6.1.1.3}%
+\contentsline {subsection}{\numberline {6.1.2}Assemblaggio}{69}{subsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}Processo}{69}{subsubsection.6.1.2.1}%
+\contentsline {subsection}{\numberline {6.1.3}rRNA}{69}{subsection.6.1.3}%
+\contentsline {subsubsection}{\numberline {6.1.3.1}Funzioni}{69}{subsubsection.6.1.3.1}%
+\contentsline {subsubsection}{\numberline {6.1.3.2}Struttura}{70}{subsubsection.6.1.3.2}%
+\contentsline {subsubsection}{\numberline {6.1.3.3}Sintesi}{70}{subsubsection.6.1.3.3}%
+\contentsline {subsection}{\numberline {6.1.4}tRNA}{70}{subsection.6.1.4}%
+\contentsline {subsubsection}{\numberline {6.1.4.1}Struttura}{70}{subsubsection.6.1.4.1}%
+\contentsline {subsubsection}{\numberline {6.1.4.2}Notazione}{70}{subsubsection.6.1.4.2}%
+\contentsline {paragraph}{\numberline {6.1.4.2.1}tRNA scarico}{70}{paragraph.6.1.4.2.1}%
+\contentsline {paragraph}{\numberline {6.1.4.2.2}tRNA carico}{70}{paragraph.6.1.4.2.2}%
+\contentsline {subsubsection}{\numberline {6.1.4.3}Caricamento}{70}{subsubsection.6.1.4.3}%
+\contentsline {paragraph}{\numberline {6.1.4.3.1}Controllo del caricamento}{70}{paragraph.6.1.4.3.1}%
+\contentsline {section}{\numberline {6.2}Fasi della traduzione}{71}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Inizio}{71}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}Proacarioti}{71}{subsubsection.6.2.1.1}%
+\contentsline {paragraph}{\numberline {6.2.1.1.1}Fattori coinvolti}{71}{paragraph.6.2.1.1.1}%
+\contentsline {paragraph}{\numberline {6.2.1.1.2}Processo}{71}{paragraph.6.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}Eucarioti}{71}{subsubsection.6.2.1.2}%
+\contentsline {paragraph}{\numberline {6.2.1.2.1}Fattori coinvolti}{71}{paragraph.6.2.1.2.1}%
+\contentsline {paragraph}{\numberline {6.2.1.2.2}Processo}{71}{paragraph.6.2.1.2.2}%
+\contentsline {paragraph}{\numberline {6.2.1.2.3}Processamento del mRNA}{72}{paragraph.6.2.1.2.3}%
+\contentsline {subparagraph}{\numberline {6.2.1.2.3.1}Cap}{72}{subparagraph.6.2.1.2.3.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.3}\emph {IRES}}{72}{subsubsection.6.2.1.3}%
+\contentsline {subsection}{\numberline {6.2.2}Allungamento}{72}{subsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.1}Condizione di partenza}{72}{subsubsection.6.2.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2.2}Arrivo di un tRNA}{72}{subsubsection.6.2.2.2}%
+\contentsline {paragraph}{\numberline {6.2.2.2.1}Riconoscimento del tRNA}{72}{paragraph.6.2.2.2.1}%
+\contentsline {subparagraph}{\numberline {6.2.2.2.1.1}Appaiamento corretto}{72}{subparagraph.6.2.2.2.1.1}%
+\contentsline {subparagraph}{\numberline {6.2.2.2.1.2}Appaiamento scorretto}{72}{subparagraph.6.2.2.2.1.2}%
+\contentsline {paragraph}{\numberline {6.2.2.2.2}Formazione del legame peptidico}{73}{paragraph.6.2.2.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.2.3}Dopo la formazione del legame peptidico}{73}{subsubsection.6.2.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.2.4}Proteina nascente}{73}{subsubsection.6.2.2.4}%
+\contentsline {subsection}{\numberline {6.2.3}Terminazione}{73}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Inibitori della sintesi proteica}{73}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Segnalazione cellulare: trasduzione del segnale}{74}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Panoramica}{74}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Tipologie di risposte}{74}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.1}Risposta lenta}{74}{subsubsection.7.1.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.2}Risposta veloce}{74}{subsubsection.7.1.1.2}%
+\contentsline {section}{\numberline {7.2}Modelli di comunicazione delle cellule}{74}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Comunicazione contatto dipendente}{74}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Comunicazione paracrina}{74}{subsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.2.3}Comunicazione sinaptica}{75}{subsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.2.4}Comunicazione endocrina}{75}{subsection.7.2.4}%
+\contentsline {subsubsection}{\numberline {7.2.4.1}Confronto con comunicazione sinaptica}{75}{subsubsection.7.2.4.1}%
+\contentsline {subsection}{\numberline {7.2.5}Comunicazione tramite gap-junction}{75}{subsection.7.2.5}%
+\contentsline {subsubsection}{\numberline {7.2.5.1}Connessine}{75}{subsubsection.7.2.5.1}%
+\contentsline {paragraph}{\numberline {7.2.5.1.1}Canali}{75}{paragraph.7.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {7.2.5.2}Chiusura del canale}{75}{subsubsection.7.2.5.2}%
+\contentsline {section}{\numberline {7.3}Trasmissione sinaptica}{76}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Acetilcolina}{76}{subsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.1.1}Processo di segnalazione}{76}{subsubsection.7.3.1.1}%
+\contentsline {subsubsection}{\numberline {7.3.1.2}Miastenia gravis}{76}{subsubsection.7.3.1.2}%
+\contentsline {section}{\numberline {7.4}Recettori}{76}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Canali ionici}{76}{subsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.1.1}Esempi}{76}{subsubsection.7.4.1.1}%
+\contentsline {paragraph}{\numberline {7.4.1.1.1}Cervello}{76}{paragraph.7.4.1.1.1}%
+\contentsline {paragraph}{\numberline {7.4.1.1.2}Muscoli}{77}{paragraph.7.4.1.1.2}%
+\contentsline {subsubsection}{\numberline {7.4.1.2}Recettore nicotinico}{77}{subsubsection.7.4.1.2}%
+\contentsline {subsection}{\numberline {7.4.2}Recettori di superficie collegati a proteina \emph {G}}{77}{subsection.7.4.2}%
+\contentsline {subsubsection}{\numberline {7.4.2.1}Recettore muscarinico}{77}{subsubsection.7.4.2.1}%
+\contentsline {subsection}{\numberline {7.4.3}Recettori di superficie collegati ad enzimi}{77}{subsection.7.4.3}%
+\contentsline {section}{\numberline {7.5}Messaggeri}{77}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Ossido di azoto}{77}{subsection.7.5.1}%
+\contentsline {subsubsection}{\numberline {7.5.1.1}Effetto sulla muscolatura}{77}{subsubsection.7.5.1.1}%
+\contentsline {paragraph}{\numberline {7.5.1.1.1}Processo}{77}{paragraph.7.5.1.1.1}%
+\contentsline {paragraph}{\numberline {7.5.1.1.2}Viagra}{78}{paragraph.7.5.1.1.2}%
+\contentsline {subsection}{\numberline {7.5.2}Ormoni steroidei}{78}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Messaggeri secondari}{78}{subsection.7.5.3}%
+\contentsline {subsubsection}{\numberline {7.5.3.1}Esempi}{78}{subsubsection.7.5.3.1}%
+\contentsline {section}{\numberline {7.6}Molecular switches}{78}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Tipologie}{78}{subsection.7.6.1}%
+\contentsline {subsubsection}{\numberline {7.6.1.1}Molecole sensibili alle fosforilazione}{78}{subsubsection.7.6.1.1}%
+\contentsline {subsubsection}{\numberline {7.6.1.2}Molecole legate all'idrolisi di \emph {GTP}}{78}{subsubsection.7.6.1.2}%
+\contentsline {paragraph}{\numberline {7.6.1.2.1}Processo di attivazione}{78}{paragraph.7.6.1.2.1}%
+\contentsline {paragraph}{\numberline {7.6.1.2.2}Fattori coinvolti}{79}{paragraph.7.6.1.2.2}%
+\contentsline {subparagraph}{\numberline {7.6.1.2.2.1}\emph {GEF}}{79}{subparagraph.7.6.1.2.2.1}%
+\contentsline {subparagraph}{\numberline {7.6.1.2.2.2}\emph {GAP}}{79}{subparagraph.7.6.1.2.2.2}%
+\contentsline {paragraph}{\numberline {7.6.1.2.3}Esempi}{79}{paragraph.7.6.1.2.3}%
+\contentsline {subparagraph}{\numberline {7.6.1.2.3.1}Famiglia \emph {Rho}}{79}{subparagraph.7.6.1.2.3.1}%
+\contentsline {subparagraph}{\numberline {7.6.1.2.3.2}Famiglia \emph {Ras}}{79}{subparagraph.7.6.1.2.3.2}%
+\contentsline {subsection}{\numberline {7.6.2}Proteine \emph {G} trimeriche}{79}{subsection.7.6.2}%
+\contentsline {subsubsection}{\numberline {7.6.2.1}Recettori}{79}{subsubsection.7.6.2.1}%
+\contentsline {paragraph}{\numberline {7.6.2.1.1}Struttura}{79}{paragraph.7.6.2.1.1}%
+\contentsline {paragraph}{\numberline {7.6.2.1.2}Recettore muscarinico}{79}{paragraph.7.6.2.1.2}%
+\contentsline {subsubsection}{\numberline {7.6.2.2}Struttura}{80}{subsubsection.7.6.2.2}%
+\contentsline {paragraph}{\numberline {7.6.2.2.1}Subunit\`a}{80}{paragraph.7.6.2.2.1}%
+\contentsline {subparagraph}{\numberline {7.6.2.2.1.1}Stato non stimolato}{80}{subparagraph.7.6.2.2.1.1}%
+\contentsline {subparagraph}{\numberline {7.6.2.2.1.2}Stato stimolato}{80}{subparagraph.7.6.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {7.6.2.3}Attivazione}{80}{subsubsection.7.6.2.3}%
+\contentsline {subsubsection}{\numberline {7.6.2.4}Disattivazione}{80}{subsubsection.7.6.2.4}%
+\contentsline {subsubsection}{\numberline {7.6.2.5}Effettori}{80}{subsubsection.7.6.2.5}%
+\contentsline {paragraph}{\numberline {7.6.2.5.1}\emph {AMP} ciclico \emph {cAMP}}{80}{paragraph.7.6.2.5.1}%
+\contentsline {subparagraph}{\numberline {7.6.2.5.1.1}Sintesi}{80}{subparagraph.7.6.2.5.1.1}%
+\contentsline {subparagraph}{\numberline {7.6.2.5.1.2}Degradazione}{81}{subparagraph.7.6.2.5.1.2}%
+\contentsline {subparagraph}{\numberline {7.6.2.5.1.3}\emph {Gs} e \emph {Gi} sono bersaglio di tossine batteriche}{81}{subparagraph.7.6.2.5.1.3}%
+\contentsline {subparagraph}{\numberline {7.6.2.5.1.4}Colera}{81}{subparagraph.7.6.2.5.1.4}%
+\contentsline {subsubsection}{\numberline {7.6.2.6}Modulazione di un effettore}{81}{subsubsection.7.6.2.6}%
+\contentsline {section}{\numberline {7.7}Regolazione di un recettore}{81}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}Esempio}{81}{subsection.7.7.1}%
+\contentsline {subsubsection}{\numberline {7.7.1.1}\emph {PKA}}{81}{subsubsection.7.7.1.1}%
+\contentsline {paragraph}{\numberline {7.7.1.1.1}Stato inattivo}{82}{paragraph.7.7.1.1.1}%
+\contentsline {paragraph}{\numberline {7.7.1.1.2}Stato attivo}{82}{paragraph.7.7.1.1.2}%
+\contentsline {subsubsection}{\numberline {7.7.1.2}\emph {CREB}}{82}{subsubsection.7.7.1.2}%
+\contentsline {subsection}{\numberline {7.7.2}Vie attivate da \emph {cAMP}}{82}{subsection.7.7.2}%
+\contentsline {subsubsection}{\numberline {7.7.2.1}Ormoni coinvolti}{82}{subsubsection.7.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.7.2.2}Via di segnalazione}{82}{subsubsection.7.7.2.2}%
+\contentsline {section}{\numberline {7.8}Inositolo 3 fosfato}{82}{section.7.8}%
+\contentsline {subsection}{\numberline {7.8.1}Sintesi}{82}{subsection.7.8.1}%
+\contentsline {subsection}{\numberline {7.8.2}Caratteristiche}{83}{subsection.7.8.2}%
+\contentsline {subsection}{\numberline {7.8.3}Diaglicerolo}{83}{subsection.7.8.3}%
+\contentsline {subsection}{\numberline {7.8.4}Calcio}{83}{subsection.7.8.4}%
+\contentsline {subsubsection}{\numberline {7.8.4.1}Mantenimento dei bassi livelli di calcio}{83}{subsubsection.7.8.4.1}%
+\contentsline {subsubsection}{\numberline {7.8.4.2}Meccanismo di compartimentazione}{83}{subsubsection.7.8.4.2}%
+\contentsline {subsubsection}{\numberline {7.8.4.3}Utilizzi}{83}{subsubsection.7.8.4.3}%
+\contentsline {paragraph}{\numberline {7.8.4.3.1}Fecondazione}{83}{paragraph.7.8.4.3.1}%
+\contentsline {paragraph}{\numberline {7.8.4.3.2}Sistema nervoso}{84}{paragraph.7.8.4.3.2}%
+\contentsline {subsubsection}{\numberline {7.8.4.4}Calmodulina}{84}{subsubsection.7.8.4.4}%
+\contentsline {paragraph}{\numberline {7.8.4.4.1}Struttura}{84}{paragraph.7.8.4.4.1}%
+\contentsline {paragraph}{\numberline {7.8.4.4.2}Legame con il calcio}{84}{paragraph.7.8.4.4.2}%
+\contentsline {subsection}{\numberline {7.8.5}Recettori del sistema olfattivo}{84}{subsection.7.8.5}%
+\contentsline {subsubsection}{\numberline {7.8.5.1}Funzionamento dei recettori}{84}{subsubsection.7.8.5.1}%
+\contentsline {subsection}{\numberline {7.8.6}Recettori del sistema visivo}{84}{subsection.7.8.6}%
+\contentsline {subsubsection}{\numberline {7.8.6.1}Funzionamento dell'occhio}{85}{subsubsection.7.8.6.1}%
+\contentsline {paragraph}{\numberline {7.8.6.1.1}Retina}{85}{paragraph.7.8.6.1.1}%
+\contentsline {paragraph}{\numberline {7.8.6.1.2}Visione stereoscopica dei mammiferi}{85}{paragraph.7.8.6.1.2}%
+\contentsline {paragraph}{\numberline {7.8.6.1.3}Embrione di pollo}{85}{paragraph.7.8.6.1.3}%
+\contentsline {paragraph}{\numberline {7.8.6.1.4}Zebrafish}{85}{paragraph.7.8.6.1.4}%
+\contentsline {paragraph}{\numberline {7.8.6.1.5}Mutanti della retina}{85}{paragraph.7.8.6.1.5}%
+\contentsline {subsubsection}{\numberline {7.8.6.2}Trasduzione del segnale visivo}{85}{subsubsection.7.8.6.2}%
+\contentsline {paragraph}{\numberline {7.8.6.2.1}Fotorecettori}{85}{paragraph.7.8.6.2.1}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.1}Bastoncelli}{86}{subparagraph.7.8.6.2.1.1}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.2}Coni}{86}{subparagraph.7.8.6.2.1.2}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.3}Cromoforo}{86}{subparagraph.7.8.6.2.1.3}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.4}Attivazione}{86}{subparagraph.7.8.6.2.1.4}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.5}Condizioni di buio}{86}{subparagraph.7.8.6.2.1.5}%
+\contentsline {subparagraph}{\numberline {7.8.6.2.1.6}Condizioni di luce}{86}{subparagraph.7.8.6.2.1.6}%
+\contentsline {paragraph}{\numberline {7.8.6.2.2}Tipologie di neurotrasmettitore}{86}{paragraph.7.8.6.2.2}%
+\contentsline {section}{\numberline {7.9}Recettori ad attivit\`a enzimatica intrinseca}{86}{section.7.9}%
+\contentsline {subsection}{\numberline {7.9.1}Classificazione}{86}{subsection.7.9.1}%
+\contentsline {subsection}{\numberline {7.9.2}Recettori tirosina chinasi \emph {RTK}}{87}{subsection.7.9.2}%
+\contentsline {subsection}{\numberline {7.9.3}Recettori per le citochine}{87}{subsection.7.9.3}%
+\contentsline {subsubsection}{\numberline {7.9.3.1}\emph {JAK-STAT}}{87}{subsubsection.7.9.3.1}%
+\contentsline {paragraph}{\numberline {7.9.3.1.1}Fosforilaizone del recettore}{87}{paragraph.7.9.3.1.1}%
+\contentsline {paragraph}{\numberline {7.9.3.1.2}Processo di attivazione trascrizionale}{87}{paragraph.7.9.3.1.2}%
+\contentsline {subsection}{\numberline {7.9.4}Recettori con attivit\`a chinasica}{87}{subsection.7.9.4}%
+\contentsline {subsubsection}{\numberline {7.9.4.1}Superfamiglia del fattore \emph {TFG$\mathbf {\beta }$}}{88}{subsubsection.7.9.4.1}%
+\contentsline {paragraph}{\numberline {7.9.4.1.1}Recettori}{88}{paragraph.7.9.4.1.1}%
+\contentsline {paragraph}{\numberline {7.9.4.1.2}Trasmissione del segnale al nucleo}{88}{paragraph.7.9.4.1.2}%
+\contentsline {paragraph}{\numberline {7.9.4.1.3}Inibizione della trasduzione del segnale}{88}{paragraph.7.9.4.1.3}%
+\contentsline {paragraph}{\numberline {7.9.4.1.4}Meccanismi di inibizione}{88}{paragraph.7.9.4.1.4}%
+\contentsline {subparagraph}{\numberline {7.9.4.1.4.1}\emph {SMURF}}{88}{subparagraph.7.9.4.1.4.1}%
+\contentsline {subparagraph}{\numberline {7.9.4.1.4.2}Fosfatasi}{88}{subparagraph.7.9.4.1.4.2}%
+\contentsline {section}{\numberline {7.10}Esempi}{88}{section.7.10}%
+\contentsline {subsection}{\numberline {7.10.1}\emph {GLI3}}{88}{subsection.7.10.1}%
+\contentsline {section}{\numberline {7.11}OLD}{89}{section.7.11}%
+\contentsline {section}{\numberline {7.12}Effetto dell'acetilcolina sul cuore}{95}{section.7.12}%
+\contentsline {section}{\numberline {7.13}Recettori del sistema olfattivo}{95}{section.7.13}%
+\contentsline {section}{\numberline {7.14}Trasduzione visiva}{96}{section.7.14}%
+\contentsline {section}{\numberline {7.15}Lezione 16}{97}{section.7.15}%
+\contentsline {section}{\numberline {7.16}Recettori ad attivit\`a enzimatica intrinseca}{99}{section.7.16}%
+\contentsline {subsection}{\numberline {7.16.1}recettori associati a tirosina chinasi}{100}{subsection.7.16.1}%
+\contentsline {chapter}{\numberline {8}Membrana}{102}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Organelli}{104}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Trafficking tra nucleo e citoplasma}{106}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Trasporto in mitocondri e plastidi}{109}{subsection.9.1.1}%
+\contentsline {section}{\numberline {9.2}Perossisomi}{110}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Reticolo endoplasmatico}{111}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Traffico intracellulare di vescicole}{116}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Apparato del Golgi}{119}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Lisosomi}{120}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Endosomi}{121}{section.9.7}%
+\contentsline {chapter}{\numberline {10}Citoscheletro}{125}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Actina}{125}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Microtubuli}{129}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Filamenti intermedi}{131}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Movimento cellulare}{132}{section.10.4}%
+\contentsline {chapter}{\numberline {11}Esperienza di laboratorio}{134}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Giorno 1 - esame di uno striscio di sangue}{134}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Descrizione}{134}{subsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.1.1}Dati raccolti}{134}{subsubsection.11.1.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.1.2}Risvolti clinici}{134}{subsubsection.11.1.1.2}%
+\contentsline {subsection}{\numberline {11.1.2}Allestimento di uno striscio}{134}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}Qualit\`a dello striscio}{135}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Colorazione dello striscio}{135}{subsection.11.1.4}%
+\contentsline {subsubsection}{\numberline {11.1.4.1}Eosina}{135}{subsubsection.11.1.4.1}%
+\contentsline {subsubsection}{\numberline {11.1.4.2}Coloranti tiazinici}{135}{subsubsection.11.1.4.2}%
+\contentsline {subsubsection}{\numberline {11.1.4.3}Procedimento}{135}{subsubsection.11.1.4.3}%
+\contentsline {paragraph}{\numberline {11.1.4.3.1}Montare il vetrino}{135}{paragraph.11.1.4.3.1}%
+\contentsline {subsection}{\numberline {11.1.5}Esame dei vetrini}{136}{subsection.11.1.5}%
+\contentsline {subsubsection}{\numberline {11.1.5.1}Globuli rossi}{136}{subsubsection.11.1.5.1}%
+\contentsline {paragraph}{\numberline {11.1.5.1.1}Tipologie di globuli rossi}{136}{paragraph.11.1.5.1.1}%
+\contentsline {paragraph}{\numberline {11.1.5.1.2}Anemia falciforme}{136}{paragraph.11.1.5.1.2}%
+\contentsline {subparagraph}{\numberline {11.1.5.1.2.1}Sintomi}{136}{subparagraph.11.1.5.1.2.1}%
+\contentsline {subsubsection}{\numberline {11.1.5.2}Piastrine}{137}{subsubsection.11.1.5.2}%
+\contentsline {paragraph}{\numberline {11.1.5.2.1}Trombocitopenia}{137}{paragraph.11.1.5.2.1}%
+\contentsline {subsubsection}{\numberline {11.1.5.3}Globuli bianchi}{137}{subsubsection.11.1.5.3}%
+\contentsline {paragraph}{\numberline {11.1.5.3.1}Conta differenziale}{137}{paragraph.11.1.5.3.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.1.1}Formula leucocitaria}{137}{subparagraph.11.1.5.3.1.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.1.2}Informazioni ottenibili}{137}{subparagraph.11.1.5.3.1.2}%
+\contentsline {paragraph}{\numberline {11.1.5.3.2}Agranulociti - linfociti}{137}{paragraph.11.1.5.3.2}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.2.1}Linfocitopenia}{138}{subparagraph.11.1.5.3.2.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.2.2}Leucocitosi linfocitica}{138}{subparagraph.11.1.5.3.2.2}%
+\contentsline {paragraph}{\numberline {11.1.5.3.3}Agranulociti - monociti}{138}{paragraph.11.1.5.3.3}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.3.1}Monocitosi}{138}{subparagraph.11.1.5.3.3.1}%
+\contentsline {paragraph}{\numberline {11.1.5.3.4}Granulociti - neutrofili}{138}{paragraph.11.1.5.3.4}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.4.1}Formula leucocitaria invertita}{139}{subparagraph.11.1.5.3.4.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.4.2}Leucocitosi neutrofila}{139}{subparagraph.11.1.5.3.4.2}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.4.3}Neutropenia}{139}{subparagraph.11.1.5.3.4.3}%
+\contentsline {paragraph}{\numberline {11.1.5.3.5}Granulociti: basofili}{139}{paragraph.11.1.5.3.5}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.5.1}Basofilia}{139}{subparagraph.11.1.5.3.5.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.5.2}Basopenia}{139}{subparagraph.11.1.5.3.5.2}%
+\contentsline {paragraph}{\numberline {11.1.5.3.6}Granulociti: eosinofili}{139}{paragraph.11.1.5.3.6}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.6.1}Eosinopenia}{140}{subparagraph.11.1.5.3.6.1}%
+\contentsline {subparagraph}{\numberline {11.1.5.3.6.2}Eosinofilia}{140}{subparagraph.11.1.5.3.6.2}%
+\contentsline {subsubsection}{\numberline {11.1.5.4}Distinguere le cellule presenti nel sangue}{140}{subsubsection.11.1.5.4}%
+\contentsline {section}{\numberline {11.2}Giorno 2 - estrazione di proteine e DNA}{140}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Cellule \emph {Hela}}{140}{subsection.11.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.1}Cellule immortalizzate}{140}{subsubsection.11.2.1.1}%
+\contentsline {subsubsection}{\numberline {11.2.1.2}Stato di salute delle cellule}{140}{subsubsection.11.2.1.2}%
+\contentsline {subsubsection}{\numberline {11.2.1.3}Confluenza}{140}{subsubsection.11.2.1.3}%
+\contentsline {subsection}{\numberline {11.2.2}Estrazione di proteine}{141}{subsection.11.2.2}%
+\contentsline {subsubsection}{\numberline {11.2.2.1}Protocollo}{141}{subsubsection.11.2.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2.2}Tampone di lisi - \emph {RIPA buffer}}{141}{subsubsection.11.2.2.2}%
+\contentsline {paragraph}{\numberline {11.2.2.2.1}Composizione}{141}{paragraph.11.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {11.2.2.3}Cell scraping}{141}{subsubsection.11.2.2.3}%
+\contentsline {subsubsection}{\numberline {11.2.2.4}Protocollo di quantificazione}{142}{subsubsection.11.2.2.4}%
+\contentsline {paragraph}{\numberline {11.2.2.4.1}Bradford - metodi colorimetrici}{142}{paragraph.11.2.2.4.1}%
+\contentsline {subparagraph}{\numberline {11.2.2.4.1.1}Colorante libero}{142}{subparagraph.11.2.2.4.1.1}%
+\contentsline {subparagraph}{\numberline {11.2.2.4.1.2}Legato a proteine}{142}{subparagraph.11.2.2.4.1.2}%
+\contentsline {subparagraph}{\numberline {11.2.2.4.1.3}Vantaggi e svantaggi}{142}{subparagraph.11.2.2.4.1.3}%
+\contentsline {paragraph}{\numberline {11.2.2.4.2}Curva standard}{143}{paragraph.11.2.2.4.2}%
+\contentsline {subparagraph}{\numberline {11.2.2.4.2.1}Creazione}{143}{subparagraph.11.2.2.4.2.1}%
+\contentsline {paragraph}{\numberline {11.2.2.4.3}Retta di taratura}{143}{paragraph.11.2.2.4.3}%
+\contentsline {paragraph}{\numberline {11.2.2.4.4}Quantificazione}{143}{paragraph.11.2.2.4.4}%
+\contentsline {paragraph}{\numberline {11.2.2.4.5}Range di lettura}{143}{paragraph.11.2.2.4.5}%
+\contentsline {subsection}{\numberline {11.2.3}Estrazione di DNA}{143}{subsection.11.2.3}%
+\contentsline {subsubsection}{\numberline {11.2.3.1}Protocollo}{143}{subsubsection.11.2.3.1}%
+\contentsline {subsubsection}{\numberline {11.2.3.2}Tampone di lisi \emph {DNA}}{144}{subsubsection.11.2.3.2}%
+\contentsline {subsubsection}{\numberline {11.2.3.3}Precipitazione o floculazione del \emph {DNA}}{144}{subsubsection.11.2.3.3}%
+\contentsline {paragraph}{\numberline {11.2.3.3.1}Metodo di precipitazione}{144}{paragraph.11.2.3.3.1}%
+\contentsline {subparagraph}{\numberline {11.2.3.3.1.1}Sali}{144}{subparagraph.11.2.3.3.1.1}%
+\contentsline {subparagraph}{\numberline {11.2.3.3.1.2}Alcol}{144}{subparagraph.11.2.3.3.1.2}%
+\contentsline {paragraph}{\numberline {11.2.3.3.2}Visualizzare il DNA}{144}{paragraph.11.2.3.3.2}%
+\contentsline {subparagraph}{\numberline {11.2.3.3.2.1}Contaminazioni}{144}{subparagraph.11.2.3.3.2.1}%
+\contentsline {paragraph}{\numberline {11.2.3.3.3}Altre molecole}{145}{paragraph.11.2.3.3.3}%
+\contentsline {section}{\numberline {11.3}Giorno 3 - Colture cellulari}{145}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Disgregazione del tessuto}{145}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Coltura primaria}{145}{subsection.11.3.2}%
+\contentsline {subsection}{\numberline {11.3.3}Linea cellulare}{145}{subsection.11.3.3}%
+\contentsline {subsubsection}{\numberline {11.3.3.1}Finita}{145}{subsubsection.11.3.3.1}%
+\contentsline {subsubsection}{\numberline {11.3.3.2}Continua}{145}{subsubsection.11.3.3.2}%
+\contentsline {subsection}{\numberline {11.3.4}Morfologia della coltura cellulare}{145}{subsection.11.3.4}%
+\contentsline {subsubsection}{\numberline {11.3.4.1}Colture in sospensione}{145}{subsubsection.11.3.4.1}%
+\contentsline {subsubsection}{\numberline {11.3.4.2}Colture in adesione}{146}{subsubsection.11.3.4.2}%
+\contentsline {subsubsection}{\numberline {11.3.4.3}Forma}{146}{subsubsection.11.3.4.3}%
+\contentsline {subsection}{\numberline {11.3.5}Et\`a delle colture}{146}{subsection.11.3.5}%
+\contentsline {subsubsection}{\numberline {11.3.5.1}Passaggi}{146}{subsubsection.11.3.5.1}%
+\contentsline {subsubsection}{\numberline {11.3.5.2}Livello di raddoppio}{146}{subsubsection.11.3.5.2}%
+\contentsline {subsection}{\numberline {11.3.6}Ottenere una coltura cellulare}{146}{subsection.11.3.6}%
+\contentsline {subsection}{\numberline {11.3.7}Applicazioni della coltura cellulare}{146}{subsection.11.3.7}%
+\contentsline {subsection}{\numberline {11.3.8}Ambiente cellulare - terreno di coltura}{147}{subsection.11.3.8}%
+\contentsline {subsubsection}{\numberline {11.3.8.1}Costituenti base}{147}{subsubsection.11.3.8.1}%
+\contentsline {paragraph}{\numberline {11.3.8.1.1}Siero}{147}{paragraph.11.3.8.1.1}%
+\contentsline {subsubsection}{\numberline {11.3.8.2}Mantenimento del $\mathbf {pH}$}{147}{subsubsection.11.3.8.2}%
+\contentsline {paragraph}{\numberline {11.3.8.2.1}Tamponamento naturale}{147}{paragraph.11.3.8.2.1}%
+\contentsline {paragraph}{\numberline {11.3.8.2.2}Tamponamento chimico}{147}{paragraph.11.3.8.2.2}%
+\contentsline {paragraph}{\numberline {11.3.8.2.3}Rosso fenolo}{147}{paragraph.11.3.8.2.3}%
+\contentsline {subsection}{\numberline {11.3.9}Contenitori e strumenti per le colture cellulari}{147}{subsection.11.3.9}%
+\contentsline {subsubsection}{\numberline {11.3.9.1}Contenitori per cellule}{148}{subsubsection.11.3.9.1}%
+\contentsline {subsubsection}{\numberline {11.3.9.2}Altri strumenti}{148}{subsubsection.11.3.9.2}%
+\contentsline {subsection}{\numberline {11.3.10}Area di lavoro}{148}{subsection.11.3.10}%
+\contentsline {subsubsection}{\numberline {11.3.10.1}Cappa biologica}{148}{subsubsection.11.3.10.1}%
+\contentsline {paragraph}{\numberline {11.3.10.1.1}Utilizzo}{148}{paragraph.11.3.10.1.1}%
+\contentsline {subsubsection}{\numberline {11.3.10.2}Incubatore}{148}{subsubsection.11.3.10.2}%
+\contentsline {subsubsection}{\numberline {11.3.10.3}Contaminazioni}{148}{subsubsection.11.3.10.3}%
+\contentsline {paragraph}{\numberline {11.3.10.3.1}Contaminazioni chimiche}{148}{paragraph.11.3.10.3.1}%
+\contentsline {paragraph}{\numberline {11.3.10.3.2}Contaminazioni biologiche}{149}{paragraph.11.3.10.3.2}%
+\contentsline {paragraph}{\numberline {11.3.10.3.3}Evitare contaminazioni}{149}{paragraph.11.3.10.3.3}%
+\contentsline {subsubsection}{\numberline {11.3.10.4}Norme di sicurezza}{149}{subsubsection.11.3.10.4}%
+\contentsline {subsection}{\numberline {11.3.11}Mantenimento delle cellule}{150}{subsection.11.3.11}%
+\contentsline {subsubsection}{\numberline {11.3.11.1}Controllo delle cellule}{150}{subsubsection.11.3.11.1}%
+\contentsline {subsubsection}{\numberline {11.3.11.2}Rimozione delle cellule - harvesting}{150}{subsubsection.11.3.11.2}%
+\contentsline {paragraph}{\numberline {11.3.11.2.1}Rimozione meccanica}{150}{paragraph.11.3.11.2.1}%
+\contentsline {paragraph}{\numberline {11.3.11.2.2}Rimozione con enzimi proteolitici}{150}{paragraph.11.3.11.2.2}%
+\contentsline {subsection}{\numberline {11.3.12}Esercitazione}{150}{subsection.11.3.12}%
+\contentsline {subsubsection}{\numberline {11.3.12.1}Conta cellulare}{150}{subsubsection.11.3.12.1}%
+\contentsline {paragraph}{\numberline {11.3.12.1.1}Camera di Buerker}{151}{paragraph.11.3.12.1.1}%
+\contentsline {paragraph}{\numberline {11.3.12.1.2}Trypan blue}{151}{paragraph.11.3.12.1.2}%
+\contentsline {subsubsection}{\numberline {11.3.12.2}Preparazione delle colture}{151}{subsubsection.11.3.12.2}%
+\contentsline {section}{\numberline {11.4}Giorno 4 - Colorazione di organelli citoplasmatici}{151}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Fluorescenza}{151}{subsection.11.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.1.1}Fluorocromi}{151}{subsubsection.11.4.1.1}%
+\contentsline {paragraph}{\numberline {11.4.1.1.1}Struttura}{151}{paragraph.11.4.1.1.1}%
+\contentsline {paragraph}{\numberline {11.4.1.1.2}Vantaggi}{151}{paragraph.11.4.1.1.2}%
+\contentsline {paragraph}{\numberline {11.4.1.1.3}Svantaggi}{151}{paragraph.11.4.1.1.3}%
+\contentsline {paragraph}{\numberline {11.4.1.1.4}Photobleaching}{152}{paragraph.11.4.1.1.4}%
+\contentsline {subparagraph}{\numberline {11.4.1.1.4.1}Ridurre il photobleaching}{152}{subparagraph.11.4.1.1.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.1.2}Microscopia a fluorescenza}{152}{subsubsection.11.4.1.2}%
+\contentsline {paragraph}{\numberline {11.4.1.2.1}Struttura del microscopio}{152}{paragraph.11.4.1.2.1}%
+\contentsline {subsection}{\numberline {11.4.2}Scopo dell'esercitazione}{152}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.3}Reticolo endoplasmatico}{152}{subsection.11.4.3}%
+\contentsline {subsubsection}{\numberline {11.4.3.1}Composizione}{152}{subsubsection.11.4.3.1}%
+\contentsline {subsubsection}{\numberline {11.4.3.2}Funzioni}{152}{subsubsection.11.4.3.2}%
+\contentsline {subsubsection}{\numberline {11.4.3.3}ERTracker}{153}{subsubsection.11.4.3.3}%
+\contentsline {subsection}{\numberline {11.4.4}Mitocondri}{153}{subsection.11.4.4}%
+\contentsline {subsubsection}{\numberline {11.4.4.1}Composizione}{153}{subsubsection.11.4.4.1}%
+\contentsline {subsubsection}{\numberline {11.4.4.2}Funzione}{153}{subsubsection.11.4.4.2}%
+\contentsline {subsubsection}{\numberline {11.4.4.3}MitoTracker}{153}{subsubsection.11.4.4.3}%
+\contentsline {subsection}{\numberline {11.4.5}Membrana citoplasmatica}{153}{subsection.11.4.5}%
+\contentsline {subsubsection}{\numberline {11.4.5.1}Wheat germ agglutinin \emph {WGA}}{153}{subsubsection.11.4.5.1}%
+\contentsline {paragraph}{\numberline {11.4.5.1.1}Lectine}{153}{paragraph.11.4.5.1.1}%
+\contentsline {subsection}{\numberline {11.4.6}Citoscheletro}{154}{subsection.11.4.6}%
+\contentsline {subsubsection}{\numberline {11.4.6.1}Composizione}{154}{subsubsection.11.4.6.1}%
+\contentsline {subsubsection}{\numberline {11.4.6.2}Funzioni}{154}{subsubsection.11.4.6.2}%
+\contentsline {subsubsection}{\numberline {11.4.6.3}Falloidina}{154}{subsubsection.11.4.6.3}%
+\contentsline {subsection}{\numberline {11.4.7}Nucleo}{154}{subsection.11.4.7}%
+\contentsline {subsubsection}{\numberline {11.4.7.1}Composizione}{154}{subsubsection.11.4.7.1}%
+\contentsline {subsubsection}{\numberline {11.4.7.2}\emph {DAPI}}{154}{subsubsection.11.4.7.2}%
+\contentsline {subsection}{\numberline {11.4.8}Colorazione vitale}{154}{subsection.11.4.8}%
+\contentsline {subsubsection}{\numberline {11.4.8.1}Fissaggio delle cellule}{154}{subsubsection.11.4.8.1}%
+\contentsline {subsubsection}{\numberline {11.4.8.2}Protocollo}{154}{subsubsection.11.4.8.2}%
+\contentsline {subsubsection}{\numberline {11.4.8.3}Prime colorazioni}{155}{subsubsection.11.4.8.3}%
+\contentsline {subsubsection}{\numberline {11.4.8.4}Permeabilizzazione}{155}{subsubsection.11.4.8.4}%
+\contentsline {subsubsection}{\numberline {11.4.8.5}Colorazioni}{155}{subsubsection.11.4.8.5}%
+\contentsline {subsubsection}{\numberline {11.4.8.6}Sincronizzare le cellule}{155}{subsubsection.11.4.8.6}%
