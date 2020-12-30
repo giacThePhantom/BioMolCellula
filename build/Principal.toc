@@ -693,6 +693,22 @@
 \contentsline {section}{\numberline {7.11}Esempi}{94}{section.7.11}%
 \contentsline {subsection}{\numberline {7.11.1}\emph {GLI3}}{94}{subsection.7.11.1}%
 \contentsline {chapter}{\numberline {8}Membrana}{95}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Funzioni}{95}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Struttura}{95}{section.8.2}%
+\contentsline {subsection}{\numberline {8.2.1}Fase semisolida}{95}{subsection.8.2.1}%
+\contentsline {subsection}{\numberline {8.2.2}Zattere lipidiche}{95}{subsection.8.2.2}%
+\contentsline {subsection}{\numberline {8.2.3}Asimmetria}{95}{subsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.3.1}Apoptosi}{95}{subsubsection.8.2.3.1}%
+\contentsline {section}{\numberline {8.3}Composizione}{96}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Glicolipidi}{96}{subsection.8.3.1}%
+\contentsline {subsubsection}{\numberline {8.3.1.1}Gangliosidi}{96}{subsubsection.8.3.1.1}%
+\contentsline {subsection}{\numberline {8.3.2}Proteine di membrana}{96}{subsection.8.3.2}%
+\contentsline {section}{\numberline {8.4}Passaggio delle sostanze}{96}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Passaggio attivo}{96}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Endocitosi}{96}{subsection.8.4.2}%
+\contentsline {subsubsection}{\numberline {8.4.2.1}Fagocitosi}{96}{subsubsection.8.4.2.1}%
+\contentsline {subsection}{\numberline {8.4.3}Esoticosi}{96}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}Passaggio passivo}{96}{subsection.8.4.4}%
 \contentsline {chapter}{\numberline {9}Organelli}{97}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Trafficking tra nucleo e citoplasma}{99}{section.9.1}%
 \contentsline {subsection}{\numberline {9.1.1}Trasporto in mitocondri e plastidi}{102}{subsection.9.1.1}%
