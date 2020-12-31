@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  31 DEC 2020 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  31 DEC 2020 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,24 +881,24 @@ Capitolo 8.
 Capitolo 9.
 [97
 
-] [98] [99]) (./Chapters/10_Citoscheletro.tex [100]
+] [98] [99] [100]) (./Chapters/10_Citoscheletro.tex [101]
 Capitolo 10.
-[101
+[102
 
-] [102] [103] [104] [105] [106] [107]) (./Chapters/11_Laboratorio.tex
-[108] [109]
+] [103] [104] [105] [106] [107] [108]) (./Chapters/11_Laboratorio.tex
+[109] [110]
 Capitolo 11.
-[110
+[111
 
-] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
-[122] [123] [124] [125] [126] [127] [128] [129] [130]) [131]
+] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
+[123] [124] [125] [126] [127] [128] [129] [130] [131]) [132]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: 79BA22DC062CD1CA7848EBED09F517E1;18461.
  ) 
 Here is how much of TeX's memory you used:
- 17446 strings out of 479383
- 303535 string characters out of 5875829
+ 17449 strings out of 479383
+ 303585 string characters out of 5875829
  681064 words of memory out of 5000000
  33088 multiletter control sequences out of 15000+600000
  428190 words of font info for 82 fonts, out of 8000000 for 9000
@@ -924,10 +924,10 @@ cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm09
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (132 pages, 740140 bytes).
+Output written on ./build/Principal.pdf (133 pages, 742421 bytes).
 PDF statistics:
- 2974 PDF objects out of 2984 (max. 8388607)
- 2790 compressed objects within 28 object streams
- 1166 named destinations out of 1200 (max. 500000)
+ 2981 PDF objects out of 2984 (max. 8388607)
+ 2796 compressed objects within 28 object streams
+ 1169 named destinations out of 1200 (max. 500000)
  2041 words of extra memory for PDF output out of 10000 (max. 10000000)
 
