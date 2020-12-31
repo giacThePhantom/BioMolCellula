@@ -40,11 +40,110 @@ I diversi organelli rendono necessari diversi sistemi per permettere il trasport
 			\paragraph{Proteina cargo}
 			Si intende per proteina cargo una proteina adattatrice che espone \emph{NLS} quando cambia conformazione e viene riconosciuta dall'importina.
 
+			\paragraph{Importo della proteina}
+			Per importare una proteina con \emph{NLS} forma un complesso con l'importina.
+			Questo interagisce con la parte fibrillare del poro nucleare.
+			L'importina interagisce con la matrice creando uno spazio di passaggio spezzando legami: l'importina is lega a \emph{Ran-GTP} cambiando conformazione.
+			Il complesso entra nel nucleo.
+			Avviene un idrolisi in \emph{Ran-GDP} che causa il rilascio dell'importina che viene esportata dal nucleo.
+
+			\paragraph{Esporto}
+			Per esportare una porteina dal nucleo l'esportina lega \emph{Ran-GTP} e il cargo causando l'uscita del complesso.
+			L'idrolisi in \emph{Ran-GDP} causa un cambio conformazionale dell'esportina rilasciando la proteina nel cargo.
+
+			\paragraph{Gradiente di \emph{Ran}}
+			Si nota un gradiente di \emph{Ran-GTP}: questa \`e determinata da \emph{Ran-GAP} che interagiscono con la parte fibrillare delle nucleoporine.
+			Questo garantisce una direzionalit\`a del trasporto in concomitanza con \emph{Ran-GEF}.
+
+			\paragraph{Mascheramento di \emph{NLS}}
+			Una proteina con \emph{NLS} che non localizza nel nucleo possiede modifiche alla sequenza segnale come fosforilazioni.
+	
+				\subparagraph{Sintesi del coleserolo}
+				La molecola \emph{NF-AT} fosforilata \`e disattiva e maschera il \emph{NLS}.
+				Un aumento di calcio attiva la calcineurina, una fosfatasi che rende di nuovo accessibile il \emph{NLS}.
+				Viene portata nel nucleo una \emph{SREBP}, una proteina coinvolta nella sintesi del colesterolo come fattore trascrizionale.
+				Il colesterolo quando presente interagisc con \emph{SCAP}, una proteina legata a \emph{SREBP}.
+				Il complesso in assenza di colesterolo si localizza al Golgi.
+				Qui proteasi tagliano \emph{SREB} liberando un frammento che va ad attivare la trascrizione di geni coinvolti nella sintesi del colesterolo.
+
 
 
 	\subsection{Trasporto in plastidi e mitocondri}
+	Affinch\`e le proteine possano essere riconosciute dai recettori ed importate nei mitocondri devono essere completamente tradotti.
+
+		\subsubsection{Peptide segnale}
+		Il peptide segnale \`e formato da $18$ amminocidi polari e non polari che formano una struttura ad $\alpha$-elica asimmetrica.
+
+		\subsubsection{Traslocazione nel mitocondrio}
+		La traslocazione di una proteina nel mitocondrio richiede due complessi: il complesso \emph{TOM} che media il trasporto dal citoplasma nello spazio tra le membrane e il complesso \emph{TIM} che completa il trasporto nella membrana interna.
+		La proteina possiede il peptide segnale e viene riconosciuta dalla porzione recettoriale del complesso \emph{TOM} e viene forzata ad entrare.
+		Qui incontra il complesso \emph{TIM} che la porta attraverso la membrana interna assieme alla chaperonina \emph{HSP70} (impedisce la formazione di strutture secondarie.
+		In questo secondo passaggio avviene il taglio del peptide segnale.
+		I due copessi possono lavorare in modo indipendente.
+
+			\paragraph{Energia necessaria}
+			L'energia necessaria alla traslocazione viene fornita da:
+			\begin{multicols}{2}
+				\begin{itemize}
+					\item Idrolisi di \emph{ATP} da parte di \emph{TOM}.
+					\item Gradiente elettrochimico su \emph{TIM}.
+				\end{itemize}
+			\end{multicols}
+
+		\subsubsection{Inserimento di una proteina nella matrice tra le membrane}
+		Una proteina che deve rimanere nello spazio tra le due membrane possiede il peptide segnale e una sequenza di stop del trasferimento che blocca il passaggio della proteina verso il citoplasma.
+
+		\subsubsection{Complesso \emph{Oxa}}
+		Il complesso \emph{Oxa} media l'inserzione di proteine nella membrana interna.
+		La proteina attraversa \emph{TIM} dove le viene rimosso il peptide segnale, ma ne contiene un secondo che la indirizza verso il complesso \emph{Oxa}.
+		Questo permette l'ancoraggio della proteina all'interno della membrana interna del mitocondrio.
 
 \section{Perossisomi}
+
+	\subsection{Panoramica}
+	I perossisomi sono vestigia di antichi organelli che svolgevano funzioni nel metabolismo dell'ossigeno.
+
+		\subsubsection{Struttura}
+		I perossisomi sono delimitati da membrana, presentano una forma tondeggiante e inclusioni paracristalline.
+		Contengono diversi enzimi.
+
+		\subsubsection{Funzione}
+		Gli enzimi nei perossisomi permettono:
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item Rimozione di \emph{H} da substrati organici specifici con liberazione di acqua ossigenata trasformata in acqua dalla catalasi.
+				\item Demolizione degli acidi grassi attraverso $\beta$-ossidazione in acetil \emph{CoA}.
+				\item Catalizzano le prime reazioni nella formazione dei plasmalogeni, che formano una guaina che riveste gli assoni.
+				\item Sono presenti nelle cellule vegetali e coinvolti nel ciclo del glicosilato per la conversione degli acidi grassi in zuccheri.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Trasporto}
+	I perossisomi non presentano DNA e pertanto tutte le proteine necessarie al loro comportamento devono essere importate.
+	Il meccanismo di trasporto \`e simile a quello dei mitocondri.
+
+		\subsubsection{Sequenza target}
+		La sequenza target si dice \emph{PLS} ed \`e costituita da \emph{Ser-Lys-Leu} N o C terminale.
+
+		\subsubsection{Riconoscimento della sequenza target}
+		La sequenza target viene riconosciuta dalle perossine o \emph{Pex}.
+		Queste partecipano al processo di importazione.
+		\begin{multicols}{2}
+			\begin{itemize}
+				\item \emph{Pex5}: riconosce una \emph{PLS} C terminale insieme a \emph{Pex1} e la \emph{ATPasi} \emph{Pex6}.
+				\item \emph{Pex7}: riconosce una \emph{PLS} N terminale.
+			\end{itemize}
+		\end{multicols}
+
+	\subsection{Genesi dei perossisomi}
+	I perossisomi si formano da gemmazioni del reticolo endoplasmatico.
+	Questo forma una struttura vescicolare con \emph{Pex3} come proteina transmembrana e \emph{Pex19} ad essa associato.
+	Questi vengono detti protoperossisomi e vengono arricchiti da componenti che causano un loro accrescimento.
+	Possono inoltre andare incontro a fissione.
+
+	\subsection{Sindrome di Zellweger}
+	La sindrome di Zellweger presenta anomalie celebrali, del fegato e reni.
+	Queste sono causate da mutazioni a carico di \emph{Pex5}, non si trova un importo di enzimi con funzioni ossidative.
 
 \section{Reticolo endoplasmatico}
 
