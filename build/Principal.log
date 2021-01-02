@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  2 JAN 2021 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  2 JAN 2021 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,7 +763,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119 ...rutture secondarie}{24}{subsection.2.2.3}
+l.119 ...rutture secondarie}{19}{subsection.2.2.3}
                                                   % [1
 
 ] [2] [3] [4] [5])
@@ -887,26 +887,31 @@ Overfull \hbox (16.71259pt too wide) in paragraph at lines 312--314
 vol-te[] \T1/cmr/m/n/10 La por-zio-ne trans-membrana
  []
 
-) (./Chapters/10_Citoscheletro.tex [104]
+[104]
+Underfull \hbox (badness 5133) in paragraph at lines 385--386
+[]\T1/cmr/m/n/10 Fosfolipidi: co-sti-tuen-ti di ba-se del-la
+ []
+
+[105]) (./Chapters/10_Citoscheletro.tex [106]
 Capitolo 10.
-[105
+[107
 
-] [106] [107] [108] [109] [110] [111]) (./Chapters/11_Laboratorio.tex
-[112] [113]
+] [108] [109] [110] [111] [112] [113]) (./Chapters/11_Laboratorio.tex
+[114] [115]
 Capitolo 11.
-[114
+[116
 
-] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
-[126] [127] [128] [129] [130] [131] [132] [133] [134]) [135]
+] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127]
+[128] [129] [130] [131] [132] [133] [134] [135] [136]) [137]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 907B61B585A46135F6AD22AADFCE67D5;18543.
+(rerunfilecheck)             Checksum: 60F304492375B098A901B50575F0CB07;18871.
  ) 
 Here is how much of TeX's memory you used:
- 17490 strings out of 479383
- 304232 string characters out of 5875829
- 681163 words of memory out of 5000000
- 33089 multiletter control sequences out of 15000+600000
+ 17527 strings out of 479383
+ 304743 string characters out of 5875829
+ 681032 words of memory out of 5000000
+ 33093 multiletter control sequences out of 15000+600000
  428190 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,372b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -930,10 +935,10 @@ cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm09
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (136 pages, 751460 bytes).
+Output written on ./build/Principal.pdf (138 pages, 758754 bytes).
 PDF statistics:
- 3043 PDF objects out of 3580 (max. 8388607)
- 2854 compressed objects within 29 object streams
- 1209 named destinations out of 1440 (max. 500000)
- 2049 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3105 PDF objects out of 3580 (max. 8388607)
+ 2913 compressed objects within 30 object streams
+ 1242 named destinations out of 1440 (max. 500000)
+ 2081 words of extra memory for PDF output out of 10000 (max. 10000000)
 
