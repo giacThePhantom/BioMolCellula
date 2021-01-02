@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  31 DEC 2020 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  2 JAN 2021 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,26 +881,32 @@ Capitolo 8.
 Capitolo 9.
 [97
 
-] [98] [99] [100]) (./Chapters/10_Citoscheletro.tex [101]
+] [98] [99] [100] [101] [102] [103]
+Overfull \hbox (16.71259pt too wide) in paragraph at lines 312--314
+ \T1/cmr/bx/n/10 9.4.3.3.1.2 Pro-tei-ne che at-tra-ver-sa-no la mem-bra-na più 
+vol-te[] \T1/cmr/m/n/10 La por-zio-ne trans-membrana
+ []
+
+) (./Chapters/10_Citoscheletro.tex [104]
 Capitolo 10.
-[102
+[105
 
-] [103] [104] [105] [106] [107] [108]) (./Chapters/11_Laboratorio.tex
-[109] [110]
+] [106] [107] [108] [109] [110] [111]) (./Chapters/11_Laboratorio.tex
+[112] [113]
 Capitolo 11.
-[111
+[114
 
-] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122]
-[123] [124] [125] [126] [127] [128] [129] [130] [131]) [132]
+] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125]
+[126] [127] [128] [129] [130] [131] [132] [133] [134]) [135]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 79BA22DC062CD1CA7848EBED09F517E1;18461.
+(rerunfilecheck)             Checksum: 907B61B585A46135F6AD22AADFCE67D5;18543.
  ) 
 Here is how much of TeX's memory you used:
- 17449 strings out of 479383
- 303585 string characters out of 5875829
- 681064 words of memory out of 5000000
- 33088 multiletter control sequences out of 15000+600000
+ 17490 strings out of 479383
+ 304232 string characters out of 5875829
+ 681163 words of memory out of 5000000
+ 33089 multiletter control sequences out of 15000+600000
  428190 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,372b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -924,10 +930,10 @@ cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm09
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (133 pages, 742421 bytes).
+Output written on ./build/Principal.pdf (136 pages, 751460 bytes).
 PDF statistics:
- 2981 PDF objects out of 2984 (max. 8388607)
- 2796 compressed objects within 28 object streams
- 1169 named destinations out of 1200 (max. 500000)
- 2041 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3043 PDF objects out of 3580 (max. 8388607)
+ 2854 compressed objects within 29 object streams
+ 1209 named destinations out of 1440 (max. 500000)
+ 2049 words of extra memory for PDF output out of 10000 (max. 10000000)
 
