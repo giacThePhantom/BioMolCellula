@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 02:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 19:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,33 +763,33 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119 ...rutture secondarie}{25}{subsection.2.2.3}
+l.119 ...rutture secondarie}{19}{subsection.2.2.3}
                                                   % [1
 
 ] [2] [3] [4] [5]
-[6])
+[6] [7])
 \tf@toc=\write4
- (./Chapters/01_Introduzione.tex [7]
+ (./Chapters/01_Introduzione.tex [8]
 Capitolo 1.
-[8
+[9
 
-] [9] [10] [11] [12] [13] [14] [15] [16] [17]) (./Chapters/02_DNARNA.tex
-[18] [19]
+] [10] [11] [12] [13] [14] [15] [16] [17] [18]) (./Chapters/02_DNARNA.tex
+[19] [20]
 Capitolo 2.
-[20
+[21
 
-] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33])
-(./Chapters/03_Replicazione.tex [34] [35]
+] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34])
+(./Chapters/03_Replicazione.tex [35] [36]
 Capitolo 3.
-[36
+[37
 
-] [37] [38] [39]
+] [38] [39] [40]
 Underfull \hbox (badness 6173) in paragraph at lines 182--183
 []\T1/cmr/m/n/10 Tratto ric-co di $\OML/cmm/m/it/10 A$\T1/cmr/m/n/10 -$\OML/cmm
 /m/it/10 T$ \T1/cmr/m/n/10 per fa-ci-li-tà di
  []
 
-[40] [41]
+[41] [42]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 259.
@@ -798,120 +798,138 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 259.
 
-[42] [43] [44] [45] [46]
+[43] [44] [45] [46] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 467--468
 []\T1/cmr/m/n/10 Il mi-to-con-drio con-tie-ne DNA extra-
  []
 
-[47]) (./Chapters/04_Trascrizione.tex [48]
+[48]) (./Chapters/04_Trascrizione.tex [49]
 Capitolo 4.
-[49
+[50
 
-] [50] [51] [52] [53] [54] [55] [56]
+] [51] [52] [53] [54] [55] [56] [57]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 22.48724pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[57] [58]
+[58] [59]
 Overfull \hbox (7.3667pt too wide) in paragraph at lines 493--495
 \T1/cmr/m/n/10 Il ri-co-no-sci-men-to del-la ba-se me-ti-la-ta av-vie-ne gra-zi
 e al cap-binding com-plex for-ma-to da \T1/cmr/m/it/10 CBP20+CBP80
  []
 
-[59] [60] [61]
+[60] [61] [62]
 Overfull \vbox (3.14812pt too high) has occurred while \output is active []
 
 
-[62]
+[63]
 Underfull \hbox (badness 6725) in paragraph at lines 672--673
 []\T1/cmr/m/it/10 U2AF35\T1/cmr/m/n/10 : ri-co-no-sce la zo-na di
  []
 
-[63]
+[64]
 Underfull \hbox (badness 5119) in paragraph at lines 742--743
 []\T1/cmr/m/n/10 Aumenta la va-rai-bi-li-tà del-l'e-spres-sio-ne
  []
 
-[64]) (./Chapters/05_TrasportoLocalizzazioneRNA.tex [65]
+[65]) (./Chapters/05_TrasportoLocalizzazioneRNA.tex [66]
 Capitolo 5.
-[66
+[67
 
 ]
 Underfull \hbox (badness 6775) in paragraph at lines 29--30
 []\T1/cmr/m/it/10 Are\T1/cmr/m/n/10 : ac-ti-vi-ty re-ge-la-ted cytoskeleton-
  []
 
-[67]) (./Chapters/06_Traduzione.tex [68]
+[68]) (./Chapters/06_Traduzione.tex [69]
 Capitolo 6.
-[69
+[70
 
-] [70] [71]
+] [71] [72]
 Underfull \hbox (badness 10000) in paragraph at lines 194--195
 []\T1/cmr/m/n/10 Si for-ma il com-ples-so $\OT1/cmr/m/n/10 43\OML/cmm/m/it/10 S
 $ \T1/cmr/m/n/10 con
  []
 
-[72] [73]) (./Chapters/07_SegnalazioneCellulare.tex [74]
+[73] [74]) (./Chapters/07_SegnalazioneCellulare.tex [75]
 Capitolo 7.
-[75
+[76
 
-] [76] [77] [78] [79] [80] [81]
+] [77] [78] [79] [80] [81] [82]
 Underfull \hbox (badness 6364) in paragraph at lines 338--339
 []\T1/cmr/m/n/10 Produzione di pro-tei-ne ini-bi-to-rie che
  []
 
-[82] [83] [84] [85] [86] [87] [88]
+[83] [84] [85] [86] [87] [88] [89]
 Underfull \hbox (badness 6675) in paragraph at lines 651--651
  \T1/cmr/bx/n/10 7.9.4.1.2 Tra-smis-sio-ne del se-gna-le al
  []
 
-[89] [90] [91]
+[90] [91] [92]
 Underfull \hbox (badness 5681) in paragraph at lines 801--802
 []\T1/cmr/m/n/10 La mio-si-na le-ga \T1/cmr/m/it/10 ATP \T1/cmr/m/n/10 e si dis
 -so-cia
  []
 
-[92] [93] [94]) (./Chapters/08_Membrana.tex [95]
+[93] [94] [95]) (./Chapters/08_Membrana.tex [96]
 Capitolo 8.
-[96
+[97
 
-]) (./Chapters/09_Organelli.tex [97]
+]) (./Chapters/09_Organelli.tex [98]
 Capitolo 9.
-[98
+[99
 
-] [99] [100] [101] [102] [103] [104]
+] [100] [101] [102] [103] [104] [105]
 Overfull \hbox (16.71259pt too wide) in paragraph at lines 312--314
  \T1/cmr/bx/n/10 9.4.3.3.1.2 Pro-tei-ne che at-tra-ver-sa-no la mem-bra-na più 
 vol-te[] \T1/cmr/m/n/10 La por-zio-ne trans-membrana
  []
 
-[105]
+[106]
 Underfull \hbox (badness 5133) in paragraph at lines 385--386
 []\T1/cmr/m/n/10 Fosfolipidi: co-sti-tuen-ti di ba-se del-la
  []
 
-[106] [107] [108] [109] [110] [111] [112] [113] [114] [115])
-(./Chapters/10_Citoscheletro.tex [116]
+[107] [108] [109] [110] [111] [112] [113] [114] [115] [116])
+(./Chapters/10_Citoscheletro.tex [117]
 Capitolo 10.
-[117
+[118
 
-] [118] [119] [120]) (./Chapters/11_Laboratorio.tex
+] [119] [120] [121] [122] [123] [124] [125] [126]
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+[]\T1/cmr/m/n/10 Il re-cet-to-re re-clu-ta \T1/cmr/m/it/10 WA-SP/-SCAR \T1/cmr/
+m/n/10 e
+ []
+
+[127]
+Underfull \hbox (badness 6284) in paragraph at lines 498--499
+\T1/cmr/m/n/10 so-ste-gno al-le strut-tu-re ci-to-sche-le-tri-che
+ []
+
+[128] [129] [130]
+Overfull \vbox (2.70172pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (8.70172pt too high) has occurred while \output is active []
+
+
+[131] [132] [133]) (./Chapters/11_Laboratorio.tex [134]
 Capitolo 11.
-[121
+[135
 
-] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132]
-[133] [134] [135] [136] [137] [138] [139] [140] [141]) [142]
+] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146]
+[147] [148] [149] [150] [151] [152] [153] [154] [155]) [156]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: 667352B22DA779897A8AA78725CB3B41;21863.
+(rerunfilecheck)             Checksum: 1EB99DB47F18DE6F2498544C8D4F95EF;23633.
  ) 
 Here is how much of TeX's memory you used:
- 17678 strings out of 479383
- 307354 string characters out of 5875829
- 651872 words of memory out of 5000000
- 33131 multiletter control sequences out of 15000+600000
+ 17824 strings out of 479383
+ 310010 string characters out of 5875829
+ 651879 words of memory out of 5000000
+ 33156 multiletter control sequences out of 15000+600000
  428190 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,372b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -935,10 +953,10 @@ cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm09
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (143 pages, 766373 bytes).
+Output written on ./build/Principal.pdf (157 pages, 804291 bytes).
 PDF statistics:
- 3414 PDF objects out of 3580 (max. 8388607)
- 3214 compressed objects within 33 object streams
- 1355 named destinations out of 1440 (max. 500000)
- 2385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3702 PDF objects out of 4296 (max. 8388607)
+ 3486 compressed objects within 35 object streams
+ 1476 named destinations out of 1728 (max. 500000)
+ 2577 words of extra memory for PDF output out of 10000 (max. 10000000)
 
