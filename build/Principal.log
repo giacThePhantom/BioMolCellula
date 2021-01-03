@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 00:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2020.12.23)  3 JAN 2021 02:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,7 +763,7 @@ eX warning (ext4): destination with the same identifier (name{page.1}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.119 ...rutture secondarie}{19}{subsection.2.2.3}
+l.119 ...rutture secondarie}{25}{subsection.2.2.3}
                                                   % [1
 
 ] [2] [3] [4] [5]
@@ -897,22 +897,21 @@ Underfull \hbox (badness 5133) in paragraph at lines 385--386
 Capitolo 10.
 [117
 
-] [118] [119] [120] [121] [122] [123]) (./Chapters/11_Laboratorio.tex
-[124] [125]
+] [118] [119] [120]) (./Chapters/11_Laboratorio.tex
 Capitolo 11.
-[126
+[121
 
-] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137]
-[138] [139] [140] [141] [142] [143] [144] [145] [146]) [147]
+] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132]
+[133] [134] [135] [136] [137] [138] [139] [140] [141]) [142]
 (./build/Principal.aux)
 Package rerunfilecheck Info: File `Principal.out' has not changed.
-(rerunfilecheck)             Checksum: BD41B00F9CD72BB16CCE8FD143C11E0F;21458.
+(rerunfilecheck)             Checksum: 667352B22DA779897A8AA78725CB3B41;21863.
  ) 
 Here is how much of TeX's memory you used:
- 17656 strings out of 479383
- 306865 string characters out of 5875829
- 681077 words of memory out of 5000000
- 33126 multiletter control sequences out of 15000+600000
+ 17678 strings out of 479383
+ 307354 string characters out of 5875829
+ 651872 words of memory out of 5000000
+ 33131 multiletter control sequences out of 15000+600000
  428190 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,16n,87p,372b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -936,10 +935,10 @@ cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm09
 00.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/sh
 are/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/
 fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (148 pages, 787516 bytes).
+Output written on ./build/Principal.pdf (143 pages, 766373 bytes).
 PDF statistics:
- 3390 PDF objects out of 3580 (max. 8388607)
- 3186 compressed objects within 32 object streams
- 1338 named destinations out of 1440 (max. 500000)
- 2345 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3414 PDF objects out of 3580 (max. 8388607)
+ 3214 compressed objects within 33 object streams
+ 1355 named destinations out of 1440 (max. 500000)
+ 2385 words of extra memory for PDF output out of 10000 (max. 10000000)
 
