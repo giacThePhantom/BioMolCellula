@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  6 JAN 2021 17:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  7 JAN 2021 23:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,14 +1084,14 @@ Underfull \hbox (badness 6173) in paragraph at lines 182--183
 [40] [41]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 259.
+(hyperref)                removing `math shift' on input line 260.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 259.
+(hyperref)                removing `math shift' on input line 260.
 
 [42] [43] [44] [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
 []\T1/cmr/m/n/10 Il mi-to-con-drio con-tie-ne DNA extra-
  []
 
@@ -1107,7 +1107,7 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [57] [58]
-Overfull \hbox (7.3667pt too wide) in paragraph at lines 493--495
+Overfull \hbox (7.3667pt too wide) in paragraph at lines 491--493
 \T1/cmr/m/n/10 Il ri-co-no-sci-men-to del-la ba-se me-ti-la-ta av-vie-ne gra-zi
 e al cap-binding com-plex for-ma-to da \T1/cmr/m/it/10 CBP20+CBP80
  []
@@ -1117,12 +1117,12 @@ Overfull \vbox (3.14812pt too high) has occurred while \output is active []
 
 
 [62]
-Underfull \hbox (badness 6725) in paragraph at lines 672--673
+Underfull \hbox (badness 6725) in paragraph at lines 670--671
 []\T1/cmr/m/it/10 U2AF35\T1/cmr/m/n/10 : ri-co-no-sce la zo-na di
  []
 
 [63]
-Underfull \hbox (badness 5119) in paragraph at lines 742--743
+Underfull \hbox (badness 5119) in paragraph at lines 740--741
 []\T1/cmr/m/n/10 Aumenta la va-rai-bi-li-tà del-l'e-spres-sio-ne
  []
 
@@ -1224,8 +1224,8 @@ Package rerunfilecheck Info: File `Principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 26986 strings out of 492615
- 485201 string characters out of 6131390
+ 26984 strings out of 492615
+ 485164 string characters out of 6131390
  562906 words of memory out of 5000000
  29133 multiletter control sequences out of 15000+600000
  556912 words of font info for 79 fonts, out of 8000000 for 9000
@@ -1251,10 +1251,10 @@ lic/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (157 pages, 809879 bytes).
+Output written on ./build/Principal.pdf (157 pages, 810268 bytes).
 PDF statistics:
- 3729 PDF objects out of 4296 (max. 8388607)
- 3512 compressed objects within 36 object streams
- 1494 named destinations out of 1728 (max. 500000)
+ 3727 PDF objects out of 4296 (max. 8388607)
+ 3510 compressed objects within 36 object streams
+ 1492 named destinations out of 1728 (max. 500000)
  2585 words of extra memory for PDF output out of 10000 (max. 10000000)
 
