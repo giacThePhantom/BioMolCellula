@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  9 JAN 2021 11:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2020.9.15)  9 JAN 2021 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1174,13 +1174,13 @@ Capitolo 9.
 [100
 
 ] [101] [102] [103] [104] [105] [106]
-Overfull \hbox (16.71259pt too wide) in paragraph at lines 312--314
+Overfull \hbox (16.71259pt too wide) in paragraph at lines 315--317
  \T1/cmr/bx/n/10 9.4.3.3.1.2 Pro-tei-ne che at-tra-ver-sa-no la mem-bra-na più 
 vol-te[] \T1/cmr/m/n/10 La por-zio-ne trans-membrana
  []
 
 [107]
-Underfull \hbox (badness 5133) in paragraph at lines 385--386
+Underfull \hbox (badness 5133) in paragraph at lines 388--389
 []\T1/cmr/m/n/10 Fosfolipidi: co-sti-tuen-ti di ba-se del-la
  []
 
@@ -1251,7 +1251,7 @@ lic/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
 0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/te
 xmf/fonts/type1/public/cm-super/sfti0700.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfti1000.pfb>
-Output written on ./build/Principal.pdf (159 pages, 812537 bytes).
+Output written on ./build/Principal.pdf (159 pages, 812654 bytes).
 PDF statistics:
  3749 PDF objects out of 4296 (max. 8388607)
  3530 compressed objects within 36 object streams
