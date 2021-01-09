@@ -947,7 +947,7 @@
 \contentsline {subsubsection}{\numberline {10.3.3.5}Nestine}{130}{subsubsection.10.3.3.5}% 
 \contentsline {subsection}{\numberline {10.3.4}Polimerizzazione}{130}{subsection.10.3.4}% 
 \contentsline {subsection}{\numberline {10.3.5}Dimensioni}{130}{subsection.10.3.5}% 
-\contentsline {subsection}{\numberline {10.3.6}Asseblaggio}{130}{subsection.10.3.6}% 
+\contentsline {subsection}{\numberline {10.3.6}Assemblaggio}{130}{subsection.10.3.6}% 
 \contentsline {subsection}{\numberline {10.3.7}Organizzazione intracellulare}{130}{subsection.10.3.7}% 
 \contentsline {subsubsection}{\numberline {10.3.7.1}Contatto}{130}{subsubsection.10.3.7.1}% 
 \contentsline {subsubsection}{\numberline {10.3.7.2}Emodesmosoma}{130}{subsubsection.10.3.7.2}% 
